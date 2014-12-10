@@ -1,0 +1,5569 @@
+hello
+ACObject initialized
+checking legality of connPing call: 
+dev file: 
+/dev/ttyACM0
+initiating ping
+qgetthread initiated
+QueueScanner stalemax: 0.01
+qputthread initiated
+connFunc initiated
+connFunc returned object !=-1: 
+Serial<id=0x38dc210, open=True>(port='/dev/ttyACM0', baudrate=115200, bytesize=8, parity='N', stopbits=1, timeout=30, xonxoff=False, rtscts=False, dsrdtr=False)
+ abstractbutton clicked, UpdateColors pyqtSlot
+<class 'serial.serialposix.Serial'>
+ ColorThread inited
+serconn.inWaiting !=Empty. Connected to Arduino
+msg type
+<type 'str'>
+length=1
+0: a
+over
+firstMsg
+a
+a
+'a'
+sending 'p' to Arduino: try #
+1
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread running
+ColorThread inited
+connindex= 2
+ColorThread running
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['y']
+self.acqStatuses: 
+['r']
+connindex= 2
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['y']
+self.acqStatuses: 
+['r']
+nonread
+100
+nonread
+200
+nonread
+300
+sr=0
+sr=1
+sr=2
+sr=3
+sent line to AppWindow
+['a', '0', '\r', '\n']
+datamode? False
+newstr, 1.65235710144	['a', '0', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+1	1.65235710144	['a', '0', '\r', '\n']
+nonread
+400
+nonread
+500
+nonread
+600
+sr=4
+sr=5
+sr=6
+sr=7
+sreads = 8
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+++++++++
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+datamode? False
+newstr, 2.656291008	['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+2	2.656291008	['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+nonread
+700
+nonread
+800
+sr=8
+sr=9
+sr=10
+sr=11
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+datamode? False
+newstr, 3.65412902832	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+3	3.65412902832	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+nonread
+900
+nonread
+1000
+nonread
+1100
+sr=12
+sr=13
+sr=14
+sr=15
+sreads = 16
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+++++++++
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+datamode? False
+newstr, 4.6550450325	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+4	4.6550450325	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+nonread
+1200
+nonread
+1300
+sr=16
+sr=17
+sr=18
+sr=19
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+datamode? False
+newstr, 5.65624403954	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+5	5.65624403954	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+nonread
+1400
+nonread
+1500
+sr=20
+final blankstring
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n', 'a']
+final sreads
+21
++++++
+sending 'p' to Arduino: try #
+2
+sr=0
+sr=1
+sr=2
+sent line to AppWindow
+['a', '0', '\r']
+datamode? False
+newstr, 6.67648005486	['a', '0', '\r']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+6	6.67648005486	['a', '0', '\r']
+nonread
+100
+nonread
+200
+sr=3
+charstart found! at 4
+sent line to AppWindow
+r
+ abstractbutton clicked, UpdateColors pyqtSlot
+datamode? False
+final blankstring
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n', 'a', '5', '\r', '\n', 'r']
+final sreads
+4
++++++
+Entering ReadSomeVals loop
+newstr, 7.65275001526	r
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+updateConsole called, msg=: ColorThread running
+
+7	7.65275001526	r
+connindex= 3
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['r']
+0:  p
+@1.01121306419
+--------------
+sent line to AppWindow
+p
+
+datamode? False
+newstr, 8.66437911987	p
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+8	8.66437911987	p
+
+1:  comst
+@1.04093694687
+--------------
+sent line to AppWindow
+comst
+
+datamode? False
+newstr, 8.69410014153	comst
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+9	8.69410014153	comst
+
+2:  -1
+@1.05800008774
+--------------
+sent line to AppWindow
+-1
+
+datamode? False
+newstr, 8.71117401123	-1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+10	8.71117401123	-1
+
+3:  l
+@1.07077908516
+--------------
+sent line to AppWindow
+l
+
+datamode? False
+newstr, 8.72394299507	l
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+11	8.72394299507	l
+
+4:  t0
+@1.08778691292
+--------------
+sent line to AppWindow
+t0
+
+datamode? False
+newstr, 8.74095010757	t0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+12	8.74095010757	t0
+
+5:  t1
+@1.10469293594
+--------------
+sent line to AppWindow
+t1
+
+datamode? False
+newstr, 8.75786614418	t1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+13	8.75786614418	t1
+
+6:  t2
+@1.12180495262
+--------------
+sent line to AppWindow
+t2
+
+datamode? False
+newstr, 8.77498006821	t2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+14	8.77498006821	t2
+
+7:  t3
+@1.13890099525
+--------------
+sent line to AppWindow
+t3
+
+datamode? False
+newstr, 8.79207611084	t3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+15	8.79207611084	t3
+
+8:  t4
+@1.15596604347
+--------------
+sent line to AppWindow
+t4
+
+datamode? False
+newstr, 8.80914211273	t4
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+16	8.80914211273	t4
+
+read termed by Arduino with signal x
+self.qputthread reports ACGUILib connFunc returned
+checking legality of AcqRequest call
+AcqRequest legally initiated
+Acq-requestString to Arduino:
+b160,s,5.0E1r,g
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+ColorThread running
+connindex= 3
+acqindex= 1
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['o']
+qputthread catches an AcqRequest
+b160,s,5.0E1r,g
+ACGuiLib.reqAcq data called, sending reqString to Arduino
+Entering ReadSomeVals loop
+0:  
+@0.00441288948059
+--------------
+sent line to AppWindow
+
+
+datamode? False
+newstr, 33.6402211189	
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+17	33.6402211189	
+
+1:  b160,s,5.0E1r,g
+@1.07978105545
+--------------
+sent line to AppWindow
+b160,s,5.0E1r,g
+
+datamode? False
+abstractbutton clicked, UpdateColors pyqtSlot
+newstr, 34.7156641483	b160,s,5.0E1r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+updateConsole called, msg=: 
+18	34.7156641483	b160,s,5.0E1r,g
+
+ColorThread running
+connindex= 3
+acqindex= 2
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['y']
+2:  comst
+@1.10975408554
+--------------
+sent line to AppWindow
+comst
+
+datamode? False
+newstr, 34.7455661297	comst
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+19	34.7455661297	comst
+
+3:  4
+@1.12285995483
+--------------
+sent line to AppWindow
+4
+
+datamode? False
+newstr, 34.7586681843	4
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+20	34.7586681843	4
+
+4:  b
+@1.13598799706
+--------------
+sent line to AppWindow
+b
+
+datamode? False
+newstr, 34.7718000412	b
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+21	34.7718000412	b
+
+5:  iter
+@1.16203093529
+--------------
+sent line to AppWindow
+iter
+
+datamode? False
+newstr, 34.7978351116	iter
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+22	34.7978351116	iter
+
+6:  0
+@1.1750369072
+--------------
+sent line to AppWindow
+0
+
+datamode? False
+newstr, 34.8108530045	0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+23	34.8108530045	0
+
+7:  inString
+@1.21832489967
+--------------
+sent line to AppWindow
+inString
+
+datamode? False
+newstr, 34.8541281223	inString
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+24	34.8541281223	inString
+
+8:  b160,s,5.0E1r,g
+@1.29123210907
+--------------
+sent line to AppWindow
+b160,s,5.0E1r,g
+
+datamode? False
+newstr, 34.9270420074	b160,s,5.0E1r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+25	34.9270420074	b160,s,5.0E1r,g
+
+9:  comloc
+@1.32520294189
+--------------
+sent line to AppWindow
+comloc
+
+datamode? False
+newstr, 34.9610080719	comloc
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+26	34.9610080719	comloc
+
+10:  4
+@1.338078022
+--------------
+sent line to AppWindow
+4
+
+datamode? False
+newstr, 34.9739191532	4
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+27	34.9739191532	4
+
+11:  news
+@1.36379504204
+--------------
+sent line to AppWindow
+news
+
+datamode? False
+newstr, 34.9995980263	news
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+28	34.9995980263	news
+
+12:  s,5.0E1r,g
+@1.41525793076
+--------------
+sent line to AppWindow
+s,5.0E1r,g
+
+datamode? False
+newstr, 35.0510640144	s,5.0E1r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+29	35.0510640144	s,5.0E1r,g
+
+13:  iter
+@1.44104909897
+--------------
+sent line to AppWindow
+iter
+
+datamode? False
+newstr, 35.07685709	iter
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+30	35.07685709	iter
+
+14:  1
+@1.45423007011
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 35.090034008	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+31	35.090034008	1
+
+15:  inString
+@1.49736905098
+--------------
+sent line to AppWindow
+inString
+
+datamode? False
+newstr, 35.1331851482	inString
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+32	35.1331851482	inString
+
+16:  s,5.0E1r,g
+@1.54856610298
+--------------
+sent line to AppWindow
+s,5.0E1r,g
+
+datamode? False
+newstr, 35.1843760014	s,5.0E1r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+33	35.1843760014	s,5.0E1r,g
+
+17:  comloc
+@1.58263897896
+--------------
+sent line to AppWindow
+comloc
+
+datamode? False
+newstr, 35.2184419632	comloc
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+34	35.2184419632	comloc
+
+18:  1
+@1.5955889225
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 35.2313930988	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+35	35.2313930988	1
+
+19:  news
+@1.62111210823
+--------------
+sent line to AppWindow
+news
+
+datamode? False
+newstr, 35.2569229603	news
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+36	35.2569229603	news
+
+20:  5.0E1r,g
+@1.6632270813
+--------------
+sent line to AppWindow
+5.0E1r,g
+
+datamode? False
+newstr, 35.2990260124	5.0E1r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+37	35.2990260124	5.0E1r,g
+
+21:  iter
+@1.68875193596
+--------------
+sent line to AppWindow
+iter
+
+datamode? False
+newstr, 35.3245651722	iter
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+38	35.3245651722	iter
+
+22:  2
+@1.70169711113
+--------------
+sent line to AppWindow
+2
+
+datamode? False
+newstr, 35.3375060558	2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+39	35.3375060558	2
+
+23:  inString
+@1.7444870472
+--------------
+sent line to AppWindow
+inString
+
+datamode? False
+newstr, 35.3802900314	inString
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+40	35.3802900314	inString
+
+24:  5.0E1r,g
+@1.78716397285
+--------------
+sent line to AppWindow
+5.0E1r,g
+
+datamode? False
+newstr, 35.4229719639	5.0E1r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+41	35.4229719639	5.0E1r,g
+
+25:  comloc
+@1.82174491882
+--------------
+sent line to AppWindow
+comloc
+
+datamode? False
+newstr, 35.4575510025	comloc
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+42	35.4575510025	comloc
+
+26:  6
+@1.83489489555
+--------------
+sent line to AppWindow
+6
+
+datamode? False
+newstr, 35.4707360268	6
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+43	35.4707360268	6
+
+27:  news
+@1.86090803146
+--------------
+sent line to AppWindow
+news
+
+datamode? False
+newstr, 35.496710062	news
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+44	35.496710062	news
+
+28:  g
+@1.87418889999
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 35.5099930763	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+45	35.5099930763	g
+
+29:  iter
+@1.89981389046
+--------------
+sent line to AppWindow
+iter
+
+datamode? Falsenewstr, 35.5356190205	iter
+
+init Qthread to update lTextBox
+
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+46	35.5356190205	iter
+
+30:  3
+@1.91287994385
+--------------
+sent line to AppWindow
+3
+
+datamode? False
+newstr, 35.5486841202	3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+47	35.5486841202	3
+
+31:  inString
+@1.95564508438
+--------------
+sent line to AppWindow
+inString
+
+datamode? False
+newstr, 35.5914540291	inString
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+48	35.5914540291	inString
+
+32:  g
+@1.96856689453
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 35.6043710709	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+49	35.6043710709	g
+
+33:  comloc
+@2.0028090477
+--------------
+sent line to AppWindow
+comloc
+
+datamode? False
+newstr, 35.6386151314	comloc
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+50	35.6386151314	comloc
+
+34:  -1
+@2.01980805397
+--------------
+sent line to AppWindow
+-1
+
+datamode? False
+newstr, 35.6556141376	-1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+51	35.6556141376	-1
+
+35:  news
+@2.04512691498
+--------------
+sent line to AppWindow
+news
+
+datamode? False
+newstr, 35.6809380054	news
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+52	35.6809380054	news
+
+36:  g
+@2.0583050251
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 35.6941111088	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+53	35.6941111088	g
+
+37:  u0
+@2.0757598877
+--------------
+sent line to AppWindow
+u0
+
+datamode? False
+newstr, 35.7115631104	u0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+54	35.7115631104	u0
+
+38:  b160
+@2.10148906708
+--------------
+sent line to AppWindow
+b160
+
+datamode? False
+newstr, 35.7372889519	b160
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+55	35.7372889519	b160
+
+39:  u1
+@2.11888504028
+--------------
+sent line to AppWindow
+u1
+
+datamode? False
+newstr, 35.7547171116	u1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+56	35.7547171116	u1
+
+40:  s
+@2.13200807571
+--------------
+sent line to AppWindow
+s
+
+datamode? False
+newstr, 35.7678341866	s
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+57	35.7678341866	s
+
+41:  u2
+@2.14904308319
+--------------
+sent line to AppWindow
+u2
+
+datamode? False
+newstr, 35.7848491669	u2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+58	35.7848491669	u2
+
+42:  5.0E1r
+@2.18326091766
+--------------
+sent line to AppWindow
+5.0E1r
+
+datamode? False
+newstr, 35.8190660477	5.0E1r
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+59	35.8190660477	5.0E1r
+
+43:  u3
+@2.20072007179
+--------------
+sent line to AppWindow
+u3
+
+datamode? False
+newstr, 35.8365330696	u3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+60	35.8365330696	u3
+
+44:  g
+@2.21378993988
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 35.8496031761	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+61	35.8496031761	g
+
+45:  burstmode
+@2.26088190079
+--------------
+sent line to AppWindow
+burstmode
+
+datamode? False
+newstr, 35.8966941833	burstmode
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+62	35.8966941833	burstmode
+
+46:  1
+@2.27405810356
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 35.9098770618	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+63	35.9098770618	1
+
+47:  burstnum
+@2.31682491302
+--------------
+sent line to AppWindow
+burstnum
+
+datamode? False
+newstr, 35.9526281357	burstnum
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+64	35.9526281357	burstnum
+
+48:  160
+@2.33855891228
+--------------
+sent line to AppWindow
+160
+
+datamode? False
+newstr, 35.974364996	160
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+65	35.974364996	160
+
+49:  sendclock
+@2.38598203659
+--------------
+sent line to AppWindow
+sendclock
+
+datamode? False
+newstr, 36.0217850208	sendclock
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+66	36.0217850208	sendclock
+
+50:  1
+@2.39904499054
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 36.0348801613	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+67	36.0348801613	1
+
+51:  ratebool
+@2.44181394577
+--------------
+sent line to AppWindow
+ratebool
+
+datamode? False
+newstr, 36.0776171684	ratebool
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+68	36.0776171684	ratebool
+
+52:  1
+@2.4546790123
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 36.0904841423	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+69	36.0904841423	1
+
+53:  ratems
+@2.48879289627
+--------------
+sent line to AppWindow
+ratems
+
+datamode? False
+newstr, 36.1245939732	ratems
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+70	36.1245939732	ratems
+
+54:  50.000 l
+@2.53119802475
+--------------
+sent line to AppWindow
+50.000 l
+
+datamode? False
+newstr, 36.1670000553	50.000 l
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+71	36.1670000553	50.000 l
+
+55:  delbool
+@2.56919789314
+--------------
+sent line to AppWindow
+delbool
+
+datamode? False
+newstr, 36.2050001621	delbool
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+72	36.2050001621	delbool
+
+56:  0
+@2.58205509186
+--------------
+sent line to AppWindow
+0
+
+datamode? False
+newstr, 36.2178630829	0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+73	36.2178630829	0
+
+57:  delms
+@2.61194396019
+--------------
+sent line to AppWindow
+delms
+
+datamode? False
+newstr, 36.2477500439	delms
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+74	36.2477500439	delms
+
+58:  0.000 l 
+@2.65459609032
+--------------
+sent line to AppWindow
+0.000 l 
+
+datamode? False
+newstr, 36.290405035	0.000 l 
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+75	36.290405035	0.000 l 
+
+59:  gostring
+@2.69714689255
+--------------
+sent line to AppWindow
+gostring
+
+datamode? False
+newstr, 36.3329491615	gostring
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+76	36.3329491615	gostring
+
+60:  g
+@2.71001005173
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 36.3458151817	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+77	36.3458151817	g
+
+61:  y
+@2.7229039669
+--------------
+y found! acqGreened->True
+sent line to AppWindow
+y
+
+datamode? False
+newstr, 36.3588120937	y
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+78	36.3588120937	y
+
+62:  z216;;988
+@2.76969504356
+--------------
+sent line to AppWindow
+z216;;988
+
+datamode? True
+newdat, 2.76975393295;216;;988
+
+calling RefreshDataDiplay, instance 1
+Refresh Data Display called by QueueScanner
+nprows
+1
+dispedrows
+0
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+63:  z51064;;987
+@2.86044788361
+--------------
+sent line to AppWindow
+z51064;;987
+
+datamode? True
+newdat, 2.86050891876;51064;;987
+
+calling RefreshDataDiplay, instance 2
+Refresh Data Display called by QueueScanner
+nprows
+2
+dispedrows
+1
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+64:  z101832;;988
+@2.96818399429
+--------------
+sent line to AppWindow
+z101832;;988
+
+datamode? True
+newdat, 2.96824502945;101832;;988
+
+calling RefreshDataDiplay, instance 3
+Refresh Data Display called by QueueScanner
+nprows
+3
+dispedrows
+2
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+65:  z152736;;988
+@3.05947899818
+--------------
+sent line to AppWindow
+z152736;;988
+
+datamode? True
+newdat, 3.0595369339;152736;;988
+
+calling RefreshDataDiplay, instance 4
+Refresh Data Display called by QueueScanner
+nprows
+4
+dispedrows
+3
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+66:  z203584;;989
+@3.16516494751
+--------------
+sent line to AppWindow
+z203584;;989
+
+datamode? True
+newdat, 3.16522884369;203584;;989
+
+calling RefreshDataDiplay, instance 5
+Refresh Data Display called by QueueScanner
+nprows
+5
+dispedrows
+4
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+67:  z254432;;988
+@3.27466392517
+--------------
+sent line to AppWindow
+z254432;;988
+
+datamode? True
+newdat, 3.27469682693;254432;;988
+
+calling RefreshDataDiplay, instance 6
+Refresh Data Display called by QueueScanner
+nprows
+6
+dispedrows
+5
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+68:  z305288;;987
+@3.39180898666
+--------------
+sent line to AppWindow
+z305288;;987
+
+datamode? True
+newdat, 3.39187002182;305288;;987
+
+calling RefreshDataDiplay, instance 7
+Refresh Data Display called by QueueScanner
+nprows
+7
+dispedrows
+6
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+69:  z356136;;988
+@3.4998819828
+--------------
+sent line to AppWindow
+z356136;;988
+
+datamode? True
+newdat, 3.49993801117;356136;;988
+
+calling RefreshDataDiplay, instance 8
+Refresh Data Display called by QueueScanner
+nprows
+8
+dispedrows
+7
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+70:  z406992;;988
+@3.60081505775
+--------------
+sent line to AppWindow
+z406992;;988
+
+datamode? True
+newdat, 3.60087299347;406992;;988
+
+calling RefreshDataDiplay, instance 9
+Refresh Data Display called by QueueScanner
+nprows
+9
+dispedrows
+8
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+71:  z457848;;989
+@3.69466710091
+--------------
+sent line to AppWindow
+z457848;;989
+
+datamode? True
+newdat, 3.69470787048;457848;;989
+
+calling RefreshDataDiplay, instance 10
+Refresh Data Display called by QueueScanner
+nprows
+10
+dispedrows
+9
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+72:  z508696;;986
+@3.80035090446
+--------------
+sent line to AppWindow
+z508696;;986
+
+datamode? True
+newdat, 3.80040693283;508696;;986
+
+calling RefreshDataDiplay, instance 11
+Refresh Data Display called by QueueScanner
+nprows
+11
+dispedrows
+10
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+73:  z559552;;987
+@3.92012000084
+--------------
+sent line to AppWindow
+z559552;;987
+
+datamode? True
+newdat, 3.92017793655;559552;;987
+
+calling RefreshDataDiplay, instance 12
+Refresh Data Display called by QueueScanner
+nprows
+12
+dispedrows
+11
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+74:  z610400;;988
+@4.02953100204
+--------------
+sent line to AppWindow
+z610400;;988
+
+datamode? True
+newdat, 4.02959489822;610400;;988
+
+calling RefreshDataDiplay, instance 13
+Refresh Data Display called by QueueScanner
+nprows
+13
+dispedrows
+12
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+75:  z661256;;988
+@4.14803290367
+--------------
+sent line to AppWindow
+z661256;;988
+
+datamode? True
+newdat, 4.1480820179;661256;;988
+
+calling RefreshDataDiplay, instance 14
+Refresh Data Display called by QueueScanner
+nprows
+14
+dispedrows
+13
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+76:  z712104;;989
+@4.25421404839
+--------------
+sent line to AppWindow
+z712104;;989
+
+datamode? True
+newdat, 4.25426888466;712104;;989
+
+calling RefreshDataDiplay, instance 15
+Refresh Data Display called by QueueScanner
+nprows
+15
+dispedrows
+14
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+77:  z762952;;989
+@4.35022497177
+--------------
+sent line to AppWindow
+z762952;;989
+
+datamode? True
+newdat, 4.35028386116;762952;;989
+
+calling RefreshDataDiplay, instance 16
+Refresh Data Display called by QueueScanner
+nprows
+16
+dispedrows
+15
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+78:  z813808;;987
+@4.45621299744
+--------------
+sent line to AppWindow
+z813808;;987
+
+datamode? True
+newdat, 4.45624399185;813808;;987
+
+calling RefreshDataDiplay, instance 17
+Refresh Data Display called by QueueScanner
+nprows
+17
+dispedrows
+16
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+79:  z864664;;987
+@4.55275392532
+--------------
+sent line to AppWindow
+z864664;;987
+
+datamode? True
+newdat, 4.55280995369;864664;;987
+
+calling RefreshDataDiplay, instance 18
+Refresh Data Display called by QueueScanner
+nprows
+18
+dispedrows
+17
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+80:  z915512;;985
+@4.65218997002
+--------------
+sent line to AppWindow
+z915512;;985
+
+datamode? True
+newdat, 4.65224790573;915512;;985
+
+calling RefreshDataDiplay, instance 19
+Refresh Data Display called by QueueScanner
+nprows
+19
+dispedrows
+18
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+81:  z966368;;987
+@4.75920796394
+--------------
+sent line to AppWindow
+z966368;;987
+
+datamode? True
+newdat, 4.75923991203;966368;;987
+
+calling RefreshDataDiplay, instance 20
+Refresh Data Display called by QueueScanner
+nprows
+20
+dispedrows
+19
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+82:  z1017224;;985
+@4.85935688019
+--------------
+sent line to AppWindow
+z1017224;;985
+
+datamode? True
+newdat, 4.85941982269;1017224;;985
+
+calling RefreshDataDiplay, instance 21
+Refresh Data Display called by QueueScanner
+nprows
+21
+dispedrows
+20
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+83:  z1068144;;989
+@4.96426796913
+--------------
+sent line to AppWindow
+z1068144;;989
+
+datamode? True
+newdat, 4.96430301666;1068144;;989
+
+calling RefreshDataDiplay, instance 22
+Refresh Data Display called by QueueScanner
+nprows
+22
+dispedrows
+21
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+84:  z1119048;;986
+@5.06798696518
+--------------
+sent line to AppWindow
+z1119048;;986
+
+datamode? True
+newdat, 5.06804299355;1119048;;986
+
+calling RefreshDataDiplay, instance 23
+Refresh Data Display called by QueueScanner
+nprows
+23
+dispedrows
+22
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+85:  z1169952;;988
+@5.16886210442
+--------------
+sent line to AppWindow
+z1169952;;988
+
+datamode? True
+newdat, 5.16889381409;1169952;;988
+
+calling RefreshDataDiplay, instance 24
+Refresh Data Display called by QueueScanner
+nprows
+24
+dispedrows
+23
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+86:  z1220856;;988
+@5.27738690376
+--------------
+sent line to AppWindow
+z1220856;;988
+
+datamode? True
+newdat, 5.27743601799;1220856;;988
+
+calling RefreshDataDiplay, instance 25
+Refresh Data Display called by QueueScanner
+nprows
+25
+dispedrows
+24
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+87:  z1271752;;987
+@5.39857506752
+--------------
+sent line to AppWindow
+z1271752;;987
+
+datamode? True
+newdat, 5.39863395691;1271752;;987
+
+calling RefreshDataDiplay, instance 26
+Refresh Data Display called by QueueScanner
+nprows
+26
+dispedrows
+25
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+88:  z1322656;;987
+@5.50689005852
+--------------
+sent line to AppWindow
+z1322656;;987
+
+datamode? True
+newdat, 5.50697398186;1322656;;987
+
+calling RefreshDataDiplay, instance 27
+Refresh Data Display called by QueueScanner
+nprows
+27
+dispedrows
+26
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+89:  z1373552;;987
+@5.62843894958
+--------------
+sent line to AppWindow
+z1373552;;987
+
+datamode? True
+newdat, 5.62847185135;1373552;;987
+
+calling RefreshDataDiplay, instance 28
+Refresh Data Display called by QueueScanner
+nprows
+28
+dispedrows
+27
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+90:  z1424448;;987
+@5.73165798187
+--------------
+sent line to AppWindow
+z1424448;;987
+
+datamode? True
+newdat, 5.73170089722;1424448;;987
+
+calling RefreshDataDiplay, instance 29
+Refresh Data Display called by QueueScanner
+nprows
+29
+dispedrows
+28
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+91:  z1475352;;986
+@5.84747290611
+--------------
+sent line to AppWindow
+z1475352;;986
+
+datamode? True
+newdat, 5.84753394127;1475352;;986
+
+calling RefreshDataDiplay, instance 30
+Refresh Data Display called by QueueScanner
+nprows
+30
+dispedrows
+29
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+92:  z1526256;;987
+@5.94071102142
+--------------
+sent line to AppWindow
+z1526256;;987
+
+datamode? True
+newdat, 5.94076991081;1526256;;987
+
+calling RefreshDataDiplay, instance 31
+Refresh Data Display called by QueueScanner
+nprows
+31
+dispedrows
+30
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+93:  z1577160;;987
+@6.0400159359
+--------------
+sent line to AppWindow
+z1577160;;987
+
+datamode? True
+newdat, 6.04007601738;1577160;;987
+
+calling RefreshDataDiplay, instance 32
+Refresh Data Display called by QueueScanner
+nprows
+32
+dispedrows
+31
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+94:  z1628056;;987
+@6.15152692795
+--------------
+sent line to AppWindow
+z1628056;;987
+
+datamode? True
+newdat, 6.15158700943;1628056;;987
+
+calling RefreshDataDiplay, instance 33
+Refresh Data Display called by QueueScanner
+nprows
+33
+dispedrows
+32
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+95:  z1678960;;987
+@6.2585849762
+--------------
+sent line to AppWindow
+z1678960;;987
+
+datamode? True
+newdat, 6.25865483284;1678960;;987
+
+calling RefreshDataDiplay, instance 34
+Refresh Data Display called by QueueScanner
+nprows
+34
+dispedrows
+33
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+96:  z1729864;;989
+@6.36138391495
+--------------
+sent line to AppWindow
+z1729864;;989
+
+datamode? True
+newdat, 6.36144399643;1729864;;989
+
+calling RefreshDataDiplay, instance 35
+Refresh Data Display called by QueueScanner
+nprows
+35
+dispedrows
+34
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+97:  z1780760;;987
+@6.47735190392
+--------------
+sent line to AppWindow
+z1780760;;987
+
+datamode? True
+newdat, 6.47740888596;1780760;;987
+
+calling RefreshDataDiplay, instance 36
+Refresh Data Display called by QueueScanner
+nprows
+36
+dispedrows
+35
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+98:  z1831664;;989
+@6.60035300255
+--------------
+sent line to AppWindow
+z1831664;;989
+
+datamode? True
+newdat, 6.60038280487;1831664;;989
+
+calling RefreshDataDiplay, instance 37
+Refresh Data Display called by QueueScanner
+nprows
+37
+dispedrows
+36
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+99:  z1882568;;988
+@6.71502399445
+--------------
+sent line to AppWindow
+z1882568;;988
+
+datamode? True
+newdat, 6.71508193016;1882568;;988
+
+calling RefreshDataDiplay, instance 38
+Refresh Data Display called by QueueScanner
+nprows
+38
+dispedrows
+37
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+100:  z1933472;;988
+@6.82738399506
+--------------
+sent line to AppWindow
+z1933472;;988
+
+datamode? True
+newdat, 6.82744503021;1933472;;988
+
+calling RefreshDataDiplay, instance 39
+Refresh Data Display called by QueueScanner
+nprows
+39
+dispedrows
+38
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+101:  z1984368;;988
+@6.96702599525
+--------------
+sent line to AppWindow
+z1984368;;988
+
+datamode? True
+newdat, 6.96709084511;1984368;;988
+
+calling RefreshDataDiplay, instance 40
+Refresh Data Display called by QueueScanner
+nprows
+40
+dispedrows
+39
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+102:  z2035272;;988
+@7.07766103745
+--------------
+sent line to AppWindow
+z2035272;;988
+
+datamode? True
+newdat, 7.07772088051;2035272;;988
+
+calling RefreshDataDiplay, instance 41
+Refresh Data Display called by QueueScanner
+nprows
+41
+dispedrows
+40
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+103:  z2086176;;988
+@7.18335604668
+--------------
+sent line to AppWindow
+z2086176;;988
+
+datamode? True
+newdat, 7.18341088295;2086176;;988
+
+calling RefreshDataDiplay, instance 42
+Refresh Data Display called by QueueScanner
+nprows
+42
+dispedrows
+41
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+104:  z2137072;;987
+@7.29962706566
+--------------
+sent line to AppWindow
+z2137072;;987
+
+datamode? True
+newdat, 7.2996878624;2137072;;987
+
+calling RefreshDataDiplay, instance 43
+Refresh Data Display called by QueueScanner
+nprows
+43
+dispedrows
+42
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+105:  z2187976;;988
+@7.40920710564
+--------------
+sent line to AppWindow
+z2187976;;988
+
+datamode? True
+newdat, 7.40926480293;2187976;;988
+
+calling RefreshDataDiplay, instance 44
+Refresh Data Display called by QueueScanner
+nprows
+44
+dispedrows
+43
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+106:  z2238880;;988
+@7.51073288918
+--------------
+sent line to AppWindow
+z2238880;;988
+
+datamode? True
+newdat, 7.51078987122;2238880;;988
+
+calling RefreshDataDiplay, instance 45
+Refresh Data Display called by QueueScanner
+nprows
+45
+dispedrows
+44
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+107:  z2289784;;986
+@7.64111089706
+--------------
+sent line to AppWindow
+z2289784;;986
+
+datamode? True
+newdat, 7.64116597176;2289784;;986
+
+calling RefreshDataDiplay, instance 46
+Refresh Data Display called by QueueScanner
+nprows
+46
+dispedrows
+45
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+108:  z2340688;;988
+@7.75897288322
+--------------
+sent line to AppWindow
+z2340688;;988
+
+datamode? True
+newdat, 7.75903701782;2340688;;988
+
+calling RefreshDataDiplay, instance 47
+Refresh Data Display called by QueueScanner
+nprows
+47
+dispedrows
+46
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+109:  z2391592;;987
+@7.86122488976
+--------------
+sent line to AppWindow
+z2391592;;987
+
+datamode? True
+newdat, 7.8612818718;2391592;;987
+
+calling RefreshDataDiplay, instance 48
+Refresh Data Display called by QueueScanner
+nprows
+48
+dispedrows
+47
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+110:  z2442496;;989
+@7.9630188942
+--------------
+sent line to AppWindow
+z2442496;;989
+
+datamode? True
+newdat, 7.96307301521;2442496;;989
+
+calling RefreshDataDiplay, instance 49
+Refresh Data Display called by QueueScanner
+nprows
+49
+dispedrows
+48
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+111:  z2493392;;987
+@8.0599219799
+--------------
+sent line to AppWindow
+z2493392;;987
+
+datamode? True
+newdat, 8.05998396873;2493392;;987
+
+calling RefreshDataDiplay, instance 50
+Refresh Data Display called by QueueScanner
+nprows
+50
+dispedrows
+49
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+112:  z2544296;;987
+@8.17392611504
+--------------
+sent line to AppWindow
+z2544296;;987
+
+datamode? True
+newdat, 8.17398786545;2544296;;987
+
+calling RefreshDataDiplay, instance 51
+Refresh Data Display called by QueueScanner
+nprows
+51
+dispedrows
+50
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+113:  z2595200;;987
+@8.28390407562
+--------------
+sent line to AppWindow
+z2595200;;987
+
+datamode? True
+newdat, 8.28401088715;2595200;;987
+
+calling RefreshDataDiplay, instance 52
+Refresh Data Display called by QueueScanner
+nprows
+52
+dispedrows
+51
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+114:  z2646096;;987
+@8.38648295403
+--------------
+sent line to AppWindow
+z2646096;;987
+
+datamode? True
+newdat, 8.38652992249;2646096;;987
+
+calling RefreshDataDiplay, instance 53
+Refresh Data Display called by QueueScanner
+nprows
+53
+dispedrows
+52
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+115:  z2696992;;989
+@8.49141907692
+--------------
+sent line to AppWindow
+z2696992;;989
+
+datamode? True
+newdat, 8.49148893356;2696992;;989
+
+calling RefreshDataDiplay, instance 54
+Refresh Data Display called by QueueScanner
+nprows
+54
+dispedrows
+53
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+116:  z2747896;;988
+@8.59481811523
+--------------
+sent line to AppWindow
+z2747896;;988
+
+datamode? True
+newdat, 8.59487581253;2747896;;988
+
+calling RefreshDataDiplay, instance 55
+Refresh Data Display called by QueueScanner
+nprows
+55
+dispedrows
+54
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+117:  z2798800;;986
+@8.70641803741
+--------------
+sent line to AppWindow
+z2798800;;986
+
+datamode? True
+newdat, 8.70648097992;2798800;;986
+
+calling RefreshDataDiplay, instance 56
+Refresh Data Display called by QueueScanner
+nprows
+56
+dispedrows
+55
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+118:  z2849696;;987
+@8.80523109436
+--------------
+sent line to AppWindow
+z2849696;;987
+
+datamode? True
+newdat, 8.8052740097;2849696;;987
+
+calling RefreshDataDiplay, instance 57
+Refresh Data Display called by QueueScanner
+nprows
+57
+dispedrows
+56
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+119:  z2900600;;988
+@8.91368889809
+--------------
+sent line to AppWindow
+z2900600;;988
+
+datamode? True
+newdat, 8.91374588013;2900600;;988
+
+calling RefreshDataDiplay, instance 58
+Refresh Data Display called by QueueScanner
+nprows
+58
+dispedrows
+57
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+120:  z2951504;;986
+@9.03267288208
+--------------
+sent line to AppWindow
+z2951504;;986
+
+datamode? True
+newdat, 9.03273200989;2951504;;986
+
+calling RefreshDataDiplay, instance 59
+Refresh Data Display called by QueueScanner
+nprows
+59
+dispedrows
+58
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+121:  z3002400;;988
+@9.15331697464
+--------------
+sent line to AppWindow
+z3002400;;988
+
+datamode? True
+newdat, 9.15337491035;3002400;;988
+
+calling RefreshDataDiplay, instance 60
+Refresh Data Display called by QueueScanner
+nprows
+60
+dispedrows
+59
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+122:  z3053304;;987
+@9.26644492149
+--------------
+sent line to AppWindow
+z3053304;;987
+
+datamode? True
+newdat, 9.26651382446;3053304;;987
+
+calling RefreshDataDiplay, instance 61
+Refresh Data Display called by QueueScanner
+nprows
+61
+dispedrows
+60
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+123:  z3104208;;986
+@9.37637710571
+--------------
+sent line to AppWindow
+z3104208;;986
+
+datamode? True
+newdat, 9.3764269352;3104208;;986
+
+calling RefreshDataDiplay, instance 62
+Refresh Data Display called by QueueScanner
+nprows
+62
+dispedrows
+61
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+124:  z3155112;;987
+@9.48827910423
+--------------
+sent line to AppWindow
+z3155112;;987
+
+datamode? True
+newdat, 9.48833584785;3155112;;987
+
+calling RefreshDataDiplay, instance 63
+Refresh Data Display called by QueueScanner
+nprows
+63
+dispedrows
+62
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+125:  z3206016;;990
+@9.5994720459
+--------------
+sent line to AppWindow
+z3206016;;990
+
+datamode? True
+newdat, 9.59952688217;3206016;;990
+
+calling RefreshDataDiplay, instance 64
+Refresh Data Display called by QueueScanner
+nprows
+64
+dispedrows
+63
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+126:  z3256920;;989
+@9.7113339901
+--------------
+sent line to AppWindow
+z3256920;;989
+
+datamode? True
+newdat, 9.7113878727;3256920;;989
+
+calling RefreshDataDiplay, instance 65
+Refresh Data Display called by QueueScanner
+nprows
+65
+dispedrows
+64
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+127:  z3307824;;988
+@9.82559800148
+--------------
+sent line to AppWindow
+z3307824;;988
+
+datamode? True
+newdat, 9.82563090324;3307824;;988
+
+calling RefreshDataDiplay, instance 66
+Refresh Data Display called by QueueScanner
+nprows
+66
+dispedrows
+65
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+128:  z3358720;;987
+@9.94778800011
+--------------
+sent line to AppWindow
+z3358720;;987
+
+datamode? True
+newdat, 9.94784188271;3358720;;987
+
+calling RefreshDataDiplay, instance 67
+Refresh Data Display called by QueueScanner
+nprows
+67
+dispedrows
+66
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+129:  z3409624;;987
+@10.0490319729
+--------------
+sent line to AppWindow
+z3409624;;987
+
+datamode? True
+newdat, 10.0490899086;3409624;;987
+
+calling RefreshDataDiplay, instance 68
+Refresh Data Display called by QueueScanner
+nprows
+68
+dispedrows
+67
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+130:  z3460528;;987
+@10.15198493
+--------------
+sent line to AppWindow
+z3460528;;987
+
+datamode? True
+newdat, 10.1520409584;3460528;;987
+
+calling RefreshDataDiplay, instance 69
+Refresh Data Display called by QueueScanner
+nprows
+69
+dispedrows
+68
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+131:  z3511432;;988
+@10.270097971
+--------------
+sent line to AppWindow
+z3511432;;988
+
+datamode? True
+newdat, 10.2701539993;3511432;;988
+
+calling RefreshDataDiplay, instance 70
+Refresh Data Display called by QueueScanner
+nprows
+70
+dispedrows
+69
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+132:  z3562336;;987
+@10.3955159187
+--------------
+sent line to AppWindow
+z3562336;;987
+
+datamode? True
+newdat, 10.3955798149;3562336;;987
+
+calling RefreshDataDiplay, instance 71
+Refresh Data Display called by QueueScanner
+nprows
+71
+dispedrows
+70
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+133:  z3613240;;986
+@10.5152549744
+--------------
+sent line to AppWindow
+z3613240;;986
+
+datamode? True
+newdat, 10.5153038502;3613240;;986
+
+calling RefreshDataDiplay, instance 72
+Refresh Data Display called by QueueScanner
+nprows
+72
+dispedrows
+71
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+134:  z3664152;;987
+@10.6268930435
+--------------
+sent line to AppWindow
+z3664152;;987
+
+datamode? True
+newdat, 10.6270329952;3664152;;987
+
+calling RefreshDataDiplay, instance 73
+Refresh Data Display called by QueueScanner
+nprows
+73
+dispedrows
+72
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+135:  z3715048;;987
+@10.7405529022
+--------------
+sent line to AppWindow
+z3715048;;987
+
+datamode? True
+newdat, 10.7406139374;3715048;;987
+
+calling RefreshDataDiplay, instance 74
+Refresh Data Display called by QueueScanner
+nprows
+74
+dispedrows
+73
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+136:  z3765952;;987
+@10.8603758812
+--------------
+sent line to AppWindow
+z3765952;;987
+
+datamode? True
+newdat, 10.8604328632;3765952;;987
+
+calling RefreshDataDiplay, instance 75
+Refresh Data Display called by QueueScanner
+nprows
+75
+dispedrows
+74
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+137:  z3816856;;987
+@10.9798378944
+--------------
+sent line to AppWindow
+z3816856;;987
+
+datamode? True
+newdat, 10.9798958302;3816856;;987
+
+calling RefreshDataDiplay, instance 76
+Refresh Data Display called by QueueScanner
+nprows
+76
+dispedrows
+75
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+138:  z3867760;;986
+@11.0980439186
+--------------
+sent line to AppWindow
+z3867760;;986
+
+datamode? True
+newdat, 11.0981199741;3867760;;986
+
+calling RefreshDataDiplay, instance 77
+Refresh Data Display called by QueueScanner
+nprows
+77
+dispedrows
+76
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+139:  z3918664;;986
+@11.2061769962
+--------------
+sent line to AppWindow
+z3918664;;986
+
+datamode? True
+newdat, 11.2062189579;3918664;;986
+
+calling RefreshDataDiplay, instance 78
+Refresh Data Display called by QueueScanner
+nprows
+78
+dispedrows
+77
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+140:  z3969568;;987
+@11.3187921047
+--------------
+sent line to AppWindow
+z3969568;;987
+
+datamode? True
+newdat, 11.3188569546;3969568;;987
+
+calling RefreshDataDiplay, instance 79
+Refresh Data Display called by QueueScanner
+nprows
+79
+dispedrows
+78
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+141:  z4020472;;988
+@11.4198160172
+--------------
+sent line to AppWindow
+z4020472;;988
+
+datamode? True
+newdat, 11.4198749065;4020472;;988
+
+calling RefreshDataDiplay, instance 80
+Refresh Data Display called by QueueScanner
+nprows
+80
+dispedrows
+79
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+142:  z4071368;;987
+@11.5303509235
+--------------
+sent line to AppWindow
+z4071368;;987
+
+datamode? True
+newdat, 11.5304009914;4071368;;987
+
+calling RefreshDataDiplay, instance 81
+Refresh Data Display called by QueueScanner
+nprows
+81
+dispedrows
+80
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+143:  z4122272;;989
+@11.6322000027
+--------------
+sent line to AppWindow
+z4122272;;989
+
+datamode? True
+newdat, 11.6322519779;4122272;;989
+
+calling RefreshDataDiplay, instance 82
+Refresh Data Display called by QueueScanner
+nprows
+82
+dispedrows
+81
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+144:  z4173168;;989
+@11.7523679733
+--------------
+sent line to AppWindow
+z4173168;;989
+
+datamode? True
+newdat, 11.7524318695;4173168;;989
+
+calling RefreshDataDiplay, instance 83
+Refresh Data Display called by QueueScanner
+nprows
+83
+dispedrows
+82
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+145:  z4224064;;989
+@11.849998951
+--------------
+sent line to AppWindow
+z4224064;;989
+
+datamode? True
+newdat, 11.850055933;4224064;;989
+
+calling RefreshDataDiplay, instance 84
+Refresh Data Display called by QueueScanner
+nprows
+84
+dispedrows
+83
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+146:  z4274968;;989
+@11.9571750164
+--------------
+sent line to AppWindow
+z4274968;;989
+
+datamode? True
+newdat, 11.9572319984;4274968;;989
+
+calling RefreshDataDiplay, instance 85
+Refresh Data Display called by QueueScanner
+nprows
+85
+dispedrows
+84
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+147:  z4325872;;987
+@12.0591189861
+--------------
+sent line to AppWindow
+z4325872;;987
+
+datamode? True
+newdat, 12.0591909885;4325872;;987
+
+calling RefreshDataDiplay, instance 86
+Refresh Data Display called by QueueScanner
+nprows
+86
+dispedrows
+85
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+148:  z4376776;;986
+@12.1715550423
+--------------
+sent line to AppWindow
+z4376776;;986
+
+datamode? True
+newdat, 12.1716148853;4376776;;986
+
+calling RefreshDataDiplay, instance 87
+Refresh Data Display called by QueueScanner
+nprows
+87
+dispedrows
+86
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+149:  z4427672;;986
+@12.278165102
+--------------
+sent line to AppWindow
+z4427672;;986
+
+datamode? True
+newdat, 12.2782230377;4427672;;986
+
+calling RefreshDataDiplay, instance 88
+Refresh Data Display called by QueueScanner
+nprows
+88
+dispedrows
+87
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+150:  z4478576;;987
+@12.3846879005
+--------------
+sent line to AppWindow
+z4478576;;987
+
+datamode? True
+newdat, 12.3847408295;4478576;;987
+
+calling RefreshDataDiplay, instance 89
+Refresh Data Display called by QueueScanner
+nprows
+89
+dispedrows
+88
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+151:  z4529480;;989
+@12.4958159924
+--------------
+sent line to AppWindow
+z4529480;;989
+
+datamode? True
+newdat, 12.4958739281;4529480;;989
+
+calling RefreshDataDiplay, instance 90
+Refresh Data Display called by QueueScanner
+nprows
+90
+dispedrows
+89
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+152:  z4580376;;987
+@12.6010420322
+--------------
+sent line to AppWindow
+z4580376;;987
+
+datamode? True
+newdat, 12.6010968685;4580376;;987
+
+calling RefreshDataDiplay, instance 91
+Refresh Data Display called by QueueScanner
+nprows
+91
+dispedrows
+90
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+153:  z4631280;;987
+@12.7053780556
+--------------
+sent line to AppWindow
+z4631280;;987
+
+datamode? True
+newdat, 12.705439806;4631280;;987
+
+calling RefreshDataDiplay, instance 92
+Refresh Data Display called by QueueScanner
+nprows
+92
+dispedrows
+91
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+154:  z4682184;;989
+@12.8170669079
+--------------
+sent line to AppWindow
+z4682184;;989
+
+datamode? True
+newdat, 12.8171238899;4682184;;989
+
+calling RefreshDataDiplay, instance 93
+Refresh Data Display called by QueueScanner
+nprows
+93
+dispedrows
+92
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+155:  z4733088;;988
+@12.9278330803
+--------------
+sent line to AppWindow
+z4733088;;988
+
+datamode? True
+newdat, 12.9278819561;4733088;;988
+
+calling RefreshDataDiplay, instance 94
+Refresh Data Display called by QueueScanner
+nprows
+94
+dispedrows
+93
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+156:  z4783984;;988
+@13.0356020927
+--------------
+sent line to AppWindow
+z4783984;;988
+
+datamode? True
+newdat, 13.0356609821;4783984;;988
+
+calling RefreshDataDiplay, instance 95
+Refresh Data Display called by QueueScanner
+nprows
+95
+dispedrows
+94
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+157:  z4834888;;987
+@13.1467590332
+--------------
+sent line to AppWindow
+z4834888;;987
+
+datamode? True
+newdat, 13.1467998028;4834888;;987
+
+calling RefreshDataDiplay, instance 96
+Refresh Data Display called by QueueScanner
+nprows
+96
+dispedrows
+95
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+158:  z4885792;;986
+@13.246368885
+--------------
+sent line to AppWindow
+z4885792;;986
+
+datamode? True
+newdat, 13.2464330196;4885792;;986
+
+calling RefreshDataDiplay, instance 97
+Refresh Data Display called by QueueScanner
+nprows
+97
+dispedrows
+96
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+159:  z4936688;;987
+@13.3539299965
+--------------
+sent line to AppWindow
+z4936688;;987
+
+datamode? True
+newdat, 13.3539628983;4936688;;987
+
+calling RefreshDataDiplay, instance 98
+Refresh Data Display called by QueueScanner
+nprows
+98
+dispedrows
+97
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+160:  z4987592;;987
+@13.4719018936
+--------------
+sent line to AppWindow
+z4987592;;987
+
+datamode? True
+newdat, 13.4719610214;4987592;;987
+
+calling RefreshDataDiplay, instance 99
+Refresh Data Display called by QueueScanner
+nprows
+99
+dispedrows
+98
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+161:  z5038496;;986
+@13.5842421055
+--------------
+sent line to AppWindow
+z5038496;;986
+
+datamode? True
+newdat, 13.5842788219;5038496;;986
+
+calling RefreshDataDiplay, instance 100
+Refresh Data Display called by QueueScanner
+nprows
+100
+dispedrows
+99
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+162:  z5089400;;987
+@13.6955049038
+--------------
+sent line to AppWindow
+z5089400;;987
+
+datamode? True
+newdat, 13.6955578327;5089400;;987
+
+calling RefreshDataDiplay, instance 101
+Refresh Data Display called by QueueScanner
+nprows
+101
+dispedrows
+100
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+163:  z5140304;;986
+@13.8069150448
+--------------
+sent line to AppWindow
+z5140304;;986
+
+datamode? True
+newdat, 13.8070089817;5140304;;986
+
+calling RefreshDataDiplay, instance 102
+Refresh Data Display called by QueueScanner
+nprows
+102
+dispedrows
+101
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+164:  z5191208;;986
+@13.9097840786
+--------------
+sent line to AppWindow
+z5191208;;986
+
+datamode? True
+newdat, 13.9098420143;5191208;;986
+
+calling RefreshDataDiplay, instance 103
+Refresh Data Display called by QueueScanner
+nprows
+103
+dispedrows
+102
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+165:  z5242112;;988
+@14.0231599808
+--------------
+sent line to AppWindow
+z5242112;;988
+
+datamode? True
+newdat, 14.023223877;5242112;;988
+
+calling RefreshDataDiplay, instance 104
+Refresh Data Display called by QueueScanner
+nprows
+104
+dispedrows
+103
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+166:  z5293008;;988
+@14.1200699806
+--------------
+sent line to AppWindow
+z5293008;;988
+
+datamode? True
+newdat, 14.120126009;5293008;;988
+
+calling RefreshDataDiplay, instance 105
+Refresh Data Display called by QueueScanner
+nprows
+105
+dispedrows
+104
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+167:  z5343912;;988
+@14.2427370548
+--------------
+sent line to AppWindow
+z5343912;;988
+
+datamode? True
+newdat, 14.2427988052;5343912;;988
+
+calling RefreshDataDiplay, instance 106
+Refresh Data Display called by QueueScanner
+nprows
+106
+dispedrows
+105
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+168:  z5394816;;987
+@14.3557770252
+--------------
+sent line to AppWindow
+z5394816;;987
+
+datamode? True
+newdat, 14.3558118343;5394816;;987
+
+calling RefreshDataDiplay, instance 107
+Refresh Data Display called by QueueScanner
+nprows
+107
+dispedrows
+106
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+169:  z5445712;;987
+@14.4634380341
+--------------
+sent line to AppWindow
+z5445712;;987
+
+datamode? True
+newdat, 14.463493824;5445712;;987
+
+calling RefreshDataDiplay, instance 108
+Refresh Data Display called by QueueScanner
+nprows
+108
+dispedrows
+107
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+170:  z5496616;;986
+@14.5696079731
+--------------
+sent line to AppWindow
+z5496616;;986
+
+datamode? True
+newdat, 14.5696659088;5496616;;986
+
+calling RefreshDataDiplay, instance 109
+Refresh Data Display called by QueueScanner
+nprows
+109
+dispedrows
+108
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+171:  z5547520;;988
+@14.6770029068
+--------------
+sent line to AppWindow
+z5547520;;988
+
+datamode? True
+newdat, 14.677066803;5547520;;988
+
+calling RefreshDataDiplay, instance 110
+Refresh Data Display called by QueueScanner
+nprows
+110
+dispedrows
+109
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+172:  z5598424;;988
+@14.7818689346
+--------------
+sent line to AppWindow
+z5598424;;988
+
+datamode? True
+newdat, 14.7819259167;5598424;;988
+
+calling RefreshDataDiplay, instance 111
+Refresh Data Display called by QueueScanner
+nprows
+111
+dispedrows
+110
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+173:  z5649320;;988
+@14.8864450455
+--------------
+sent line to AppWindow
+z5649320;;988
+
+datamode? True
+newdat, 14.8865020275;5649320;;988
+
+calling RefreshDataDiplay, instance 112
+Refresh Data Display called by QueueScanner
+nprows
+112
+dispedrows
+111
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+174:  z5700224;;987
+@14.9986050129
+--------------
+sent line to AppWindow
+z5700224;;987
+
+datamode? True
+newdat, 14.9986588955;5700224;;987
+
+calling RefreshDataDiplay, instance 113
+Refresh Data Display called by QueueScanner
+nprows
+113
+dispedrows
+112
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+175:  z5751128;;987
+@15.103374958
+--------------
+sent line to AppWindow
+z5751128;;987
+
+datamode? True
+newdat, 15.1034069061;5751128;;987
+
+calling RefreshDataDiplay, instance 114
+Refresh Data Display called by QueueScanner
+nprows
+114
+dispedrows
+113
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+176:  z5802024;;988
+@15.2085590363
+--------------
+sent line to AppWindow
+z5802024;;988
+
+datamode? True
+newdat, 15.2085978985;5802024;;988
+
+calling RefreshDataDiplay, instance 115
+Refresh Data Display called by QueueScanner
+nprows
+115
+dispedrows
+114
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+177:  z5852928;;986
+@15.3191540241
+--------------
+sent line to AppWindow
+z5852928;;986
+
+datamode? True
+newdat, 15.3192138672;5852928;;986
+
+calling RefreshDataDiplay, instance 116
+Refresh Data Display called by QueueScanner
+nprows
+116
+dispedrows
+115
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+178:  z5903832;;987
+@15.4413180351
+--------------
+sent line to AppWindow
+z5903832;;987
+
+datamode? True
+newdat, 15.4413900375;5903832;;987
+
+calling RefreshDataDiplay, instance 117
+Refresh Data Display called by QueueScanner
+nprows
+117
+dispedrows
+116
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+179:  z5954736;;987
+@15.5612471104
+--------------
+sent line to AppWindow
+z5954736;;987
+
+datamode? True
+newdat, 15.5613079071;5954736;;987
+
+calling RefreshDataDiplay, instance 118
+Refresh Data Display called by QueueScanner
+nprows
+118
+dispedrows
+117
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+180:  z6005632;;986
+@15.6730549335
+--------------
+sent line to AppWindow
+z6005632;;986
+
+datamode? True
+newdat, 15.6731109619;6005632;;986
+
+calling RefreshDataDiplay, instance 119
+Refresh Data Display called by QueueScanner
+nprows
+119
+dispedrows
+118
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+181:  z6056536;;989
+@15.7720139027
+--------------
+sent line to AppWindow
+z6056536;;989
+
+datamode? True
+newdat, 15.7720808983;6056536;;989
+
+calling RefreshDataDiplay, instance 120
+Refresh Data Display called by QueueScanner
+nprows
+120
+dispedrows
+119
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+182:  z6107440;;987
+@15.878911972
+--------------
+sent line to AppWindow
+z6107440;;987
+
+datamode? True
+newdat, 15.8790128231;6107440;;987
+
+calling RefreshDataDiplay, instance 121
+Refresh Data Display called by QueueScanner
+nprows
+121
+dispedrows
+120
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+183:  z6158344;;987
+@15.9805760384
+--------------
+sent line to AppWindow
+z6158344;;987
+
+datamode? True
+newdat, 15.9806408882;6158344;;987
+
+calling RefreshDataDiplay, instance 122
+Refresh Data Display called by QueueScanner
+nprows
+122
+dispedrows
+121
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+184:  z6209248;;988
+@16.0829949379
+--------------
+sent line to AppWindow
+z6209248;;988
+
+datamode? True
+newdat, 16.0830559731;6209248;;988
+
+calling RefreshDataDiplay, instance 123
+Refresh Data Display called by QueueScanner
+nprows
+123
+dispedrows
+122
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+185:  z6260152;;988
+@16.1948280334
+--------------
+sent line to AppWindow
+z6260152;;988
+
+datamode? True
+newdat, 16.1948599815;6260152;;988
+
+calling RefreshDataDiplay, instance 124
+Refresh Data Display called by QueueScanner
+nprows
+124
+dispedrows
+123
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+186:  z6311056;;988
+@16.3018660545
+--------------
+sent line to AppWindow
+z6311056;;988
+
+datamode? True
+newdat, 16.3019058704;6311056;;988
+
+calling RefreshDataDiplay, instance 125
+Refresh Data Display called by QueueScanner
+nprows
+125
+dispedrows
+124
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+187:  z6361960;;986
+@16.4315319061
+--------------
+sent line to AppWindow
+z6361960;;986
+
+datamode? True
+newdat, 16.4315879345;6361960;;986
+
+calling RefreshDataDiplay, instance 126
+Refresh Data Display called by QueueScanner
+nprows
+126
+dispedrows
+125
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+188:  z6412864;;986
+@16.5420310497
+--------------
+sent line to AppWindow
+z6412864;;986
+
+datamode? True
+newdat, 16.5420680046;6412864;;986
+
+calling RefreshDataDiplay, instance 127
+Refresh Data Display called by QueueScanner
+nprows
+127
+dispedrows
+126
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+189:  z6463768;;989
+@16.6513390541
+--------------
+sent line to AppWindow
+z6463768;;989
+
+datamode? True
+newdat, 16.6513719559;6463768;;989
+
+calling RefreshDataDiplay, instance 128
+Refresh Data Display called by QueueScanner
+nprows
+128
+dispedrows
+127
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+190:  z6514672;;988
+@16.7607390881
+--------------
+sent line to AppWindow
+z6514672;;988
+
+datamode? True
+newdat, 16.7608039379;6514672;;988
+
+calling RefreshDataDiplay, instance 129
+Refresh Data Display called by QueueScanner
+nprows
+129
+dispedrows
+128
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+191:  z6565576;;987
+@16.8738000393
+--------------
+sent line to AppWindow
+z6565576;;987
+
+datamode? True
+newdat, 16.8738558292;6565576;;987
+
+calling RefreshDataDiplay, instance 130
+Refresh Data Display called by QueueScanner
+nprows
+130
+dispedrows
+129
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+192:  z6616480;;988
+@16.9837749004
+--------------
+sent line to AppWindow
+z6616480;;988
+
+datamode? True
+newdat, 16.9838299751;6616480;;988
+
+calling RefreshDataDiplay, instance 131
+Refresh Data Display called by QueueScanner
+nprows
+131
+dispedrows
+130
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+193:  z6667384;;987
+@17.1026320457
+--------------
+sent line to AppWindow
+z6667384;;987
+
+datamode? True
+newdat, 17.1026890278;6667384;;987
+
+calling RefreshDataDiplay, instance 132
+Refresh Data Display called by QueueScanner
+nprows
+132
+dispedrows
+131
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+194:  z6718288;;987
+@17.2199060917
+--------------
+sent line to AppWindow
+z6718288;;987
+
+datamode? True
+newdat, 17.2199738026;6718288;;987
+
+calling RefreshDataDiplay, instance 133
+Refresh Data Display called by QueueScanner
+nprows
+133
+dispedrows
+132
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+195:  z6769192;;988
+@17.3233940601
+--------------
+sent line to AppWindow
+z6769192;;988
+
+datamode? True
+newdat, 17.3234548569;6769192;;988
+
+calling RefreshDataDiplay, instance 134
+Refresh Data Display called by QueueScanner
+nprows
+134
+dispedrows
+133
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+196:  z6820096;;988
+@17.4397890568
+--------------
+sent line to AppWindow
+z6820096;;988
+
+datamode? True
+newdat, 17.4399278164;6820096;;988
+
+calling RefreshDataDiplay, instance 135
+Refresh Data Display called by QueueScanner
+nprows
+135
+dispedrows
+134
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+197:  z6870992;;986
+@17.5522689819
+--------------
+sent line to AppWindow
+z6870992;;986
+
+datamode? True
+newdat, 17.552328825;6870992;;986
+
+calling RefreshDataDiplay, instance 136
+Refresh Data Display called by QueueScanner
+nprows
+136
+dispedrows
+135
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+198:  z6921896;;986
+@17.6634850502
+--------------
+sent line to AppWindow
+z6921896;;986
+
+datamode? True
+newdat, 17.6635479927;6921896;;986
+
+calling RefreshDataDiplay, instance 137
+Refresh Data Display called by QueueScanner
+nprows
+137
+dispedrows
+136
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+199:  z6972800;;988
+@17.7769200802
+--------------
+sent line to AppWindow
+z6972800;;988
+
+datamode? True
+newdat, 17.7769818306;6972800;;988
+
+calling RefreshDataDiplay, instance 138
+Refresh Data Display called by QueueScanner
+nprows
+138
+dispedrows
+137
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+200:  z7023696;;987
+@17.8835790157
+--------------
+sent line to AppWindow
+z7023696;;987
+
+datamode? True
+newdat, 17.8836348057;7023696;;987
+
+calling RefreshDataDiplay, instance 139
+Refresh Data Display called by QueueScanner
+nprows
+139
+dispedrows
+138
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+201:  z7074600;;988
+@17.9907000065
+--------------
+sent line to AppWindow
+z7074600;;988
+
+datamode? True
+newdat, 17.9907569885;7074600;;988
+
+calling RefreshDataDiplay, instance 140
+Refresh Data Display called by QueueScanner
+nprows
+140
+dispedrows
+139
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+202:  z7125504;;988
+@18.1119329929
+--------------
+sent line to AppWindow
+z7125504;;988
+
+datamode? True
+newdat, 18.1121308804;7125504;;988
+
+calling RefreshDataDiplay, instance 141
+Refresh Data Display called by QueueScanner
+nprows
+141
+dispedrows
+140
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+203:  z7176408;;989
+@18.2247018814
+--------------
+sent line to AppWindow
+z7176408;;989
+
+datamode? True
+newdat, 18.2247619629;7176408;;989
+
+calling RefreshDataDiplay, instance 142
+Refresh Data Display called by QueueScanner
+nprows
+142
+dispedrows
+141
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+204:  z7227304;;988
+@18.3461339474
+--------------
+sent line to AppWindow
+z7227304;;988
+
+datamode? True
+newdat, 18.3461918831;7227304;;988
+
+calling RefreshDataDiplay, instance 143
+Refresh Data Display called by QueueScanner
+nprows
+143
+dispedrows
+142
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+205:  z7278208;;986
+@18.4649920464
+--------------
+sent line to AppWindow
+z7278208;;986
+
+datamode? True
+newdat, 18.4650528431;7278208;;986
+
+calling RefreshDataDiplay, instance 144
+Refresh Data Display called by QueueScanner
+nprows
+144
+dispedrows
+143
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+206:  z7329112;;987
+@18.5713191032
+--------------
+sent line to AppWindow
+z7329112;;987
+
+datamode? True
+newdat, 18.571393013;7329112;;987
+
+calling RefreshDataDiplay, instance 145
+Refresh Data Display called by QueueScanner
+nprows
+145
+dispedrows
+144
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+207:  z7380016;;987
+@18.675358057
+--------------
+sent line to AppWindow
+z7380016;;987
+
+datamode? True
+newdat, 18.6753909588;7380016;;987
+
+calling RefreshDataDiplay, instance 146
+Refresh Data Display called by QueueScanner
+nprows
+146
+dispedrows
+145
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+208:  z7430920;;986
+@18.7876698971
+--------------
+sent line to AppWindow
+z7430920;;986
+
+datamode? True
+newdat, 18.7877378464;7430920;;986
+
+calling RefreshDataDiplay, instance 147
+Refresh Data Display called by QueueScanner
+nprows
+147
+dispedrows
+146
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+209:  z7481824;;987
+@18.9030060768
+--------------
+sent line to AppWindow
+z7481824;;987
+
+datamode? True
+newdat, 18.9030618668;7481824;;987
+
+calling RefreshDataDiplay, instance 148
+Refresh Data Display called by QueueScanner
+nprows
+148
+dispedrows
+147
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+210:  z7532728;;988
+@19.0133531094
+--------------
+sent line to AppWindow
+z7532728;;988
+
+datamode? True
+newdat, 19.0134179592;7532728;;988
+
+calling RefreshDataDiplay, instance 149
+Refresh Data Display called by QueueScanner
+nprows
+149
+dispedrows
+148
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+211:  z7583632;;987
+@19.1322538853
+--------------
+sent line to AppWindow
+z7583632;;987
+
+datamode? True
+newdat, 19.1323168278;7583632;;987
+
+calling RefreshDataDiplay, instance 150
+Refresh Data Display called by QueueScanner
+nprows
+150
+dispedrows
+149
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+212:  z7634536;;988
+@19.2396130562
+--------------
+sent line to AppWindow
+z7634536;;988
+
+datamode? True
+newdat, 19.2396788597;7634536;;988
+
+calling RefreshDataDiplay, instance 151
+Refresh Data Display called by QueueScanner
+nprows
+151
+dispedrows
+150
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+213:  z7685440;;987
+@19.3517210484
+--------------
+sent line to AppWindow
+z7685440;;987
+
+datamode? True
+newdat, 19.3517830372;7685440;;987
+
+calling RefreshDataDiplay, instance 152
+Refresh Data Display called by QueueScanner
+nprows
+152
+dispedrows
+151
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+214:  z7736336;;987
+@19.4673979282
+--------------
+sent line to AppWindow
+z7736336;;987
+
+datamode? True
+newdat, 19.467446804;7736336;;987
+
+calling RefreshDataDiplay, instance 153
+Refresh Data Display called by QueueScanner
+nprows
+153
+dispedrows
+152
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+215:  z7787240;;987
+@19.5826089382
+--------------
+sent line to AppWindow
+z7787240;;987
+
+datamode? True
+newdat, 19.5826699734;7787240;;987
+
+calling RefreshDataDiplay, instance 154
+Refresh Data Display called by QueueScanner
+nprows
+154
+dispedrows
+153
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+216:  z7838144;;987
+@19.7036519051
+--------------
+sent line to AppWindow
+z7838144;;987
+
+datamode? True
+newdat, 19.7037088871;7838144;;987
+
+calling RefreshDataDiplay, instance 155
+Refresh Data Display called by QueueScanner
+nprows
+155
+dispedrows
+154
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+217:  z7889056;;990
+@19.8282320499
+--------------
+sent line to AppWindow
+z7889056;;990
+
+datamode? True
+newdat, 19.8282818794;7889056;;990
+
+calling RefreshDataDiplay, instance 156
+Refresh Data Display called by QueueScanner
+nprows
+156
+dispedrows
+155
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+218:  z7939952;;986
+@19.9357130527
+--------------
+sent line to AppWindow
+z7939952;;986
+
+datamode? True
+newdat, 19.9357700348;7939952;;986
+
+calling RefreshDataDiplay, instance 157
+Refresh Data Display called by QueueScanner
+nprows
+157
+dispedrows
+156
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+219:  z7990856;;986
+@20.0593030453
+--------------
+sent line to AppWindow
+z7990856;;986
+
+datamode? True
+newdat, 20.0594089031;7990856;;986
+
+calling RefreshDataDiplay, instance 158
+Refresh Data Display called by QueueScanner
+nprows
+158
+dispedrows
+157
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+220:  z8041760;;989
+@20.1761538982
+--------------
+sent line to AppWindow
+z8041760;;989
+
+datamode? True
+newdat, 20.1762080193;8041760;;989
+
+calling RefreshDataDiplay, instance 159
+Refresh Data Display called by QueueScanner
+nprows
+159
+dispedrows
+158
+newrows
+1
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+refreshThreaded mpldisplay complete
+221:  z8092656;;988
+@20.28125
+--------------
+sent line to AppWindow
+z8092656;;988
+
+datamode? True
+newdat, 20.281306982;8092656;;988
+
+calling RefreshDataDiplay, instance 160
+Refresh Data Display called by QueueScanner
+nprows
+160
+dispedrows
+159
+newrows
+1
+read termed by Arduino with signal x
+final acquisition NParray
+finished self.axes.replot:
+ylist cols = [1, 2]
+RefreshThread inited
+preparing to call newRthread.start from Refresh
+RefreshThread running
+refreshThreaded called
+updating tablewidget and mpl display
+[[  2.76975393e+00   2.16000000e-04   9.88000000e+02]
+ [  2.86050892e+00   5.10640000e-02   9.87000000e+02]
+ [  2.96824503e+00   1.01832000e-01   9.88000000e+02]
+ [  3.05953693e+00   1.52736000e-01   9.88000000e+02]
+ [  3.16522884e+00   2.03584000e-01   9.89000000e+02]
+ [  3.27469683e+00   2.54432000e-01   9.88000000e+02]
+ [  3.39187002e+00   3.05288000e-01   9.87000000e+02]
+ [  3.49993801e+00   3.56136000e-01   9.88000000e+02]
+ [  3.60087299e+00   4.06992000e-01   9.88000000e+02]
+ [  3.69470787e+00   4.57848000e-01   9.89000000e+02]
+ [  3.80040693e+00   5.08696000e-01   9.86000000e+02]
+ [  3.92017794e+00   5.59552000e-01   9.87000000e+02]
+ [  4.02959490e+00   6.10400000e-01   9.88000000e+02]
+ [  4.14808202e+00   6.61256000e-01   9.88000000e+02]
+ [  4.25426888e+00   7.12104000e-01   9.89000000e+02]
+ [  4.35028386e+00   7.62952000e-01   9.89000000e+02]
+ [  4.45624399e+00   8.13808000e-01   9.87000000e+02]
+ [  4.55280995e+00   8.64664000e-01   9.87000000e+02]
+ [  4.65224791e+00   9.15512000e-01   9.85000000e+02]
+ [  4.75923991e+00   9.66368000e-01   9.87000000e+02]
+ [  4.85941982e+00   1.01722400e+00   9.85000000e+02]
+ [  4.96430302e+00   1.06814400e+00   9.89000000e+02]
+ [  5.06804299e+00   1.11904800e+00   9.86000000e+02]
+ [  5.16889381e+00   1.16995200e+00   9.88000000e+02]
+ [  5.27743602e+00   1.22085600e+00   9.88000000e+02]
+ [  5.39863396e+00   1.27175200e+00   9.87000000e+02]
+ [  5.50697398e+00   1.32265600e+00   9.87000000e+02]
+ [  5.62847185e+00   1.37355200e+00   9.87000000e+02]
+ [  5.73170090e+00   1.42444800e+00   9.87000000e+02]
+ [  5.84753394e+00   1.47535200e+00   9.86000000e+02]
+ [  5.94076991e+00   1.52625600e+00   9.87000000e+02]
+ [  6.04007602e+00   1.57716000e+00   9.87000000e+02]
+ [  6.15158701e+00   1.62805600e+00   9.87000000e+02]
+ [  6.25865483e+00   1.67896000e+00   9.87000000e+02]
+ [  6.36144400e+00   1.72986400e+00   9.89000000e+02]
+ [  6.47740889e+00   1.78076000e+00   9.87000000e+02]
+ [  6.60038280e+00   1.83166400e+00   9.89000000e+02]
+ [  6.71508193e+00   1.88256800e+00   9.88000000e+02]
+ [  6.82744503e+00   1.93347200e+00   9.88000000e+02]
+ [  6.96709085e+00   1.98436800e+00   9.88000000e+02]
+ [  7.07772088e+00   2.03527200e+00   9.88000000e+02]
+ [  7.18341088e+00   2.08617600e+00   9.88000000e+02]
+ [  7.29968786e+00   2.13707200e+00   9.87000000e+02]
+ [  7.40926480e+00   2.18797600e+00   9.88000000e+02]
+ [  7.51078987e+00   2.23888000e+00   9.88000000e+02]
+ [  7.64116597e+00   2.28978400e+00   9.86000000e+02]
+ [  7.75903702e+00   2.34068800e+00   9.88000000e+02]
+ [  7.86128187e+00   2.39159200e+00   9.87000000e+02]
+ [  7.96307302e+00   2.44249600e+00   9.89000000e+02]
+ [  8.05998397e+00   2.49339200e+00   9.87000000e+02]
+ [  8.17398787e+00   2.54429600e+00   9.87000000e+02]
+ [  8.28401089e+00   2.59520000e+00   9.87000000e+02]
+ [  8.38652992e+00   2.64609600e+00   9.87000000e+02]
+ [  8.49148893e+00   2.69699200e+00   9.89000000e+02]
+ [  8.59487581e+00   2.74789600e+00   9.88000000e+02]
+ [  8.70648098e+00   2.79880000e+00   9.86000000e+02]
+ [  8.80527401e+00   2.84969600e+00   9.87000000e+02]
+ [  8.91374588e+00   2.90060000e+00   9.88000000e+02]
+ [  9.03273201e+00   2.95150400e+00   9.86000000e+02]
+ [  9.15337491e+00   3.00240000e+00   9.88000000e+02]
+ [  9.26651382e+00   3.05330400e+00   9.87000000e+02]
+ [  9.37642694e+00   3.10420800e+00   9.86000000e+02]
+ [  9.48833585e+00   3.15511200e+00   9.87000000e+02]
+ [  9.59952688e+00   3.20601600e+00   9.90000000e+02]
+ [  9.71138787e+00   3.25692000e+00   9.89000000e+02]
+ [  9.82563090e+00   3.30782400e+00   9.88000000e+02]
+ [  9.94784188e+00   3.35872000e+00   9.87000000e+02]
+ [  1.00490899e+01   3.40962400e+00   9.87000000e+02]
+ [  1.01520410e+01   3.46052800e+00   9.87000000e+02]
+ [  1.02701540e+01   3.51143200e+00   9.88000000e+02]
+ [  1.03955798e+01   3.56233600e+00   9.87000000e+02]
+ [  1.05153039e+01   3.61324000e+00   9.86000000e+02]
+ [  1.06270330e+01   3.66415200e+00   9.87000000e+02]
+ [  1.07406139e+01   3.71504800e+00   9.87000000e+02]
+ [  1.08604329e+01   3.76595200e+00   9.87000000e+02]
+ [  1.09798958e+01   3.81685600e+00   9.87000000e+02]
+ [  1.10981200e+01   3.86776000e+00   9.86000000e+02]
+ [  1.12062190e+01   3.91866400e+00   9.86000000e+02]
+ [  1.13188570e+01   3.96956800e+00   9.87000000e+02]
+ [  1.14198749e+01   4.02047200e+00   9.88000000e+02]
+ [  1.15304010e+01   4.07136800e+00   9.87000000e+02]
+ [  1.16322520e+01   4.12227200e+00   9.89000000e+02]
+ [  1.17524319e+01   4.17316800e+00   9.89000000e+02]
+ [  1.18500559e+01   4.22406400e+00   9.89000000e+02]
+ [  1.19572320e+01   4.27496800e+00   9.89000000e+02]
+ [  1.20591910e+01   4.32587200e+00   9.87000000e+02]
+ [  1.21716149e+01   4.37677600e+00   9.86000000e+02]
+ [  1.22782230e+01   4.42767200e+00   9.86000000e+02]
+ [  1.23847408e+01   4.47857600e+00   9.87000000e+02]
+ [  1.24958739e+01   4.52948000e+00   9.89000000e+02]
+ [  1.26010969e+01   4.58037600e+00   9.87000000e+02]
+ [  1.27054398e+01   4.63128000e+00   9.87000000e+02]
+ [  1.28171239e+01   4.68218400e+00   9.89000000e+02]
+ [  1.29278820e+01   4.73308800e+00   9.88000000e+02]
+ [  1.30356610e+01   4.78398400e+00   9.88000000e+02]
+ [  1.31467998e+01   4.83488800e+00   9.87000000e+02]
+ [  1.32464330e+01   4.88579200e+00   9.86000000e+02]
+ [  1.33539629e+01   4.93668800e+00   9.87000000e+02]
+ [  1.34719610e+01   4.98759200e+00   9.87000000e+02]
+ [  1.35842788e+01   5.03849600e+00   9.86000000e+02]
+ [  1.36955578e+01   5.08940000e+00   9.87000000e+02]
+ [  1.38070090e+01   5.14030400e+00   9.86000000e+02]
+ [  1.39098420e+01   5.19120800e+00   9.86000000e+02]
+ [  1.40232239e+01   5.24211200e+00   9.88000000e+02]
+ [  1.41201260e+01   5.29300800e+00   9.88000000e+02]
+ [  1.42427988e+01   5.34391200e+00   9.88000000e+02]
+ [  1.43558118e+01   5.39481600e+00   9.87000000e+02]
+ [  1.44634938e+01   5.44571200e+00   9.87000000e+02]
+ [  1.45696659e+01   5.49661600e+00   9.86000000e+02]
+ [  1.46770668e+01   5.54752000e+00   9.88000000e+02]
+ [  1.47819259e+01   5.59842400e+00   9.88000000e+02]
+ [  1.48865020e+01   5.64932000e+00   9.88000000e+02]
+ [  1.49986589e+01   5.70022400e+00   9.87000000e+02]
+ [  1.51034069e+01   5.75112800e+00   9.87000000e+02]
+ [  1.52085979e+01   5.80202400e+00   9.88000000e+02]
+ [  1.53192139e+01   5.85292800e+00   9.86000000e+02]
+ [  1.54413900e+01   5.90383200e+00   9.87000000e+02]
+ [  1.55613079e+01   5.95473600e+00   9.87000000e+02]
+ [  1.56731110e+01   6.00563200e+00   9.86000000e+02]
+ [  1.57720809e+01   6.05653600e+00   9.89000000e+02]
+ [  1.58790128e+01   6.10744000e+00   9.87000000e+02]
+ [  1.59806409e+01   6.15834400e+00   9.87000000e+02]
+ [  1.60830560e+01   6.20924800e+00   9.88000000e+02]
+ [  1.61948600e+01   6.26015200e+00   9.88000000e+02]
+ [  1.63019059e+01   6.31105600e+00   9.88000000e+02]
+ [  1.64315879e+01   6.36196000e+00   9.86000000e+02]
+ [  1.65420680e+01   6.41286400e+00   9.86000000e+02]
+ [  1.66513720e+01   6.46376800e+00   9.89000000e+02]
+ [  1.67608039e+01   6.51467200e+00   9.88000000e+02]
+ [  1.68738558e+01   6.56557600e+00   9.87000000e+02]
+ [  1.69838300e+01   6.61648000e+00   9.88000000e+02]
+ [  1.71026890e+01   6.66738400e+00   9.87000000e+02]
+ [  1.72199738e+01   6.71828800e+00   9.87000000e+02]
+ [  1.73234549e+01   6.76919200e+00   9.88000000e+02]
+ [  1.74399278e+01   6.82009600e+00   9.88000000e+02]
+ [  1.75523288e+01   6.87099200e+00   9.86000000e+02]
+ [  1.76635480e+01   6.92189600e+00   9.86000000e+02]
+ [  1.77769818e+01   6.97280000e+00   9.88000000e+02]
+ [  1.78836348e+01   7.02369600e+00   9.87000000e+02]
+ [  1.79907570e+01   7.07460000e+00   9.88000000e+02]
+ [  1.81121309e+01   7.12550400e+00   9.88000000e+02]
+ [  1.82247620e+01   7.17640800e+00   9.89000000e+02]
+ [  1.83461919e+01   7.22730400e+00   9.88000000e+02]
+ [  1.84650528e+01   7.27820800e+00   9.86000000e+02]
+ [  1.85713930e+01   7.32911200e+00   9.87000000e+02]
+ [  1.86753910e+01   7.38001600e+00   9.87000000e+02]
+ [  1.87877378e+01   7.43092000e+00   9.86000000e+02]
+ [  1.89030619e+01   7.48182400e+00   9.87000000e+02]
+ [  1.90134180e+01   7.53272800e+00   9.88000000e+02]
+ [  1.91323168e+01   7.58363200e+00   9.87000000e+02]
+ [  1.92396789e+01   7.63453600e+00   9.88000000e+02]
+ [  1.93517830e+01   7.68544000e+00   9.87000000e+02]
+ [  1.94674468e+01   7.73633600e+00   9.87000000e+02]
+ [  1.95826700e+01   7.78724000e+00   9.87000000e+02]
+ [  1.97037089e+01   7.83814400e+00   9.87000000e+02]
+ [  1.98282819e+01   7.88905600e+00   9.90000000e+02]
+ [  1.99357700e+01   7.93995200e+00   9.86000000e+02]
+ [  2.00594089e+01   7.99085600e+00   9.86000000e+02]
+ [  2.01762080e+01   8.04176000e+00   9.89000000e+02]
+ [  2.02813070e+01   8.09265600e+00   9.88000000e+02]]
+refreshThreaded mpldisplay complete
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+ColorThread running
+connindex= 3
+acqindex= 4
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['b']
+initiating connKill
+active connection found
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+connKill routine complete
+ColorThread running
+connindex= 4
+acqindex= 4
+finished updateColorsThreaded
+self.connStatuses: 
+['b']
+self.acqStatuses: 
+['b']
+qputthread killed by last connstatus= b
+CBoxPlotUpdate
+new dataset received:
+0
+False
+0
+[2, 3]
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 406, in CBoxPlotUpdate
+    self.UpdatePlot(self.NParraylist[self.nowtab], self.xaxref, self.bgbool, self.bgref, self.ylist )        
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1138, in UpdatePlot
+    newydata=NewDataSet[:,yspec]
+IndexError: index 3 is out of bounds for axis 1 with size 3

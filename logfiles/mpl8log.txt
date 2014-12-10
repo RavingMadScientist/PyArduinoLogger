@@ -1,0 +1,2647 @@
+hello
+ACObject initialized
+checking legality of connPing call: 
+dev file: 
+/dev/ttyACM0
+initiating ping
+qgetthread initiated
+QueueScanner stalemax: 0.02
+qputthread initiated
+connFunc initiated
+connFunc returned object !=-1: 
+Serial<id=0x28c9810, open=True>(port='/dev/ttyACM0', baudrate=115200, bytesize=8, parity='N', stopbits=1, timeout=30, xonxoff=False, rtscts=False, dsrdtr=False)
+<class 'serial.serialposix.Serial'>
+abstractbutton clicked, UpdateColors pyqtSlot
+ serconn.inWaiting !=Empty. Connected to Arduino
+ColorThread inited
+msg type
+<type 'str'>
+length=8
+0: a
+1: 0
+2: 
+3: 
+
+4: 1
+5: 4
+6: 
+7: 
+
+over
+firstMsg
+a0
+14
+
+a0
+14
+
+'a0\r\n14\r\n'
+sending 'p' to Arduino: try #
+1
+abstractbutton clicked, UpdateColors pyqtSlotColorThread running
+
+ColorThread inited
+connindex= 2
+ColorThread runningacqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+
+['y']
+self.acqStatuses: 
+['r']
+connindex= 2
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['y']
+self.acqStatuses: 
+['r']
+nonread
+100
+nonread
+200
+nonread
+300
+sr=0
+sr=1
+sr=2
+sr=3
+sent line to AppWindow
+['a', '0', '\r', '\n']
+datamode? False
+newstr, 1.65271401405	['a', '0', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+1	1.65271401405	['a', '0', '\r', '\n']
+nonread
+400
+nonread
+500
+nonread
+600
+sr=4
+sr=5
+sr=6
+sr=7
+sreads = 8
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+++++++++
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+datamode? False
+newstr, 2.65483999252	['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+2	2.65483999252	['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+nonread
+700
+nonread
+800
+sr=8
+sr=9
+sr=10
+sr=11
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a'newstr, 3.65121006966	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+, '1', '\r', '\n', 'a'init Qthread to update lTextBox
+, '2', '\r', '\n']
+datamode? FalseUpdateThread inited
+
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+3	3.65121006966	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+nonread
+900
+nonread
+1000
+nonread
+1100
+sr=12
+sr=13
+sr=14
+sr=15
+sreads = 16
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+++++++++
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+datamode? False
+newstr, 4.65750718117	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+4	4.65750718117	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+nonread
+1200
+nonread
+1300
+sr=16
+sr=17
+sr=18
+sr=19
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', newstr, 5.65239405632	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+init Qthread to update lTextBox
+'\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+datamode? False
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+5	5.65239405632	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+nonread
+1400
+nonread
+1500
+nonread
+1600
+sr=20
+final blankstring
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n', 'a']
+final sreads
+21
++++++
+sending 'p' to Arduino: try #
+2
+sr=0
+sr=1
+sr=2
+sent line to AppWindow
+['a', '0', '\r']newstr, 6.67015910149	['a', '0', '\r']
+
+datamode? False
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+6	6.67015910149	['a', '0', '\r']
+nonread
+100
+nonread
+200
+sr=3
+charstart found! at 4
+sent line to AppWindow
+ abstractbutton clicked, UpdateColors pyqtSlotrnewstr, 7.64781212807	r
+
+init Qthread to update lTextBox
+
+datamode? False
+ UpdateThread inited
+final blankstring
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n', 'a', '5', '\r', '\n', 'r']
+final sreads
+4
++++++
+Entering ReadSomeVals loop
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+updateConsole called, msg=: 
+ ColorThread running
+7	7.64781212807	r
+connindex= 3
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['r']
+0:  p
+@1.00089383125
+--------------
+sent line to AppWindow
+p
+
+datamode? False
+newstr, 8.649477005	p
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+8	8.649477005	p
+
+1:  l
+@1.0045979023
+--------------
+sent line to AppWindow
+l
+
+datamode? False
+newstr, 8.65318417549	l
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+2:  t0
+@1.00935482979
+--------------
+sent line to AppWindow
+t0
+
+datamode? False
+newstr, 8.65793704987	t0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+10	8.65793704987	t0
+
+updateConsole called, msg=: 
+10	8.65793704987	t0
+
+3:  t1
+@1.01399898529
+--------------
+sent line to AppWindow
+t1
+
+datamode? False
+newstr, 8.66259813309	t1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+11	8.66259813309	t1
+
+4:  t2
+@1.01926088333
+--------------
+sent line to AppWindow
+t2
+
+datamode? False
+newstr, 8.66784000397	t2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+5:  t3
+@1.0242369175
+--------------
+sent line to AppWindow
+t3
+
+datamode? False
+newstr, 8.67289018631	t3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+13	8.67289018631	t3
+
+updateConsole called, msg=: 
+13	8.67289018631	t3
+
+6:  t4
+@1.0333199501
+--------------
+sent line to AppWindow
+t4
+
+datamode? False
+newstr, 8.68191504478	t4
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+read termed by Arduino with signal x
+updateConsole called, msg=: 
+14	8.68191504478	t4
+
+self.qputthread reports ACGUILib connFunc returned
+checking legality of AcqRequest call
+AcqRequest legally initiated
+Acq-requestString to Arduino:
+b100,s,5.0E1r,g
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+ColorThread running
+connindex= 3
+acqindex= 1
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['o']
+qputthread catches an AcqRequest
+b100,s,5.0E1r,g
+ACGuiLib.reqAcq data called, sending reqString to Arduino
+Entering ReadSomeVals loop
+0:  
+@0.00150299072266
+--------------
+sent line to AppWindow
+
+
+datamode? False
+newstr, 21.8596010208	
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+15	21.8596010208	
+
+1:  b100,s,5.0E1r,g
+@1.03248906136
+--------------
+sent line to AppWindow
+b100,s,5.0E1r,g
+newstr, 22.8906471729	b100,s,5.0E1r,g
+
+abstractbutton clicked, UpdateColors pyqtSlot
+init Qthread to update lTextBox
+UpdateThread inited
+
+datamode? False
+UpdateThread running
+UpdateThread outmode l
+2:  b
+@1.03662014008
+--------------
+sent line to AppWindow
+b
+
+datamode? False
+newstr, 22.8947579861	b
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+3:  u0
+@1.04134011269
+--------------
+sent line to AppWindow
+u0
+
+datamode? False
+newstr, 22.899433136	u0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+4:  b100
+@1.04885792732
+--------------
+sent line to AppWindow
+b100
+
+datamode? False
+newstr, 22.9069640636	b100
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+updateConsole called, msg=: 
+19	22.9069640636	b100
+
+ColorThread running
+5:  u1
+@1.05440807343
+--------------
+sent line to AppWindow
+u1
+
+updateConsole called, msg=: 
+19	22.9069640636	b100
+datamode? False
+
+newstr, 22.9126281738	u1
+
+init Qthread to update lTextBox
+UpdateThread inited
+updateConsole called, msg=: 
+20	22.9126281738	u1
+
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+20	22.9126281738	u1
+
+connindex= 3
+acqindex= 2
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['y']
+updateConsole called, msg=: 
+20	22.9126281738	u1
+
+6:  s
+@1.05826306343
+--------------
+sent line to AppWindow
+s
+
+datamode? False
+newstr, 22.9163620472	s
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+7:  u2
+@1.06313300133
+--------------
+sent line to AppWindow
+u2
+
+datamode? False
+newstr, 22.9212300777	u2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+22	22.9212300777	u2
+
+updateConsole called, msg=: 
+22	22.9212300777	u2
+
+8:  5.0E1r
+@1.07318496704
+--------------
+sent line to AppWindow
+5.0E1r
+
+datamode? False
+newstr, 22.9313421249	5.0E1r
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+23	22.9313421249	5.0E1r
+
+9:  u3
+@1.0786011219
+--------------
+sent line to AppWindow
+u3
+
+datamode? False
+newstr, 22.9367091656	u3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+24	22.9367091656	u3
+
+10:  g
+@1.08317899704
+--------------
+sent line to AppWindow
+g
+newstr, 22.9412970543	g
+
+
+datamode? False
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+25	22.9412970543	g
+
+11:  burstmode
+@1.09684491158
+--------------
+sent line to AppWindow
+burstmode
+
+datamode? False
+newstr, 22.9549481869	burstmode
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+26	22.9549481869	burstmode
+
+12:  1
+@1.10156798363
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 22.9596710205	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+27	22.9596710205	1
+
+13:  burstnum
+@1.11419510841
+--------------
+sent line to AppWindow
+burstnum
+
+datamode? False
+newstr, 22.9723000526	burstnum
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+28	22.9723000526	burstnum
+
+14:  100
+@1.12081694603
+--------------
+sent line to AppWindow
+100
+
+datamode? False
+newstr, 22.9789271355	100
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+29	22.9789271355	100
+
+15:  sendclock
+@1.13417506218
+--------------
+sent line to AppWindow
+sendclock
+
+datamode? False
+newstr, 22.9922749996	sendclock
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+30	22.9922749996	sendclock
+
+16:  1
+@1.13844609261
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 22.9965741634	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+31	22.9965741634	1
+
+17:  ratebool
+@1.15056395531
+--------------
+sent line to AppWindow
+ratebool
+
+datamode? False
+newstr, 23.0086660385	ratebool
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+32	23.0086660385	ratebool
+
+18:  1
+@1.15429902077
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 23.0124080181	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+33	23.0124080181	1
+
+19:  ratems
+@1.16474103928
+--------------
+sent line to AppWindow
+ratems
+
+datamode? False
+newstr, 23.0228450298	ratems
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+34	23.0228450298	ratems
+
+20:  50.000 l
+@1.17729210854
+--------------
+sent line to AppWindow
+50.000 l
+
+datamode? False
+newstr, 23.0353870392	50.000 l
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+35	23.0353870392	50.000 l
+
+21:  delbool
+@1.18797707558
+--------------
+sent line to AppWindow
+delbool
+
+datamode? False
+newstr, 23.0460700989	delbool
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+36	23.0460700989	delbool
+
+22:  0
+@1.19152712822
+--------------
+sent line to AppWindow
+0
+
+datamode? False
+newstr, 23.0496242046	0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+37	23.0496242046	0
+
+23:  delms
+@1.20023798943
+--------------
+sent line to AppWindow
+delms
+newstr, 23.0583460331	delms
+
+
+datamode? False
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+38	23.0583460331	delms
+
+24:  0.000 l 
+@1.21265006065
+--------------
+sent line to AppWindow
+0.000 l 
+
+datamode? False
+newstr, 23.0707449913	0.000 l 
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+39	23.0707449913	0.000 l 
+
+25:  gostring
+@1.22470092773
+--------------
+sent line to AppWindow
+gostring
+
+newstr, 23.0827991962	gostring
+
+init Qthread to update lTextBox
+datamode? False
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+40	23.0827991962	gostring
+
+26:  g
+@1.22868704796
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 23.086838007	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+41	23.086838007	g
+
+27:  y
+@1.23263096809
+--------------
+y found! acqGreened->True
+sent line to AppWindow
+y
+
+datamode? False
+newstr, 23.0907289982	y
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+42	23.0907289982	y
+
+28:  z216;;989
+@1.24589395523
+--------------
+sent line to AppWindow
+z216;;989
+
+datamode? True
+newdat, 1.24602293968;216;;989
+
+calling RefreshDataDiplay, instance 1
+RefreshThread inited
+loopspeed0.001384973526
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+29:  z51064;;989
+@1.31845092773
+--------------
+sent line to AppWindow
+z51064;;989
+
+datamode? True
+newdat, 1.31847500801;51064;;989
+
+calling RefreshDataDiplay, instance 2
+RefreshThread inited
+loopspeed0.000622034072876
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+30:  z101840;;988
+@1.36386108398
+--------------
+sent line to AppWindow
+z101840;;988
+
+datamode? True
+newdat, 1.36395192146;101840;;988
+
+calling RefreshDataDiplay, instance 3
+RefreshThread inited
+loopspeed0.000996112823486
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+31:  z152736;;989
+@1.40269613266
+--------------
+sent line to AppWindow
+z152736;;989
+newdat, 1.40276002884;152736;;989
+
+
+datamode? Truecalling RefreshDataDiplay, instance 4
+
+RefreshThread inited
+loopspeed0.00137782096863
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+32:  z203592;;986
+@1.45222091675
+--------------
+sent line to AppWindow
+z203592;;986
+
+datamode? True
+newdat, 1.45231699944;203592;;986
+
+calling RefreshDataDiplay, instance 5
+RefreshThread inited
+loopspeed0.000915050506592
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+33:  z254448;;990
+@1.52181792259
+--------------
+sent line to AppWindow
+z254448;;990
+newdat, 1.52186703682;254448;;990
+
+
+datamode? True
+calling RefreshDataDiplay, instance 6
+RefreshThread inited
+loopspeed0.000463962554932
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+34:  z305296;;987
+@1.57040405273
+--------------
+sent line to AppWindow
+z305296;;987
+
+datamode? True
+newdat, 1.57043194771;305296;;987
+
+calling RefreshDataDiplay, instance 7
+RefreshThread inited
+loopspeed0.000744104385376
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+35:  z356152;;988
+@1.63264012337
+--------------
+sent line to AppWindow
+z356152;;988
+
+datamode? True
+newdat, 1.63268399239;356152;;988
+
+calling RefreshDataDiplay, instance 8
+RefreshThread inited
+loopspeed0.000777959823608
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+36:  z407008;;987
+@1.69964694977
+--------------
+sent line to AppWindow
+ newdat, 1.69968700409;407008;;987
+z407008;;987
+
+
+calling RefreshDataDiplay, instance 9
+datamode? True
+RefreshThread inited
+loopspeed0.000523805618286
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+37:  z457856;;988
+@1.74816703796
+--------------
+sent line to AppWindow
+z457856;;988
+
+datamode? True
+newdat, 1.74821591377;457856;;988
+
+calling RefreshDataDiplay, instance 10
+RefreshThread inited
+loopspeed0.00037407875061
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+38:  z508704;;985
+@1.79841899872
+--------------
+sent line to AppWindow
+z508704;;985
+
+datamode? True
+newdat, 1.79845786095;508704;;985
+
+calling RefreshDataDiplay, instance 11
+RefreshThread inited
+loopspeed0.000730991363525
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+39:  z559552;;987
+@1.853992939
+--------------
+sent line to AppWindow
+z559552;;987
+
+datamode? True
+newdat, 1.85435295105;559552;;987
+
+calling RefreshDataDiplay, instance 12
+RefreshThread inited
+loopspeed0.000975847244263
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+40:  z610400;;987
+@1.91422200203
+--------------
+sent line to AppWindow
+z610400;;987
+
+newdat, 1.91426086426;610400;;987
+
+calling RefreshDataDiplay, instance 13
+datamode? True
+RefreshThread inited
+loopspeed0.000396966934204
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+41:  z661248;;988
+@1.96650791168
+--------------
+sent line to AppWindownewdat, 1.96655082703;661248;;988
+
+calling RefreshDataDiplay, instance 14
+
+z661248;;988
+
+datamode? True
+RefreshThread inited
+loopspeed0.000389099121094
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+42:  z712096;;988
+@2.01034498215
+--------------
+sent line to AppWindow
+z712096;;988
+
+datamode? True
+newdat, 2.01038384438;712096;;988
+
+calling RefreshDataDiplay, instance 15
+RefreshThread inited
+loopspeed0.000349044799805
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+43:  z762944;;988
+@2.07993197441
+--------------
+sent line to AppWindow
+z762944;;988
+
+datamode? True
+newdat, 2.07997083664;762944;;988
+
+calling RefreshDataDiplay, instance 16
+RefreshThread inited
+loopspeed0.000771045684814
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+44:  z813800;;988
+@2.11763501167
+--------------
+sent line to AppWindow
+z813800;;988
+
+datamode? True
+newdat, 2.11767888069;813800;;988
+
+calling RefreshDataDiplay, instance 17
+RefreshThread inited
+loopspeed0.000287055969238
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+45:  z864656;;987
+@2.16745901108
+--------------
+sent line to AppWindow
+z864656;;987
+
+datamode? True
+newdat, 2.16749596596;864656;;987
+
+calling RefreshDataDiplay, instance 18
+RefreshThread inited
+loopspeed0.000771999359131
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+46:  z915504;;986
+@2.22032594681
+--------------
+sent line to AppWindow
+z915504;;986
+
+newdat, 2.22036790848;915504;;986
+
+datamode? True
+calling RefreshDataDiplay, instance 19
+RefreshThread inited
+loopspeed0.000428199768066
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+47:  z966352;;990
+@2.28470301628
+--------------
+sent line to AppWindow
+z966352;;990
+
+datamode? True
+newdat, 2.28474187851;966352;;990
+
+calling RefreshDataDiplay, instance 20
+RefreshThread inited
+loopspeed0.000301837921143
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+48:  z1017200;;988
+@2.34170794487
+--------------
+sent line to AppWindow
+z1017200;;988
+
+datamode? True
+newdat, 2.34174799919;1017200;;988
+
+calling RefreshDataDiplay, instance 21
+RefreshThread inited
+loopspeed0.000801086425781
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+49:  z1068120;;988
+@2.38748502731
+--------------
+sent line to AppWindow
+z1068120;;988
+
+datamode? True
+newdat, 2.38752985001;1068120;;988
+
+calling RefreshDataDiplay, instance 22
+RefreshThread inited
+loopspeed0.00122809410095
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+50:  z1119024;;986
+@2.43322205544
+--------------
+sent line to AppWindow
+ newdat, 2.43324589729;1119024;;986
+
+calling RefreshDataDiplay, instance 23
+z1119024;;986
+
+datamode? True
+RefreshThread inited
+loopspeed0.000805854797363
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+51:  z1169928;;987
+@2.47967600822
+--------------
+sent line to AppWindow
+z1169928;;987
+
+datamode? True
+newdat, 2.47972798347;1169928;;987
+
+calling RefreshDataDiplay, instance 24
+RefreshThread inited
+loopspeed0.000318050384521
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+52:  z1220824;;987
+@2.53406691551
+--------------
+sent line to AppWindow
+z1220824;;987
+
+datamode? True
+newdat, 2.53410387039;1220824;;987
+
+calling RefreshDataDiplay, instance 25
+RefreshThread inited
+loopspeed0.000415802001953
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+53:  z1271728;;987
+@2.5925590992
+--------------
+sent line to AppWindow
+ newdat, 2.59261488914;1271728;;987
+
+calling RefreshDataDiplay, instance 26
+z1271728;;987
+
+datamode? True
+RefreshThread inited
+loopspeed0.000526905059814
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+54:  z1322632;;989
+@2.65128207207
+--------------
+sent line to AppWindow
+z1322632;;989
+
+datamode? True
+newdat, 2.65149188042;1322632;;989
+
+calling RefreshDataDiplay, instance 27
+RefreshThread inited
+loopspeed0.000440835952759
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+55:  z1373528;;989
+@2.70669007301
+--------------
+sent line to AppWindow
+z1373528;;989
+
+datamode? True
+newdat, 2.70671486855;1373528;;989
+
+calling RefreshDataDiplay, instance 28
+RefreshThread inited
+loopspeed0.000725030899048
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+56:  z1424432;;990
+@2.75819802284
+--------------
+sent line to AppWindow
+z1424432;;990
+
+datamode? True
+newdat, 2.75831794739;1424432;;990
+
+calling RefreshDataDiplay, instance 29
+RefreshThread inited
+loopspeed0.000754117965698
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+57:  z1475336;;987
+@2.82901191711
+--------------
+sent line to AppWindow
+z1475336;;987
+
+datamode? True
+newdat, 2.82903385162;1475336;;987
+
+calling RefreshDataDiplay, instance 30
+RefreshThread inited
+loopspeed0.000730037689209
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+58:  z1526240;;987
+@2.87365794182
+--------------
+sent line to AppWindow
+z1526240;;987
+
+datamode? True
+newdat, 2.87369704247;1526240;;987
+
+calling RefreshDataDiplay, instance 31
+RefreshThread inited
+loopspeed0.00106382369995
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+59:  z1577136;;988
+@2.93070101738
+--------------
+sent line to AppWindow
+z1577136;;988
+
+datamode? True
+newdat, 2.93072295189;1577136;;988
+
+calling RefreshDataDiplay, instance 32
+RefreshThread inited
+loopspeed0.000591993331909
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+60:  z1628040;;988
+@2.97820091248
+--------------
+sent line to AppWindow
+z1628040;;988
+
+datamode? True
+newdat, 2.9782500267;1628040;;988
+
+calling RefreshDataDiplay, instance 33
+RefreshThread inited
+loopspeed0.000717878341675
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+61:  z1678944;;987
+@3.01977109909
+--------------
+sent line to AppWindow
+z1678944;;987
+
+datamode? True
+newdat, 3.0197930336;1678944;;987
+
+calling RefreshDataDiplay, instance 34
+RefreshThread inited
+loopspeed0.000342130661011
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+62:  z1729840;;989
+@3.07507491112
+--------------
+sent line to AppWindow
+z1729840;;989
+
+datamode? True
+newdat, 3.07510685921;1729840;;989
+
+calling RefreshDataDiplay, instance 35
+RefreshThread inited
+loopspeed0.000690937042236
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+63:  z1780744;;988
+@3.14875102043
+--------------
+sent line to AppWindow
+z1780744;;988
+
+datamode? True
+newdat, 3.14880204201;1780744;;988
+
+calling RefreshDataDiplay, instance 36
+RefreshThread inited
+loopspeed0.000363111495972
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+64:  z1831648;;989
+@3.2146821022
+--------------
+sent line to AppWindow
+z1831648;;989
+
+newdat, 3.21472191811;1831648;;989
+
+calling RefreshDataDiplay, instance 37
+datamode? True
+RefreshThread inited
+loopspeed0.00085711479187
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+65:  z1882552;;986
+@3.27785992622
+--------------
+sent line to AppWindow
+z1882552;;986
+
+datamode? True
+newdat, 3.27788305283;1882552;;986
+
+calling RefreshDataDiplay, instance 38
+RefreshThread inited
+loopspeed0.000326156616211
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+66:  z1933448;;988
+@3.32317399979
+--------------
+sent line to AppWindow
+ newdat, 3.32323098183;1933448;;988
+
+z1933448;;988
+
+datamode? True
+calling RefreshDataDiplay, instance 39
+RefreshThread inited
+loopspeed0.000545978546143
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+67:  z1984352;;987
+@3.37077498436
+--------------
+sent line to AppWindow
+z1984352;;987
+
+newdat, 3.37082290649;1984352;;987
+
+calling RefreshDataDiplay, instance 40
+datamode? True
+RefreshThread inited
+loopspeed0.000888109207153
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+68:  z2035256;;989
+@3.41839694977
+--------------
+sent line to AppWindow
+z2035256;;989
+
+datamode? True
+newdat, 3.41852283478;2035256;;989
+
+calling RefreshDataDiplay, instance 41
+RefreshThread inited
+loopspeed0.000813007354736
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+69:  z2086152;;989
+@3.46609711647
+--------------
+sent line to AppWindow
+z2086152;;989
+
+datamode? True
+newdat, 3.46614289284;2086152;;989
+
+calling RefreshDataDiplay, instance 42
+RefreshThread inited
+loopspeed0.000414133071899
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+70:  z2137056;;988
+@3.52355194092
+--------------
+sent line to AppWindow
+z2137056;;988
+newdat, 3.52363801003;2137056;;988
+
+calling RefreshDataDiplay, instance 43
+
+datamode? True
+RefreshThread inited
+loopspeed0.000514984130859
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+71:  z2187960;;988
+@3.57483291626
+--------------
+sent line to AppWindow
+z2187960;;988
+
+datamode? True
+newdat, 3.57487988472;2187960;;988
+
+calling RefreshDataDiplay, instance 44
+RefreshThread inited
+loopspeed0.00102591514587
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+72:  z2238864;;990
+@3.64286398888
+--------------
+sent line to AppWindow
+z2238864;;990
+
+datamode? True
+newdat, 3.64291095734;2238864;;990
+
+calling RefreshDataDiplay, instance 45
+RefreshThread inited
+loopspeed0.000710010528564
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+73:  z2289768;;987
+@3.68810105324
+--------------
+sent line to AppWindow
+z2289768;;987
+
+datamode? True
+newdat, 3.68814396858;2289768;;987
+
+calling RefreshDataDiplay, instance 46
+RefreshThread inited
+loopspeed0.000785112380981
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+74:  z2340672;;986
+@3.73051095009
+--------------
+sent line to AppWindow
+z2340672;;986
+
+datamode? True
+newdat, 3.73066592216;2340672;;986
+
+calling RefreshDataDiplay, instance 47
+RefreshThread inited
+loopspeed0.000417947769165
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+75:  z2391576;;987
+@3.77531790733
+--------------
+sent line to AppWindow
+z2391576;;987
+
+datamode? True
+newdat, 3.77542901039;2391576;;987
+
+calling RefreshDataDiplay, instance 48
+RefreshThread inited
+loopspeed0.000679969787598
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+76:  z2442472;;987
+@3.82345700264
+--------------
+sent line to AppWindow
+z2442472;;987
+
+datamode? True
+newdat, 3.82355999947;2442472;;987
+
+calling RefreshDataDiplay, instance 49
+RefreshThread inited
+loopspeed0.000421047210693
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+77:  z2493376;;989
+@3.88288211823
+--------------
+sent line to AppWindow
+z2493376;;989
+
+datamode? True
+newdat, 3.88293004036;2493376;;989
+
+calling RefreshDataDiplay, instance 50
+RefreshThread inited
+loopspeed0.00104713439941
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+78:  z2544280;;989
+@3.92598605156
+--------------
+sent line to AppWindow
+z2544280;;989
+
+datamode? True
+newdat, 3.92607188225;2544280;;989
+
+calling RefreshDataDiplay, instance 51
+RefreshThread inited
+loopspeed0.000411987304688
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+79:  z2595176;;988
+@3.98614501953
+--------------
+sent line to AppWindow
+z2595176;;988
+
+datamode? True
+newdat, 3.98618292809;2595176;;988
+
+calling RefreshDataDiplay, instance 52
+RefreshThread inited
+loopspeed0.000409841537476
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+80:  z2646080;;989
+@4.04373407364
+--------------
+sent line to AppWindow
+z2646080;;989
+
+datamode? True
+newdat, 4.04375886917;2646080;;989
+
+calling RefreshDataDiplay, instance 53
+RefreshThread inited
+loopspeed0.000758171081543
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+81:  z2696976;;990
+@4.09360814095
+--------------
+sent line to AppWindow
+z2696976;;990
+
+datamode? True
+newdat, 4.09365797043;2696976;;990
+
+calling RefreshDataDiplay, instance 54
+RefreshThread inited
+loopspeed0.000375032424927
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+82:  z2747880;;986
+@4.16325902939
+--------------
+sent line to AppWindow
+z2747880;;986
+
+datamode? True
+newdat, 4.16328382492;2747880;;986
+
+calling RefreshDataDiplay, instance 55
+RefreshThread inited
+loopspeed0.000859975814819
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+83:  z2798776;;988
+@4.22829294205
+--------------
+sent line to AppWindow
+z2798776;;988
+
+datamode? True
+newdat, 4.22833204269;2798776;;988
+
+calling RefreshDataDiplay, instance 56
+RefreshThread inited
+loopspeed0.00043797492981
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+84:  z2849680;;986
+@4.2872159481
+--------------
+sent line to AppWindow
+z2849680;;986
+
+datamode? True
+newdat, 4.28723883629;2849680;;986
+
+calling RefreshDataDiplay, instance 57
+RefreshThread inited
+loopspeed0.000829935073853
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+85:  z2900584;;986
+@4.33258605003
+--------------
+sent line to AppWindow
+z2900584;;986
+
+datamode? True
+newdat, 4.33266997337;2900584;;986
+
+calling RefreshDataDiplay, instance 58
+RefreshThread inited
+loopspeed0.000633001327515
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+86:  z2951480;;988
+@4.37916207314
+--------------
+sent line to AppWindow
+z2951480;;988
+
+datamode? True
+newdat, 4.37924098969;2951480;;988
+
+calling RefreshDataDiplay, instance 59
+RefreshThread inited
+loopspeed0.000750064849854
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+87:  z3002384;;990
+@4.44376206398
+--------------
+sent line to AppWindow
+z3002384;;990
+newdat, 4.44381189346;3002384;;990
+
+
+datamode? True
+calling RefreshDataDiplay, instance 60
+RefreshThread inited
+loopspeed0.000869989395142
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+88:  z3053288;;989
+@4.48604893684
+--------------
+sent line to AppWindow
+z3053288;;989
+
+newdat, 4.4860868454;3053288;;989
+
+datamode? True
+calling RefreshDataDiplay, instance 61
+RefreshThread inited
+loopspeed0.000863075256348
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+89:  z3104192;;989
+@4.54650497437
+--------------
+sent line to AppWindow
+z3104192;;989
+
+datamode? True
+newdat, 4.5465528965;3104192;;989
+
+calling RefreshDataDiplay, instance 62
+RefreshThread inited
+loopspeed0.00105881690979
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+90:  z3155088;;989
+@4.5945661068
+--------------
+sent line to AppWindow
+z3155088;;989
+
+datamode? True
+newdat, 4.59462189674;3155088;;989
+
+calling RefreshDataDiplay, instance 63
+RefreshThread inited
+loopspeed0.000399827957153
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+91:  z3205992;;988
+@4.64487600327
+--------------
+sent line to AppWindow
+z3205992;;988
+
+datamode? True
+newdat, 4.6449239254;3205992;;988
+
+calling RefreshDataDiplay, instance 64
+RefreshThread inited
+loopspeed0.000377893447876
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+92:  z3256896;;987
+@4.69931101799
+--------------
+sent line to AppWindow
+z3256896;;987
+
+datamode? True
+newdat, 4.69933199883;3256896;;987
+
+calling RefreshDataDiplay, instance 65
+RefreshThread inited
+loopspeed0.00102090835571
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+93:  z3307792;;986
+@4.7430729866
+--------------
+sent line to AppWindow
+z3307792;;986
+
+datamode? True
+newdat, 4.74309587479;3307792;;986
+
+calling RefreshDataDiplay, instance 66
+RefreshThread inited
+loopspeed0.00140190124512
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+94:  z3358696;;987
+@4.79568004608
+--------------
+sent line to AppWindow
+ newdat, 4.79570484161;3358696;;987
+
+calling RefreshDataDiplay, instance 67
+z3358696;;987
+
+datamode? True
+RefreshThread inited
+loopspeed0.00136780738831
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+95:  z3409600;;987
+@4.83459401131
+--------------
+sent line to AppWindow
+z3409600;;987
+
+datamode? True
+ newdat, 4.8346350193;3409600;;987
+
+calling RefreshDataDiplay, instance 68
+RefreshThread inited
+loopspeed0.000388860702515
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+96:  z3460504;;988
+@4.89177298546
+--------------
+sent line to AppWindow
+z3460504;;988
+
+datamode? True
+newdat, 4.89179992676;3460504;;988
+
+calling RefreshDataDiplay, instance 69
+RefreshThread inited
+loopspeed0.000800132751465
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+97:  z3511408;;989
+@4.94056296349
+--------------
+sent line to AppWindow
+z3511408;;989
+
+datamode? True
+newdat, 4.94059801102;3511408;;989
+
+calling RefreshDataDiplay, instance 70
+RefreshThread inited
+loopspeed0.00082802772522
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+98:  z3562312;;988
+@5.00755500793
+--------------
+sent line to AppWindow
+z3562312;;988
+
+datamode? True
+newdat, 5.00765800476;3562312;;988
+
+calling RefreshDataDiplay, instance 71
+RefreshThread inited
+loopspeed0.000444173812866
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+99:  z3613224;;988
+@5.05666995049
+--------------
+sent line to AppWindow
+z3613224;;988
+
+datamode? True
+newdat, 5.05670905113;3613224;;988
+
+calling RefreshDataDiplay, instance 72
+RefreshThread inited
+loopspeed0.00092887878418
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+100:  z3664120;;988
+@5.12030410767
+--------------
+sent line to AppWindow
+z3664120;;988
+
+datamode? True
+newdat, 5.12032604218;3664120;;988
+
+calling RefreshDataDiplay, instance 73
+RefreshThread inited
+loopspeed0.000813961029053
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+101:  z3715024;;990
+@5.17300510406
+--------------
+sent line to AppWindow
+ newdat, 5.17305898666;3715024;;990
+
+calling RefreshDataDiplay, instance 74
+RefreshThread inited
+loopspeed0.00100088119507
+z3715024;;990
+
+datamode? True
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+102:  z3765928;;990
+@5.22137212753
+--------------
+sent line to AppWindow
+z3765928;;990
+
+newdat, 5.22142386436;3765928;;990
+
+calling RefreshDataDiplay, instance 75
+datamode? True
+RefreshThread inited
+loopspeed0.000476121902466
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+103:  z3816832;;986
+@5.27192091942
+--------------
+sent line to AppWindow
+z3816832;;986
+
+datamode? True
+newdat, 5.27194690704;3816832;;986
+
+calling RefreshDataDiplay, instance 76
+RefreshThread inited
+loopspeed0.000690937042236
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+104:  z3867736;;989
+@5.32099699974
+--------------
+sent line to AppWindow
+z3867736;;989
+
+datamode? True
+newdat, 5.32104086876;3867736;;989
+
+calling RefreshDataDiplay, instance 77
+RefreshThread inited
+loopspeed0.000755071640015
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+105:  z3918640;;987
+@5.37839198112
+--------------
+sent line to AppWindow
+z3918640;;987
+
+datamode? True
+newdat, 5.37843298912;3918640;;987
+
+calling RefreshDataDiplay, instance 78
+RefreshThread inited
+loopspeed0.000577926635742
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+106:  z3969544;;988
+@5.43023705482
+--------------
+sent line to AppWindow
+z3969544;;988
+
+datamode? True
+newdat, 5.4302778244;3969544;;988
+
+calling RefreshDataDiplay, instance 79
+RefreshThread inited
+loopspeed0.000340938568115
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+107:  z4020440;;987
+@5.48123693466
+--------------
+sent line to AppWindow
+z4020440;;987
+
+datamode? True
+ newdat, 5.48127698898;4020440;;987
+
+calling RefreshDataDiplay, instance 80
+RefreshThread inited
+loopspeed0.00101709365845
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+108:  z4071344;;988
+@5.53272509575
+--------------
+sent line to AppWindow
+z4071344;;988
+
+datamode? True
+newdat, 5.53279685974;4071344;;988
+
+calling RefreshDataDiplay, instance 81
+RefreshThread inited
+loopspeed0.000418186187744
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+109:  z4122248;;988
+@5.58627605438
+--------------
+sent line to AppWindow
+z4122248;;988
+
+datamode? True
+newdat, 5.58630895615;4122248;;988
+
+calling RefreshDataDiplay, instance 82
+RefreshThread inited
+loopspeed0.000431060791016
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+110:  z4173144;;988
+@5.64616203308
+--------------
+sent line to AppWindow
+z4173144;;988
+
+datamode? True
+newdat, 5.6461930275;4173144;;988
+
+calling RefreshDataDiplay, instance 83
+RefreshThread inited
+loopspeed0.000408887863159
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+111:  z4224048;;986
+@5.68636202812
+--------------
+sent line to AppWindow
+z4224048;;986
+
+datamode? True
+newdat, 5.68639588356;4224048;;986
+
+calling RefreshDataDiplay, instance 84
+RefreshThread inited
+loopspeed0.00115513801575
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+112:  z4274952;;988
+@5.7416100502
+--------------
+sent line to AppWindow
+z4274952;;988
+
+datamode? True
+newdat, 5.74174404144;4274952;;988
+
+calling RefreshDataDiplay, instance 85
+RefreshThread inited
+loopspeed0.000526905059814
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+113:  z4325856;;989
+@5.79795098305
+--------------
+sent line to AppWindow
+z4325856;;989
+
+datamode? True
+newdat, 5.79800105095;4325856;;989
+
+calling RefreshDataDiplay, instance 86
+RefreshThread inited
+loopspeed0.000452995300293
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+114:  z4376752;;989
+@5.84546113014
+--------------
+sent line to AppWindow
+z4376752;;989
+
+datamode? True
+newdat, 5.84552097321;4376752;;989
+
+calling RefreshDataDiplay, instance 87
+RefreshThread inited
+loopspeed0.000895977020264
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+115:  z4427656;;987
+@5.89332008362
+--------------
+sent line to AppWindow
+z4427656;;987
+newdat, 5.89335989952;4427656;;987
+
+
+datamode? True
+calling RefreshDataDiplay, instance 88
+RefreshThread inited
+loopspeed0.000874996185303
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+116:  z4478560;;988
+@5.94855499268
+--------------
+sent line to AppWindow
+z4478560;;988
+
+datamode? True
+newdat, 5.94859695435;4478560;;988
+
+calling RefreshDataDiplay, instance 89
+RefreshThread inited
+loopspeed0.00081205368042
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+117:  z4529464;;987
+@6.00926399231
+--------------
+sent line to AppWindow
+z4529464;;987
+
+datamode? True
+newdat, 6.00930500031;4529464;;987
+
+calling RefreshDataDiplay, instance 90
+RefreshThread inited
+loopspeed0.000391006469727
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+118:  z4580368;;988
+@6.06098508835
+--------------
+sent line to AppWindow
+z4580368;;988
+
+datamode? True
+newdat, 6.06103682518;4580368;;988
+
+calling RefreshDataDiplay, instance 91
+RefreshThread inited
+loopspeed0.000400066375732
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+119:  z4631272;;988
+@6.13388299942
+--------------
+sent line to AppWindow
+z4631272;;988
+
+datamode? True
+newdat, 6.13399982452;4631272;;988
+
+calling RefreshDataDiplay, instance 92
+RefreshThread inited
+loopspeed0.000443935394287
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+120:  z4682176;;989
+@6.18060302734
+--------------
+sent line to AppWindow
+z4682176;;989
+
+datamode? True
+newdat, 6.18062901497;4682176;;989
+
+calling RefreshDataDiplay, instance 93
+RefreshThread inited
+loopspeed0.00073504447937
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+121:  z4733072;;987
+@6.23541712761
+--------------
+sent line to AppWindow
+z4733072;;987
+
+datamode? True
+newdat, 6.23565006256;4733072;;987
+
+calling RefreshDataDiplay, instance 94
+RefreshThread inited
+loopspeed0.00153493881226
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+122:  z4783976;;990
+@6.28104400635
+--------------
+sent line to AppWindow
+z4783976;;990
+
+datamode? True
+newdat, 6.28107404709;4783976;;990
+
+calling RefreshDataDiplay, instance 95
+RefreshThread inited
+loopspeed0.000556945800781
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+123:  z4834880;;987
+@6.32386803627
+--------------
+sent line to AppWindow
+z4834880;;987
+
+datamode? True
+newdat, 6.32408285141;4834880;;987
+
+calling RefreshDataDiplay, instance 96
+RefreshThread inited
+loopspeed0.00130605697632
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+124:  z4885776;;990
+@6.37641191483
+--------------
+sent line to AppWindow
+z4885776;;990
+
+datamode? True
+newdat, 6.37646698952;4885776;;990
+
+calling RefreshDataDiplay, instance 97
+RefreshThread inited
+loopspeed0.000448942184448
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+125:  z4936680;;989
+@6.4430000782
+--------------
+sent line to AppWindow
+z4936680;;989
+
+datamode? True
+newdat, 6.44303488731;4936680;;989
+
+calling RefreshDataDiplay, instance 98
+RefreshThread inited
+loopspeed0.00101494789124
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+126:  z4987584;;989
+@6.487388134
+--------------
+sent line to AppWindow
+z4987584;;989
+
+datamode? True
+newdat, 6.48743891716;4987584;;989
+
+calling RefreshDataDiplay, instance 99
+RefreshThread inited
+loopspeed0.000577926635742
+RefreshThread running
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+127:  z5038488;;987
+@6.53994607925
+--------------
+sent line to AppWindow
+z5038488;;987
+
+datamode? True
+newdat, 6.53998804092;5038488;;987
+
+calling RefreshDataDiplay, instance 100
+RefreshThread inited
+loopspeed0.000765085220337
+RefreshThread running
+read termed by Arduino with signal x
+final acquisition NParray
+[[  1.24602294e+00   2.16000000e-04   9.89000000e+02]
+ [  1.31847501e+00   5.10640000e-02   9.89000000e+02]
+ [  1.36395192e+00   1.01840000e-01   9.88000000e+02]
+ [  1.40276003e+00   1.52736000e-01   9.89000000e+02]
+ [  1.45231700e+00   2.03592000e-01   9.86000000e+02]
+ [  1.52186704e+00   2.54448000e-01   9.90000000e+02]
+ [  1.57043195e+00   3.05296000e-01   9.87000000e+02]
+ [  1.63268399e+00   3.56152000e-01   9.88000000e+02]
+ [  1.69968700e+00   4.07008000e-01   9.87000000e+02]
+ [  1.74821591e+00   4.57856000e-01   9.88000000e+02]
+ [  1.79845786e+00   5.08704000e-01   9.85000000e+02]
+ [  1.85435295e+00   5.59552000e-01   9.87000000e+02]
+ [  1.91426086e+00   6.10400000e-01   9.87000000e+02]
+ [  1.96655083e+00   6.61248000e-01   9.88000000e+02]
+ [  2.01038384e+00   7.12096000e-01   9.88000000e+02]
+ [  2.07997084e+00   7.62944000e-01   9.88000000e+02]
+ [  2.11767888e+00   8.13800000e-01   9.88000000e+02]
+ [  2.16749597e+00   8.64656000e-01   9.87000000e+02]
+ [  2.22036791e+00   9.15504000e-01   9.86000000e+02]
+ [  2.28474188e+00   9.66352000e-01   9.90000000e+02]
+ [  2.34174800e+00   1.01720000e+00   9.88000000e+02]
+ [  2.38752985e+00   1.06812000e+00   9.88000000e+02]
+ [  2.43324590e+00   1.11902400e+00   9.86000000e+02]
+ [  2.47972798e+00   1.16992800e+00   9.87000000e+02]
+ [  2.53410387e+00   1.22082400e+00   9.87000000e+02]
+ [  2.59261489e+00   1.27172800e+00   9.87000000e+02]
+ [  2.65149188e+00   1.32263200e+00   9.89000000e+02]
+ [  2.70671487e+00   1.37352800e+00   9.89000000e+02]
+ [  2.75831795e+00   1.42443200e+00   9.90000000e+02]
+ [  2.82903385e+00   1.47533600e+00   9.87000000e+02]
+ [  2.87369704e+00   1.52624000e+00   9.87000000e+02]
+ [  2.93072295e+00   1.57713600e+00   9.88000000e+02]
+ [  2.97825003e+00   1.62804000e+00   9.88000000e+02]
+ [  3.01979303e+00   1.67894400e+00   9.87000000e+02]
+ [  3.07510686e+00   1.72984000e+00   9.89000000e+02]
+ [  3.14880204e+00   1.78074400e+00   9.88000000e+02]
+ [  3.21472192e+00   1.83164800e+00   9.89000000e+02]
+ [  3.27788305e+00   1.88255200e+00   9.86000000e+02]
+ [  3.32323098e+00   1.93344800e+00   9.88000000e+02]
+ [  3.37082291e+00   1.98435200e+00   9.87000000e+02]
+ [  3.41852283e+00   2.03525600e+00   9.89000000e+02]
+ [  3.46614289e+00   2.08615200e+00   9.89000000e+02]
+ [  3.52363801e+00   2.13705600e+00   9.88000000e+02]
+ [  3.57487988e+00   2.18796000e+00   9.88000000e+02]
+ [  3.64291096e+00   2.23886400e+00   9.90000000e+02]
+ [  3.68814397e+00   2.28976800e+00   9.87000000e+02]
+ [  3.73066592e+00   2.34067200e+00   9.86000000e+02]
+ [  3.77542901e+00   2.39157600e+00   9.87000000e+02]
+ [  3.82356000e+00   2.44247200e+00   9.87000000e+02]
+ [  3.88293004e+00   2.49337600e+00   9.89000000e+02]
+ [  3.92607188e+00   2.54428000e+00   9.89000000e+02]
+ [  3.98618293e+00   2.59517600e+00   9.88000000e+02]
+ [  4.04375887e+00   2.64608000e+00   9.89000000e+02]
+ [  4.09365797e+00   2.69697600e+00   9.90000000e+02]
+ [  4.16328382e+00   2.74788000e+00   9.86000000e+02]
+ [  4.22833204e+00   2.79877600e+00   9.88000000e+02]
+ [  4.28723884e+00   2.84968000e+00   9.86000000e+02]
+ [  4.33266997e+00   2.90058400e+00   9.86000000e+02]
+ [  4.37924099e+00   2.95148000e+00   9.88000000e+02]
+ [  4.44381189e+00   3.00238400e+00   9.90000000e+02]
+ [  4.48608685e+00   3.05328800e+00   9.89000000e+02]
+ [  4.54655290e+00   3.10419200e+00   9.89000000e+02]
+ [  4.59462190e+00   3.15508800e+00   9.89000000e+02]
+ [  4.64492393e+00   3.20599200e+00   9.88000000e+02]
+ [  4.69933200e+00   3.25689600e+00   9.87000000e+02]
+ [  4.74309587e+00   3.30779200e+00   9.86000000e+02]
+ [  4.79570484e+00   3.35869600e+00   9.87000000e+02]
+ [  4.83463502e+00   3.40960000e+00   9.87000000e+02]
+ [  4.89179993e+00   3.46050400e+00   9.88000000e+02]
+ [  4.94059801e+00   3.51140800e+00   9.89000000e+02]
+ [  5.00765800e+00   3.56231200e+00   9.88000000e+02]
+ [  5.05670905e+00   3.61322400e+00   9.88000000e+02]
+ [  5.12032604e+00   3.66412000e+00   9.88000000e+02]
+ [  5.17305899e+00   3.71502400e+00   9.90000000e+02]
+ [  5.22142386e+00   3.76592800e+00   9.90000000e+02]
+ [  5.27194691e+00   3.81683200e+00   9.86000000e+02]
+ [  5.32104087e+00   3.86773600e+00   9.89000000e+02]
+ [  5.37843299e+00   3.91864000e+00   9.87000000e+02]
+ [  5.43027782e+00   3.96954400e+00   9.88000000e+02]
+ [  5.48127699e+00   4.02044000e+00   9.87000000e+02]
+ [  5.53279686e+00   4.07134400e+00   9.88000000e+02]
+ [  5.58630896e+00   4.12224800e+00   9.88000000e+02]
+ [  5.64619303e+00   4.17314400e+00   9.88000000e+02]
+ [  5.68639588e+00   4.22404800e+00   9.86000000e+02]
+ [  5.74174404e+00   4.27495200e+00   9.88000000e+02]
+ [  5.79800105e+00   4.32585600e+00   9.89000000e+02]
+ [  5.84552097e+00   4.37675200e+00   9.89000000e+02]
+ [  5.89335990e+00   4.42765600e+00   9.87000000e+02]
+ [  5.94859695e+00   4.47856000e+00   9.88000000e+02]
+ [  6.00930500e+00   4.52946400e+00   9.87000000e+02]
+ [  6.06103683e+00   4.58036800e+00   9.88000000e+02]
+ [  6.13399982e+00   4.63127200e+00   9.88000000e+02]
+ [  6.18062901e+00   4.68217600e+00   9.89000000e+02]
+ [  6.23565006e+00   4.73307200e+00   9.87000000e+02]
+ [  6.28107405e+00   4.78397600e+00   9.90000000e+02]
+ [  6.32408285e+00   4.83488000e+00   9.87000000e+02]
+ [  6.37646699e+00   4.88577600e+00   9.90000000e+02]
+ [  6.44303489e+00   4.93668000e+00   9.89000000e+02]
+ [  6.48743892e+00   4.98758400e+00   9.89000000e+02]
+ [  6.53998804e+00   5.03848800e+00   9.87000000e+02]]
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.axes.draw()
+TypeError: draw_wrapper() takes at least 2 arguments (1 given)
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+ColorThread running
+connindex= 3
+acqindex= 4
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['b']
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+initiating connKill
+active connection found
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+connKill routine complete
+ColorThread running
+connindex= 4
+acqindex= 4
+finished updateColorsThreaded
+self.connStatuses: 
+['b']
+self.acqStatuses: 
+['b']
+qputthread killed by last connstatus= b
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')

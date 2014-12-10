@@ -1,0 +1,2127 @@
+hello
+ACObject initialized
+checking legality of connPing call: 
+dev file: 
+/dev/ttyACM0
+initiating ping
+qgetthread initiated
+QueueScanner stalemax: 0.02
+qputthread initiated
+connFunc initiated
+connFunc returned object !=-1: 
+Serial<id=0x38e0850, open=True>(port='/dev/ttyACM0', baudrate=115200, bytesize=8, parity='N', stopbits=1, timeout=30, xonxoff=False, rtscts=False, dsrdtr=False)
+<class 'serial.serialposix.Serial'>
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread running
+ColorThread inited
+connindex= 2
+acqindex= 0
+finished updateColorsThreaded
+ ColorThread running
+self.connStatuses: 
+['y']
+self.acqStatuses: 
+['r']
+connindex= 2
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['y']
+self.acqStatuses: 
+['r']
+serconn.inWaiting !=Empty. Connected to Arduino
+msg type
+<type 'str'>
+length=4
+0: a
+1: 0
+2: 
+3: 
+
+over
+firstMsg
+a0
+
+a0
+
+'a0\r\n'
+sending 'p' to Arduino: try #
+1
+nonread
+100
+nonread
+200
+sr=0
+charstart found! at 1
+sent line to AppWindow
+r
+datamode? False
+final blankstring
+['r']
+final sreads
+1abstractbutton clicked, UpdateColors pyqtSlot
+
++++++
+Entering ReadSomeVals loop
+newstr, 2.65520691872	r
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+updateConsole called, msg=: 
+1	2.65520691872	r
+ColorThread running
+connindex= 3
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['r']
+0:  
+@0.997490882874
+--------------
+sent line to AppWindow
+
+
+datamode? False
+newstr, 3.6530880928	
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+2	3.6530880928	
+
+1:  l
+@1.0012319088
+--------------
+sent line to AppWindow
+l
+
+datamode? False
+newstr, 3.65693998337	l
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+3	3.65693998337	l
+
+2:  t0
+@1.00682997704
+--------------
+sent line to AppWindow
+t0
+
+datamode? False
+newstr, 3.66242408752	t0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+4	3.66242408752	t0
+
+3:  t1
+@1.0117020607
+--------------
+sent line to AppWindow
+t1
+
+datamode? False
+newstr, 3.66729593277	t1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+5	3.66729593277	t1
+
+4:  t2
+@1.0164809227
+--------------
+sent line to AppWindow
+t2
+
+datamode? False
+newstr, 3.67207098007	t2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+6	3.67207098007	t2
+
+5:  t3
+@1.02141404152
+--------------
+sent line to AppWindow
+t3
+
+datamode? False
+newstr, 3.6770169735	t3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+6:  t4
+@1.02621388435
+--------------
+sent line to AppWindow
+t4
+
+datamode? False
+newstr, 3.68181014061	t4
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+read termed by Arduino with signal x
+updateConsole called, msg=: 
+8	3.68181014061	t4
+
+updateConsole called, msg=: 
+8	3.68181014061	t4
+
+self.qputthread reports ACGUILib connFunc returned
+checking legality of AcqRequest call
+AcqRequest legally initiated
+Acq-requestString to Arduino:
+b200,s,5.0E1r,g
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+ColorThread running
+connindex= 3
+acqindex= 1
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['o']
+qputthread catches an AcqRequest
+b200,s,5.0E1r,g
+ACGuiLib.reqAcq data called, sending reqString to Arduino
+Entering ReadSomeVals loop
+0:  
+@0.00143194198608
+--------------
+sent line to AppWindow
+
+
+datamode? False
+newstr, 18.3175330162	
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+9	18.3175330162	
+
+1:  b200,s,5.0E1r,g
+@1.02929401398
+--------------
+sent line to AppWindowabstractbutton clicked, UpdateColors pyqtSlot
+
+b200,s,5.0E1r,g
+
+datamode? False
+newstr, 19.3454639912	b200,s,5.0E1r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+2:  b
+@1.03338479996
+--------------
+sent line to AppWindow
+b
+
+datamode? False
+newstr, 19.3494820595	b
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+3:  u0
+@1.0381758213
+--------------
+sent line to AppWindow
+u0
+
+datamode? False
+newstr, 19.3542699814	u0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+4:  b200
+@1.04544901848
+--------------
+sent line to AppWindow
+b200
+
+datamode? False
+newstr, 19.3615429401	b200
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+5:  u1
+@1.05030584335
+--------------
+sent line to AppWindow
+u1
+
+datamode? False
+ColorThread running
+ updateConsole called, msg=: 
+13	19.3615429401	b200
+
+newstr, 19.366435051	u1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+14	19.366435051	u1
+
+updateConsole called, msg=: 
+14	19.366435051	u1
+
+updateConsole called, msg=: 
+14	19.366435051	u1
+
+connindex= 3
+acqindex= 2
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['y']
+updateConsole called, msg=: 
+14	19.366435051	u1
+
+6:  s
+@1.05467391014
+--------------
+sent line to AppWindow
+s
+
+datamode? False
+newstr, 19.3707780838	s
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+15	19.3707780838	s
+
+7:  u2
+@1.05952692032
+--------------
+sent line to AppWindow
+u2
+
+datamode? False
+newstr, 19.37560606	u2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+16	19.37560606	u2
+
+8:  5.0E1r
+@1.06882882118
+--------------
+sent line to AppWindow
+5.0E1r
+
+datamode? False
+newstr, 19.3849110603	5.0E1r
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+17	19.3849110603	5.0E1r
+
+9:  u3
+@1.07342290878
+--------------
+sent line to AppWindow
+u3
+
+datamode? False
+newstr, 19.3895070553	u3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+18	19.3895070553	u3
+
+10:  g
+@1.07693481445
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 19.3931839466	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+19	19.3931839466	g
+
+11:  burstmode
+@1.09062886238
+--------------
+sent line to AppWindow
+burstmode
+
+datamode? False
+newstr, 19.4067130089	burstmode
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+20	19.4067130089	burstmode
+
+12:  1
+@1.09405398369
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 19.4101369381	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+21	19.4101369381	1
+
+13:  burstnum
+@1.10536384583
+--------------
+sent line to AppWindow
+burstnum
+
+datamode? False
+newstr, 19.421446085	burstnum
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+22	19.421446085	burstnum
+
+14:  200
+@1.11103987694
+--------------
+sent line to AppWindow
+200
+
+datamode? False
+newstr, 19.4271221161	200
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+23	19.4271221161	200
+
+15:  sendclock
+@1.12344694138
+--------------
+sent line to AppWindow
+sendclock
+
+datamode? False
+newstr, 19.4395279884	sendclock
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+24	19.4395279884	sendclock
+
+16: Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 808, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 761, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 748, in QueueScanner
+    myNParray=np.vstack((myNParray, newNPline))
+  File "/usr/lib/python2.7/dist-packages/numpy/core/shape_base.py", line 226, in vstack
+    return _nx.concatenate(map(atleast_2d,tup),0)
+ValueError: all the input array dimensions except for the concatenation axis must match exactly
+
+ 1
+@1.12679195404
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 19.4429049492	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+25	19.4429049492	1
+
+17:  ratebool
+@1.13867783546
+--------------
+sent line to AppWindow
+ratebool
+
+datamode? False
+newstr, 19.4547770023	ratebool
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+26	19.4547770023	ratebool
+
+18:  1
+@1.14215278625
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 19.4582390785	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+27	19.4582390785	1
+
+19:  ratems
+@1.15207386017
+--------------
+sent line to AppWindow
+ratems
+
+datamode? False
+newstr, 19.4681749344	ratems
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+28	19.4681749344	ratems
+
+20:  50.000 l
+@1.16491794586
+--------------
+sent line to AppWindow
+50.000 l
+
+datamode? False
+newstr, 19.4810221195	50.000 l
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+29	19.4810221195	50.000 l
+
+21:  delbool
+@1.1758108139
+--------------
+sent line to AppWindow
+delbool
+
+datamode? False
+newstr, 19.4919610023	delbool
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+30	19.4919610023	delbool
+
+22:  0
+@1.17950487137
+--------------
+sent line to AppWindow
+0
+
+datamode? False
+newstr, 19.4956099987	0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+31	19.4956099987	0
+
+23:  delms
+@1.1879119873
+--------------
+sent line to AppWindow
+delms
+
+datamode? False
+newstr, 19.5040180683	delms
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+32	19.5040180683	delms
+
+24:  0.000 l 
+@1.19997382164
+--------------
+sent line to AppWindow
+0.000 l 
+
+datamode? False
+newstr, 19.5160861015	0.000 l 
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+33	19.5160861015	0.000 l 
+
+25:  gostring
+@1.2119178772
+--------------
+sent line to AppWindow
+gostring
+
+datamode? False
+newstr, 19.5280361176	gostring
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+34	19.5280361176	gostring
+
+26:  g
+@1.21607398987
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 19.5321850777	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+35	19.5321850777	g
+
+27:  y
+@1.22012400627
+--------------
+y found! acqGreened->True
+sent line to AppWindow
+y
+
+datamode? False
+newstr, 19.5362360477	y
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+36	19.5362360477	y
+
+28:  z212;;990
+@1.23298788071
+--------------
+sent line to AppWindow
+z212;;990
+
+datamode? True
+newdat, 1.23312306404;212;;990
+
+calling RefreshDataDiplay, instance 1
+RefreshThread inited
+RefreshThread running
+29:  z51068;;986
+@1.30119299889
+--------------
+sent line to AppWindow
+z51068;;986
+
+datamode? True
+newdat, 1.30309391022;51068;;986
+
+30:  z101844;;988
+@1.35261392593
+--------------
+sent line to AppWindow
+z101844;;988
+
+datamode? True
+31:  z152740;;986
+@1.36940479279
+--------------
+sent line to AppWindow
+z152740;;986
+
+datamode? True
+32:  z203588;;989
+@1.38627481461
+--------------
+sent line to AppWindow
+z203588;;989
+
+datamode? True
+33:  z254444;;988
+@1.40314984322
+--------------
+sent line to AppWindow
+z254444;;988
+
+datamode? True
+34:  z305292;;988
+@1.42005181313
+--------------
+sent line to AppWindow
+z305292;;988
+
+datamode? True
+35:  z356148;;988
+@1.43691587448
+--------------
+sent line to AppWindow
+z356148;;988
+
+datamode? True
+36:  z407004;;988
+@1.45400381088
+--------------
+sent line to AppWindow
+z407004;;988
+
+datamode? True
+37:  z457852;;988
+@1.49194693565
+--------------
+sent line to AppWindow
+z457852;;988
+
+datamode? True
+38:  z508700;;987
+@1.54658198357
+--------------
+sent line to AppWindow
+z508700;;987
+
+datamode? True
+39:  z559556;;986
+@1.59561181068
+--------------
+sent line to AppWindow
+z559556;;986
+
+datamode? True
+40:  z610404;;989
+@1.64908981323
+--------------
+sent line to AppWindow
+z610404;;989
+
+datamode? True
+empties: 1000
+41:  z661252;;988
+@1.69793581963
+--------------
+sent line to AppWindow
+z661252;;988
+
+datamode? True
+42:  2100;;989
+@1.7483549118
+--------------
+sent line to AppWindow
+2100;;989
+
+datamode? False
+43:  z762956;;987
+@1.80084085464
+--------------
+sent line to AppWindow
+z762956;;987
+
+datamode? True
+44:  z813812;;989
+@1.84994697571
+--------------
+sent line to AppWindow
+z813812;;989
+
+datamode? True
+45:  z864668;;988
+@1.90255379677
+--------------
+sent line to AppWindow
+z864668;;988
+
+datamode? True
+46:  z915516;;987
+@1.951597929
+--------------
+sent line to AppWindow
+z915516;;987
+
+datamode? True
+47:  966372;;989
+@2.00394892693
+--------------
+sent line to AppWindow
+966372;;989
+
+datamode? False
+48:  z1017220;;989
+@2.05527281761
+--------------
+sent line to AppWindow
+z1017220;;989
+
+datamode? True
+49:  z1068140;;987
+@2.10436987877
+--------------
+sent line to AppWindow
+z1068140;;987
+
+datamode? True
+50:  z1119044;;988
+@2.15799093246
+--------------
+sent line to AppWindow
+z1119044;;988
+
+datamode? True
+51:  z1169956;;987
+@2.20696496964
+--------------
+sent line to AppWindow
+z1169956;;987
+
+datamode? True
+52:  z1220852;;987
+@2.26197886467
+--------------
+sent line to AppWindow
+z1220852;;987
+
+datamode? True
+53:  z1271756;;986
+@2.30951881409
+--------------
+sent line to AppWindow
+z1271756;;986
+
+datamode? True
+54:  22660;;988
+@2.36001086235
+--------------
+sent line to AppWindow
+22660;;988
+
+datamode? False
+55:  z1373564;;987
+@2.41155099869
+--------------
+sent line to AppWindow
+z1373564;;987
+
+datamode? True
+56:  z1424468;;989
+@2.46055579185
+--------------
+sent line to AppWindow
+z1424468;;989
+
+datamode? True
+57:  z1475372;;987
+@2.51415395737
+--------------
+sent line to AppWindow
+z1475372;;987
+
+datamode? True
+58:  z1526276;;988
+@2.56313991547
+--------------
+sent line to AppWindow
+z1526276;;988
+
+datamode? True
+59:  z1577172;;990
+@2.6166369915
+--------------
+sent line to AppWindow
+z1577172;;990
+
+datamode? True
+60:  z1628076;;989
+@2.66601395607
+--------------
+sent line to AppWindow
+z1628076;;989
+
+datamode? True
+61:  z1678980;;986
+@2.71484494209
+--------------
+sent line to AppWindow
+z1678980;;986
+
+datamode? True
+62:  z1729876;;990
+@2.76807379723
+--------------
+sent line to AppWindow
+z1729876;;990
+
+datamode? True
+63:  z1780780;;985
+@2.81711483002
+--------------
+sent line to AppWindow
+z1780780;;985
+
+datamode? True
+64:  z1831684;;988
+@2.87084293365
+--------------
+sent line to AppWindow
+z1831684;;988
+
+datamode? True
+65:  z1882588;;987
+@2.92052578926
+--------------
+sent line to AppWindow
+z1882588;;987
+
+datamode? True
+66:  1933484;;988
+@2.97197985649
+--------------
+sent line to AppWindow
+1933484;;988
+
+datamode? False
+67:  z1984388;;989
+@3.02235889435
+--------------
+sent line to AppWindow
+z1984388;;989
+
+datamode? True
+68:  z2035292;;988
+@3.07174301147
+--------------
+sent line to AppWindow
+z2035292;;988
+
+datamode? True
+69:  z2086188;;987
+@3.12471985817
+--------------
+sent line to AppWindow
+z2086188;;987
+
+datamode? True
+70:  z2137092;;988
+@3.17364692688
+--------------
+sent line to AppWindow
+z2137092;;988
+
+datamode? True
+71:  z2187996;;990
+@3.2272439003
+--------------
+sent line to AppWindow
+z2187996;;990
+
+datamode? True
+72:  z2238900;;989
+@3.27634882927
+--------------
+sent line to AppWindow
+z2238900;;989
+
+datamode? True
+73:  z2289796;;988
+@3.3253698349
+--------------
+sent line to AppWindow
+z2289796;;988
+
+datamode? True
+74:  z2340700;;990
+@3.37911295891
+--------------
+sent line to AppWindow
+z2340700;;990
+
+datamode? True
+75:  z2391604;;988
+@3.42800688744
+--------------
+sent line to AppWindow
+z2391604;;988
+
+datamode? True
+empties: 2000
+76:  z2442500;;989
+@3.48032689095
+--------------
+sent line to AppWindow
+z2442500;;989
+
+datamode? True
+77:  z2493404;;988
+@3.53050780296
+--------------
+sent line to AppWindow
+z2493404;;988
+
+datamode? True
+78:  z2544308;;989
+@3.58303785324
+--------------
+sent line to AppWindow
+z2544308;;989
+
+datamode? True
+79:  z2595212;;988
+@3.63273191452
+--------------
+sent line to AppWindow
+z2595212;;988
+
+datamode? True
+80:  z2646116;;987
+@3.68156290054
+--------------
+sent line to AppWindow
+z2646116;;987
+
+datamode? True
+81:  z2697020;;989
+@3.73510193825
+--------------
+sent line to AppWindow
+z2697020;;989
+
+datamode? True
+82:  z2747924;;988
+@3.78352499008
+--------------
+sent line to AppWindow
+z2747924;;988
+
+datamode? True
+83:  z2798820;;988
+@3.83701181412
+--------------
+sent line to AppWindow
+z2798820;;988
+
+datamode? True
+84:  z2849724;;989
+@3.88592886925
+--------------
+sent line to AppWindow
+z2849724;;989
+
+datamode? True
+85:  2900628;;988
+@3.93881797791
+--------------
+sent line to AppWindow
+2900628;;988
+
+datamode? False
+86:  z2951524;;989
+@3.98896384239
+--------------
+sent line to AppWindow
+z2951524;;989
+
+datamode? True
+87:  z3002428;;989
+@4.03800797462
+--------------
+sent line to AppWindow
+z3002428;;989
+
+datamode? True
+88:  z3053332;;987
+@4.09147596359
+--------------
+sent line to AppWindow
+z3053332;;987
+
+datamode? True
+89:  z3104236;;988
+@4.14030480385
+--------------
+sent line to AppWindow
+z3104236;;988
+
+datamode? True
+90:  z3155132;;988
+@4.19398784637
+--------------
+sent line to AppWindow
+z3155132;;988
+
+datamode? True
+91:  z3206036;;989
+@4.24302196503
+--------------
+sent line to AppWindow
+z3206036;;989
+
+datamode? True
+92:  z3256940;;989
+@4.29176402092
+--------------
+sent line to AppWindow
+z3256940;;989
+
+datamode? True
+93:  z3307836;;990
+@4.34559392929
+--------------
+sent line to AppWindow
+z3307836;;990
+
+datamode? True
+94:  z3358740;;988
+@4.39374685287
+--------------
+sent line to AppWindow
+z3358740;;988
+
+datamode? True
+95:  z3409644;;987
+@4.44726896286
+--------------
+sent line to AppWindow
+z3409644;;987
+
+datamode? True
+96:  z3460548;;989
+@4.49607300758
+--------------
+sent line to AppWindow
+z3460548;;989
+
+datamode? True
+97:  z3511444;;987
+@4.54950785637
+--------------
+sent line to AppWindow
+z3511444;;987
+
+datamode? True
+98:  z3562348;;987
+@4.59858489037
+--------------
+sent line to AppWindow
+z3562348;;987
+
+datamode? True
+99:  z3613252;;987
+@4.64763188362
+--------------
+sent line to AppWindow
+z3613252;;987
+
+datamode? True
+100:  z3664148;;987
+@4.7017018795
+--------------
+sent line to AppWindow
+z3664148;;987
+
+datamode? True
+101:  z3715052;;987
+@4.76022291183
+--------------
+sent line to AppWindow
+z3715052;;987
+
+datamode? True
+102:  z3765956;;987
+@4.8037788868
+--------------
+sent line to AppWindow
+z3765956;;987
+
+datamode? True
+103:  z3816860;;988
+@4.85273098946
+--------------
+sent line to AppWindow
+z3816860;;988
+
+datamode? True
+104:  3867764;;986
+@4.90566182137
+--------------
+sent line to AppWindow
+3867764;;986
+
+datamode? False
+105:  z3918668;;990
+@4.95608901978
+--------------
+sent line to AppWindow
+z3918668;;990
+
+datamode? True
+106:  z3969580;;988
+@5.00421500206
+--------------
+sent line to AppWindow
+z3969580;;988
+
+datamode? True
+107:  z4020476;;987
+@5.05814099312
+--------------
+sent line to AppWindow
+z4020476;;987
+
+datamode? True
+108:  z4071380;;987
+@5.10733485222
+--------------
+sent line to AppWindow
+z4071380;;987
+
+datamode? True
+109:  z4122284;;990
+@5.15996694565
+--------------
+sent line to AppWindow
+z4122284;;990
+
+datamode? True
+110:  z4173188;;990
+@5.20930480957
+--------------
+sent line to AppWindow
+z4173188;;990
+
+datamode? True
+empties: 3000
+111:  z4224092;;988
+@5.25880479813
+--------------
+sent line to AppWindow
+z4224092;;988
+
+datamode? True
+112:  z4274988;;989
+@5.31156301498
+--------------
+sent line to AppWindow
+z4274988;;989
+
+datamode? True
+113:  z4325892;;988
+@5.36073279381
+--------------
+sent line to AppWindow
+z4325892;;988
+
+datamode? True
+114:  z4376788;;991
+@5.41436886787
+--------------
+sent line to AppWindow
+z4376788;;991
+
+datamode? True
+115:  z4427692;;988
+@5.46339797974
+--------------
+sent line to AppWindow
+z4427692;;988
+
+datamode? True
+116:  z4478596;;990
+@5.5170788765
+--------------
+sent line to AppWindow
+z4478596;;990
+
+datamode? True
+117:  z4529500;;987
+@5.56538796425
+--------------
+sent line to AppWindow
+z4529500;;987
+
+datamode? True
+118:  z4580404;;987
+@5.61493802071
+--------------
+sent line to AppWindow
+z4580404;;987
+
+datamode? True
+119:  z4631308;;988
+@5.66808986664
+--------------
+sent line to AppWindow
+z4631308;;988
+
+datamode? True
+120:  z4682212;;989
+@5.71745181084
+--------------
+sent line to AppWindow
+z4682212;;989
+
+datamode? True
+121:  z4733108;;988
+@5.77019286156
+--------------
+sent line to AppWindow
+z4733108;;988
+
+datamode? True
+122:  z4784012;;989
+@5.8190100193
+--------------
+sent line to AppWindow
+z4784012;;989
+
+datamode? True
+123:  834916;;989
+@5.87035298347
+--------------
+sent line to AppWindow
+834916;;989
+
+datamode? False
+124:  z4885812;;988
+@5.92158484459
+--------------
+sent line to AppWindow
+z4885812;;988
+
+datamode? True
+125:  z4936716;;988
+@5.97077488899
+--------------
+sent line to AppWindow
+z4936716;;988
+
+datamode? True
+126:  z4987620;;989
+@6.02448487282
+--------------
+sent line to AppWindow
+z4987620;;989
+
+datamode? True
+127:  z5038524;;990
+@6.07374596596
+--------------
+sent line to AppWindow
+z5038524;;990
+
+datamode? True
+128:  z5089420;;988
+@6.12756490707
+--------------
+sent line to AppWindow
+z5089420;;988
+
+datamode? True
+129:  z5140324;;987
+@6.17552185059
+--------------
+sent line to AppWindow
+z5140324;;987
+
+datamode? True
+130:  z5191228;;990
+@6.22516679764
+--------------
+sent line to AppWindow
+z5191228;;990
+
+datamode? True
+131:  z5242124;;987
+@6.27810978889
+--------------
+sent line to AppWindow
+z5242124;;987
+
+datamode? True
+132:  z5293028;;990
+@6.32732796669
+--------------
+sent line to AppWindow
+z5293028;;990
+
+datamode? True
+133:  z5343932;;989
+@6.38099980354
+--------------
+sent line to AppWindow
+z5343932;;989
+
+datamode? True
+134:  z5394836;;988
+@6.42994499207
+--------------
+sent line to AppWindow
+z5394836;;988
+
+datamode? True
+135:  z5445740;;988
+@6.48271894455
+--------------
+sent line to AppWindow
+z5445740;;988
+
+datamode? True
+136:  z5496644;;986
+@6.53210282326
+--------------
+sent line to AppWindow
+z5496644;;986
+
+datamode? True
+137:  z5547556;;988
+@6.58126997948
+--------------
+sent line to AppWindow
+z5547556;;988
+
+datamode? True
+138:  z5598452;;988
+@6.63496398926
+--------------
+sent line to AppWindow
+z5598452;;988
+
+datamode? True
+139:  z5649356;;987
+@6.68434095383
+--------------
+sent line to AppWindow
+z5649356;;987
+
+datamode? True
+140:  z5700260;;987
+@6.73676586151
+--------------
+sent line to AppWindow
+z5700260;;987
+
+datamode? True
+141:  z5751164;;988
+@6.78494000435
+--------------
+sent line to AppWindow
+z5751164;;988
+
+datamode? True
+142:  802068;;989
+@6.83592796326
+--------------
+sent line to AppWindow
+802068;;989
+
+datamode? False
+143:  z5852972;;988
+@6.88892483711
+--------------
+sent line to AppWindow
+z5852972;;988
+
+datamode? True
+144:  z5903876;;989
+@6.93792200089
+--------------
+sent line to AppWindow
+z5903876;;989
+
+datamode? True
+145:  z5954772;;989
+@6.99062085152
+--------------
+sent line to AppWindow
+z5954772;;989
+
+datamode? True
+empties: 4000
+146:  z6005676;;987
+@7.03948283195
+--------------
+sent line to AppWindow
+z6005676;;987
+
+datamode? True
+147:  z6056580;;989
+@7.09341096878
+--------------
+sent line to AppWindow
+z6056580;;989
+
+datamode? True
+148:  z6107484;;990
+@7.14253091812
+--------------
+sent line to AppWindow
+z6107484;;990
+
+datamode? True
+149:  z6158388;;988
+@7.19156289101
+--------------
+sent line to AppWindow
+z6158388;;988
+
+datamode? True
+150:  z6209292;;988
+@7.24531698227
+--------------
+sent line to AppWindow
+z6209292;;988
+
+datamode? True
+151:  z6260196;;986
+@7.29399394989
+--------------
+sent line to AppWindow
+z6260196;;986
+
+datamode? True
+152:  z6311092;;987
+@7.34793281555
+--------------
+sent line to AppWindow
+z6311092;;987
+
+datamode? True
+153:  z6361996;;989
+@7.39570879936
+--------------
+sent line to AppWindow
+z6361996;;989
+
+datamode? True
+154:  z6412900;;990
+@7.44930481911
+--------------
+sent line to AppWindow
+z6412900;;990
+
+datamode? True
+155:  z6463796;;988
+@7.49848794937
+--------------
+sent line to AppWindow
+z6463796;;988
+
+datamode? True
+156:  z6514700;;986
+@7.5475769043
+--------------
+sent line to AppWindow
+z6514700;;986
+
+datamode? True
+157:  z6565604;;988
+@7.60127091408
+--------------
+sent line to AppWindow
+z6565604;;988
+
+datamode? True
+158:  z6616508;;988
+@7.65048289299
+--------------
+sent line to AppWindow
+z6616508;;988
+
+datamode? True
+159:  z6667404;;986
+@7.70396900177
+--------------
+sent line to AppWindow
+z6667404;;986
+
+datamode? True
+160:  z6718308;;987
+@7.75309181213
+--------------
+sent line to AppWindow
+z6718308;;987
+
+datamode? True
+161:  769212;;989
+@7.80428385735
+--------------
+sent line to AppWindow
+769212;;989
+
+datamode? False
+162:  z6820108;;986
+@7.85540699959
+--------------
+sent line to AppWindow
+z6820108;;986
+
+datamode? True
+163:  z6871012;;989
+@7.90437293053
+--------------
+sent line to AppWindow
+z6871012;;989
+
+datamode? True
+164:  z6921916;;989
+@7.95688986778
+--------------
+sent line to AppWindow
+z6921916;;989
+
+datamode? True
+165:  z6972820;;990
+@8.00725388527
+--------------
+sent line to AppWindow
+z6972820;;990
+
+datamode? True
+166:  z7023724;;988
+@8.05968093872
+--------------
+sent line to AppWindow
+z7023724;;988
+
+datamode? True
+167:  z7074628;;989
+@8.10880589485
+--------------
+sent line to AppWindow
+z7074628;;989
+
+datamode? True
+168:  z7125540;;987
+@8.15796089172
+--------------
+sent line to AppWindow
+z7125540;;987
+
+datamode? True
+169:  z7176444;;989
+@8.21162581444
+--------------
+sent line to AppWindow
+z7176444;;989
+
+datamode? True
+170:  z7227348;;989
+@8.26255297661
+--------------
+sent line to AppWindow
+z7227348;;989
+
+datamode? True
+171:  z7278252;;989
+@8.31419992447
+--------------
+sent line to AppWindow
+z7278252;;989
+
+datamode? True
+172:  z7329156;;988
+@8.36355900764
+--------------
+sent line to AppWindow
+z7329156;;988
+
+datamode? True
+173:  z7380060;;988
+@8.41628193855
+--------------
+sent line to AppWindow
+z7380060;;988
+
+datamode? True
+174:  z7430964;;987
+@8.4655559063
+--------------
+sent line to AppWindow
+z7430964;;987
+
+datamode? True
+175:  z7481868;;990
+@8.51450896263
+--------------
+sent line to AppWindow
+z7481868;;990
+
+datamode? True
+176:  z7532764;;989
+@8.56752181053
+--------------
+sent line to AppWindow
+z7532764;;989
+
+datamode? True
+177:  z7583668;;987
+@8.61647081375
+--------------
+sent line to AppWindow
+z7583668;;987
+
+datamode? True
+178:  z7634572;;989
+@8.66989088058
+--------------
+sent line to AppWindow
+z7634572;;989
+
+datamode? True
+179:  z7685468;;989
+@8.71891593933
+--------------
+sent line to AppWindow
+z7685468;;989
+
+datamode? True
+180:  736372;;988
+@8.7700548172
+--------------
+sent line to AppWindow
+736372;;988
+
+datamode? False
+empties: 5000
+181:  z7787276;;990
+@8.82200694084
+--------------
+sent line to AppWindow
+z7787276;;990
+
+datamode? True
+182:  z7838180;;990
+@8.87108182907
+--------------
+sent line to AppWindow
+z7838180;;990
+
+datamode? True
+183:  z7889084;;989
+@8.92382287979
+--------------
+sent line to AppWindow
+z7889084;;989
+
+datamode? True
+184:  z7939988;;987
+@8.97340393066
+--------------
+sent line to AppWindow
+z7939988;;987
+
+datamode? True
+185:  z7990892;;987
+@9.02621984482
+--------------
+sent line to AppWindow
+z7990892;;987
+
+datamode? True
+186:  z8041788;;987
+@9.07510685921
+--------------
+sent line to AppWindow
+z8041788;;987
+
+datamode? True
+187:  z8092692;;988
+@9.12433099747
+--------------
+sent line to AppWindow
+z8092692;;988
+
+datamode? True
+188:  z8143596;;988
+@9.17788887024
+--------------
+sent line to AppWindow
+z8143596;;988
+
+datamode? True
+189:  z8194500;;990
+@9.22726893425
+--------------
+sent line to AppWindow
+z8194500;;990
+
+datamode? True
+190:  z8245396;;988
+@9.28337979317
+--------------
+sent line to AppWindow
+z8245396;;988
+
+datamode? True
+191:  z8296300;;989
+@9.32902097702
+--------------
+sent line to AppWindow
+z8296300;;989
+
+datamode? True
+192:  z8347204;;988
+@9.38294887543
+--------------
+sent line to AppWindow
+z8347204;;988
+
+datamode? True
+193:  z8398100;;990
+@9.43219995499
+--------------
+sent line to AppWindow
+z8398100;;990
+
+datamode? True
+194:  z8449004;;988
+@9.48131489754
+--------------
+sent line to AppWindow
+z8449004;;988
+
+datamode? True
+195:  z8499908;;986
+@9.53467488289
+--------------
+sent line to AppWindow
+z8499908;;986
+
+datamode? True
+196:  z8550812;;990
+@9.58396601677
+--------------
+sent line to AppWindow
+z8550812;;990
+
+datamode? True
+197:  z8601716;;988
+@9.63653898239
+--------------
+sent line to AppWindow
+z8601716;;988
+
+datamode? True
+198:  z8652620;;988
+@9.68563985825
+--------------
+sent line to AppWindow
+z8652620;;988
+
+datamode? True
+199:  703532;;988
+@9.73694586754
+--------------
+sent line to AppWindow
+703532;;988
+
+datamode? False
+200:  z8754436;;988
+@9.78875589371
+--------------
+sent line to AppWindow
+z8754436;;988
+
+datamode? True
+201:  z8805340;;987
+@9.83781194687
+--------------
+sent line to AppWindow
+z8805340;;987
+
+datamode? True
+202:  z8856244;;989
+@9.89029192924
+--------------
+sent line to AppWindow
+z8856244;;989
+
+datamode? True
+203:  z8907148;;988
+@9.93965888023
+--------------
+sent line to AppWindow
+z8907148;;988
+
+datamode? True
+204:  z8958052;;990
+@9.9935669899
+--------------
+sent line to AppWindow
+z8958052;;990
+
+datamode? True
+205:  z9008956;;988
+@10.0426158905
+--------------
+sent line to AppWindow
+z9008956;;988
+
+datamode? True
+206:  z9059860;;988
+@10.0917789936
+--------------
+sent line to AppWindow
+z9059860;;988
+
+datamode? True
+207:  z9110756;;987
+@10.1441838741
+--------------
+sent line to AppWindow
+z9110756;;987
+
+datamode? True
+208:  z9161660;;986
+@10.1935219765
+--------------
+sent line to AppWindow
+z9161660;;986
+
+datamode? True
+209:  z9212564;;990
+@10.2471268177
+--------------
+sent line to AppWindow
+z9212564;;990
+
+datamode? True
+210:  z9263468;;987
+@10.2967908382
+--------------
+sent line to AppWindow
+z9263468;;987
+
+datamode? True
+211:  z9314372;;990
+@10.3495798111
+--------------
+sent line to AppWindow
+z9314372;;990
+
+datamode? True
+212:  z9365276;;990
+@10.3989949226
+--------------
+sent line to AppWindow
+z9365276;;990
+
+datamode? True
+213:  z9416180;;989
+@10.4480938911
+--------------
+sent line to AppWindow
+z9416180;;989
+
+datamode? True
+214:  z9467084;;988
+@10.5005187988
+--------------
+sent line to AppWindow
+z9467084;;988
+
+datamode? True
+215:  z9517988;;989
+@10.5497238636
+--------------
+sent line to AppWindow
+z9517988;;989
+
+datamode? True
+empties: 6000
+216:  z9568892;;988
+@10.6031959057
+--------------
+sent line to AppWindow
+z9568892;;988
+
+datamode? True
+217:  z9619796;;988
+@10.6522538662
+--------------
+sent line to AppWindow
+z9619796;;988
+
+datamode? True
+218:  670700;;988
+@10.7039330006
+--------------
+sent line to AppWindow
+670700;;988
+
+datamode? False
+219:  z9721604;;987
+@10.7542769909
+--------------
+sent line to AppWindow
+z9721604;;987
+
+datamode? True
+220:  z9772508;;987
+@10.8037137985
+--------------
+sent line to AppWindow
+z9772508;;987
+
+datamode? True
+221:  z9823412;;988
+@10.8572759628
+--------------
+sent line to AppWindow
+z9823412;;988
+
+datamode? True
+222:  z9874316;;989
+@10.9064638615
+--------------
+sent line to AppWindow
+z9874316;;989
+
+datamode? True
+223:  z9925220;;990
+@10.9599659443
+--------------
+sent line to AppWindow
+z9925220;;990
+
+datamode? True
+224:  z9976116;;988
+@11.0089859962
+--------------
+sent line to AppWindow
+z9976116;;988
+
+datamode? True
+225:  z10027020;;988
+@11.0592989922
+--------------
+sent line to AppWindow
+z10027020;;988
+
+datamode? True
+226:  z10077988;;988
+@11.1122009754
+--------------
+sent line to AppWindow
+z10077988;;988
+
+datamode? True
+227:  z10128948;;989
+@11.1614148617
+--------------
+sent line to AppWindow
+z10128948;;989
+
+datamode? True
+read termed by Arduino with signal x
+final acquisition NParray
+[[  1.23312306e+00   2.12000000e-04   9.90000000e+02   1.23291106e+00]]
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+ColorThread running
+connindex= 3
+acqindex= 4
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['b']
+initiating connKill
+active connection found
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+connKill routine complete
+ColorThread running
+connindex= 4
+acqindex= 4
+finished updateColorsThreaded
+self.connStatuses: 
+['b']
+self.acqStatuses: 
+['b']
+qputthread killed by last connstatus= b
+QClipboard: Unable to receive an event from the clipboard manager in a reasonable time

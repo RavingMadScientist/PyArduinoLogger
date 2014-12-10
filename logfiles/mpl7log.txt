@@ -1,0 +1,2263 @@
+hello
+ACObject initialized
+checking legality of connPing call: 
+dev file: 
+/dev/ttyACM0
+initiating ping
+qgetthread initiated
+QueueScanner stalemax: 0.02
+qputthread initiated
+connFunc initiated
+connFunc returned object !=-1: 
+Serial<id=0x2c15d50, open=True>(port='/dev/ttyACM0', baudrate=115200, bytesize=8, parity='N', stopbits=1, timeout=30, xonxoff=False, rtscts=False, dsrdtr=False)
+<class 'serial.serialposix.Serial'>
+serconn.inWaiting !=Empty. Connected to Arduino
+msg type
+<type 'str'>
+length=4
+0: a
+1: 0
+2: 
+3: 
+
+over
+firstMsg
+a0
+
+a0
+
+'a0\r\n'
+sending 'p' to Arduino: try #
+1
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread running
+ColorThread inited
+connindex= 2
+ColorThread running
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['y']
+self.acqStatuses: 
+['r']
+connindex= 2
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['y']
+self.acqStatuses: 
+['r']
+nonread
+100
+nonread
+200
+nonread
+300
+sr=0
+sr=1
+sr=2
+sr=3
+sent line to AppWindow
+['a', '0', '\r', '\n'newstr, 1.65357089043	['a', '0', '\r', '\n']
+]
+datamode? False
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+1	1.65357089043	['a', '0', '\r', '\n']
+nonread
+400
+nonread
+500
+nonread
+600
+sr=4
+sr=5
+sr=6
+sr=7
+sreads = 8
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+++++++++
+sent line to AppWindow
+['a', '0', '\r', newstr, 2.65897583961	['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+init Qthread to update lTextBox
+'\n', 'a', '1', '\r'UpdateThread inited
+, '\n']
+datamode? False
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+2	2.65897583961	['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+nonread
+700
+nonread
+800
+sr=8
+sr=9
+sr=10
+sr=11
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+datamode? False
+newstr, 3.65348386765	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+3	3.65348386765	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+nonread
+900
+nonread
+1000
+nonread
+1100
+sr=12
+sr=13
+sr=14
+sr=15
+sreads = 16
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+++++++++
+sent line to AppWindow
+ newstr, 4.6601858139	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+datamode? False
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+4	4.6601858139	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+nonread
+1200
+nonread
+1300
+sr=16
+sr=17
+sr=18
+sr=19
+sent line to AppWindow
+['a', '0', '\r', '\n'newstr, 5.65723991394	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+init Qthread to update lTextBox
+, 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', UpdateThread inited
+'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+datamode? False
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+5	5.65723991394	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+nonread
+1400
+nonread
+1500
+nonread
+1600
+sr=20
+final blankstring
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n', 'a']
+final sreads
+21
++++++
+sending 'p' to Arduino: try #
+2
+sr=0
+sr=1
+sr=2
+sent line to AppWindow
+['a', '0'newstr, 6.6754219532	['a', '0', '\r']
+init Qthread to update lTextBox
+, '\r']
+datamode? False
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+6	6.6754219532	['a', '0', '\r']
+nonread
+100
+nonread
+200
+sr=3
+charstart found! at 4
+abstractbutton clicked, UpdateColors pyqtSlot
+ sent line to AppWindow
+r
+datamode? False
+final blankstring
+['a', '0', '\r'newstr, 7.65353298187	r
+init Qthread to update lTextBox
+UpdateThread inited
+, '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n', 'a', '5', '\r', '\n', 'r']
+final sreads
+4
++++++
+Entering ReadSomeVals loop
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+ColorThread running
+ updateConsole called, msg=: 
+7	7.65353298187	r
+connindex= 3
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['r']
+0:  p
+@0.995799064636
+--------------
+sent line to AppWindow
+p
+
+datamode? False
+newstr, 8.6505010128	p
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+8	8.6505010128	p
+
+1:  l
+@0.999716997147
+--------------
+sent line to AppWindow
+l
+
+datamode? False
+newstr, 8.6544148922	l
+
+init Qthread to update lTextBox
+UpdateThread inited
+2:  t0
+@1.00486207008
+--------------
+sent line to AppWindow
+ newstr, 8.65954899788	t0
+t0
+
+datamode? False
+
+init Qthread to update lTextBox
+UpdateThread running
+UpdateThread outmode l
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+3:  t1
+@1.00979399681
+--------------
+sent line to AppWindow
+t1
+
+datamode? False
+newstr, 8.66449594498	t1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+11	8.66449594498	t1
+
+updateConsole called, msg=: 
+11	8.66449594498	t1
+
+updateConsole called, msg=: 
+11	8.66449594498	t1
+
+4:  t2
+@1.01470208168
+--------------
+sent line to AppWindow
+t2
+
+datamode? False
+newstr, 8.66946196556	t2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+5:  t3
+@1.02080798149
+--------------
+sent line to AppWindow
+t3
+
+datamode? Falsenewstr, 8.6754989624	t3
+
+init Qthread to update lTextBox
+
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+13	8.6754989624	t3
+
+updateConsole called, msg=: 
+13	8.6754989624	t3
+
+6:  t4
+@1.02591300011
+--------------
+sent line to AppWindow
+t4
+
+datamode? False
+newstr, 8.68061184883	t4
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+read termed by Arduino with signal x
+updateConsole called, msg=: 
+14	8.68061184883	t4
+
+self.qputthread reports ACGUILib connFunc returned
+checking legality of AcqRequest call
+AcqRequest legally initiated
+Acq-requestString to Arduino:
+b100,s,5.0E1r,g
+abstractbutton clicked, UpdateColors pyqtSlot
+qputthread catches an AcqRequest
+b100,s,5.0E1r,g
+ACGuiLib.reqAcq data called, sending reqString to Arduino
+Entering ReadSomeVals loop
+0:  
+@0.00141406059265
+--------------
+sent line to AppWindow
+
+
+datamode? False
+ newstr, 11.7394750118	
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+ColorThread running
+updateConsole called, msg=: 
+15	11.7394750118	
+
+connindex= 3
+acqindex= 1
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['o']
+1:  b100,s,5.0E1r,g
+@1.02916502953
+--------------
+abstractbutton clicked, UpdateColors pyqtSlot
+ sent line to AppWindow
+b100,s,5.0E1r,g
+
+datamode? False
+newstr, 12.7673118114	b100,s,5.0E1r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+2:  b
+@1.03302001953
+--------------
+sent line to AppWindow
+b
+
+datamode? False
+newstr, 12.7711129189	b
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+3:  u0
+@1.03772091866
+--------------
+sent line to AppWindow
+u0
+
+datamode? False
+newstr, 12.7757899761	u0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+4:  b100
+@1.04466700554
+--------------
+sent line to AppWindow
+b100
+
+datamode? False
+newstr, 12.7827358246	b100
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+5:  u1
+@1.04945707321
+--------------
+sent line to AppWindow
+u1
+
+datamode? False
+newstr, 12.7875130177	u1
+
+init Qthread to update lTextBox
+ColorThread initedUpdateThread inited
+
+ColorThread running
+updateConsole called, msg=: 
+20	12.7875130177	u1
+
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+20	12.7875130177	u1
+
+updateConsole called, msg=: 
+20	12.7875130177	u1
+
+updateConsole called, msg=: 
+20	12.7875130177	u1
+
+6:  s
+@1.05304908752
+--------------
+sent line to AppWindow
+s
+
+datamode? False
+newstr, 12.7911069393	s
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+connindex= 3
+acqindex= 2
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['y']
+updateConsole called, msg=: 
+21	12.7911069393	s
+
+updateConsole called, msg=: 
+21	12.7911069393	s
+
+7:  u2
+@1.05788707733
+--------------
+sent line to AppWindow
+u2
+
+datamode? False
+newstr, 12.795953989	u2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+22	12.795953989	u2
+
+8:  5.0E1r
+@1.06743597984
+--------------
+sent line to AppWindow
+5.0E1r
+
+datamode? False
+newstr, 12.8055138588	5.0E1r
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+23	12.8055138588	5.0E1r
+
+9:  u3
+@1.07198500633
+--------------
+sent line to AppWindow
+u3
+
+datamode? False
+newstr, 12.8100349903	u3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+24	12.8100349903	u3
+
+10:  g
+@1.07586812973
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 12.8139200211	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+25	12.8139200211	g
+
+11:  burstmode
+@1.08882689476
+--------------
+sent line to AppWindow
+burstmode
+
+datamode? False
+newstr, 12.8269200325	burstmode
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+26	12.8269200325	burstmode
+
+12:  1
+@1.09248900414
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 12.8305399418	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+27	12.8305399418	1
+
+13:  burstnum
+@1.10406303406
+--------------
+sent line to AppWindow
+burstnum
+
+datamode? False
+newstr, 12.8421189785	burstnum
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+28	12.8421189785	burstnum
+
+14:  100
+@1.1106030941
+--------------
+sent line to AppWindow
+100
+newstr, 12.8487079144	100
+
+init Qthread to update lTextBox
+
+datamode? False
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+29	12.8487079144	100
+
+15:  sendclock
+@1.12496900558
+--------------
+sent line to AppWindow
+sendclock
+
+datamode? False
+newstr, 12.8631248474	sendclock
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+30	12.8631248474	sendclock
+
+16:  1
+@1.12907409668
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 12.8671410084	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+31	12.8671410084	1
+
+17:  ratebool
+@1.14201998711
+--------------
+sent line to AppWindow
+ratebool
+
+datamode? False
+newstr, 12.880081892	ratebool
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+32	12.880081892	ratebool
+
+18:  1
+@1.14570808411
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 12.8837690353	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+33	12.8837690353	1
+
+19:  ratems
+@1.1557559967
+--------------
+sent line to AppWindow
+ratems
+
+datamode? False
+newstr, 12.8938269615	ratems
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+34	12.8938269615	ratems
+
+20:  50.000 l
+@1.16828298569
+--------------
+sent line to AppWindow
+50.000 l
+
+datamode? False
+newstr, 12.9063639641	50.000 l
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+35	12.9063639641	50.000 l
+
+21:  delbool
+@1.17922306061
+--------------
+sent line to AppWindow
+delbool
+
+datamode? False
+newstr, 12.9172949791	delbool
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+36	12.9172949791	delbool
+
+22:  0
+@1.18293190002
+--------------
+sent line to AppWindow
+0
+
+datamode? False
+newstr, 12.9210128784	0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+37	12.9210128784	0
+
+23:  delms
+@1.19189500809
+--------------
+sent line to AppWindow
+delms
+
+datamode? False
+newstr, 12.9299659729	delms
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+38	12.9299659729	delms
+
+24:  0.000 l 
+@1.2039399147
+--------------
+sent line to AppWindow
+0.000 l 
+
+datamode? False
+newstr, 12.9420058727	0.000 l 
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+39	12.9420058727	0.000 l 
+
+25:  gostring
+@1.21606111526
+--------------
+sent line to AppWindow
+gostring
+
+datamode? False
+newstr, 12.9541268349	gostring
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+40	12.9541268349	gostring
+
+26:  g
+@1.21984910965
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 12.9579129219	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+41	12.9579129219	g
+
+27:  y
+@1.22345900536
+--------------
+y found! acqGreened->True
+sent line to AppWindow
+y
+
+datamode? False
+newstr, 12.9615218639	y
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+42	12.9615218639	y
+
+28:  z216;;989
+@1.23653507233
+--------------
+sent line to AppWindow
+z216;;989
+
+datamode? True
+newdat, 1.23662114143;216;;989
+
+calling RefreshDataDiplay, instance 1
+RefreshThread inited
+loopspeed0.0458669662476
+RefreshThread running
+29:  z51064;;987
+@1.30738711357
+--------------
+sent line to AppWindow
+z51064;;987
+
+datamode? True
+ newdat, 1.30749201775;51064;;987
+
+calling RefreshDataDiplay, instance 2
+RefreshThread inited
+loopspeed0.132952928543
+RefreshThread running
+30:  z101832;;987
+@1.44292211533
+--------------
+sent line to AppWindow
+z101832;;987
+
+datamode? True
+newdat, 1.44295096397;101832;;987
+
+loopspeed0.00903105735779
+31:  z152728;;987
+@1.4899520874
+--------------
+sent line to AppWindow
+z152728;;987
+
+datamode? True
+newdat, 1.49110913277;152728;;987
+
+calling RefreshDataDiplay, instance 3
+RefreshThread inited
+loopspeed0.0383591651917
+RefreshThread running
+32:  z203576;;989
+@1.55644702911
+--------------
+sent line to AppWindow
+z203576;;989
+
+datamode? True
+newdat, 1.55794215202;203576;;989
+
+calling RefreshDataDiplay, instance 4
+RefreshThread inited
+RefreshThread running
+ loopspeed0.11404800415
+33:  z254432;;988
+@1.67276906967
+--------------
+sent line to AppWindow
+z254432;;988
+
+datamode? True
+newdat, 1.6745390892;254432;;988
+
+loopspeed0.00278210639954
+34:  z305280;;990
+@1.72538304329
+--------------
+sent line to AppWindow
+z305280;;990
+
+datamode? True
+newdat, 1.72543215752;305280;;990
+
+calling RefreshDataDiplay, instance 5
+RefreshThread inited
+loopspeed0.0583848953247
+RefreshThread running
+35:  z356128;;987
+@1.79151201248
+--------------
+sent line to AppWindow
+z356128;;987
+
+datamode? True
+newdat, 1.79157519341;356128;;987
+
+loopspeed0.000175952911377
+36:  z406984;;987
+@1.84582996368
+--------------
+sent line to AppWindow
+z406984;;987
+
+datamode? True
+newdat, 1.84597206116;406984;;987
+
+calling RefreshDataDiplay, instance 6
+RefreshThread inited
+loopspeed0.0325870513916
+RefreshThread running
+37:  z457832;;988
+@1.9204659462
+--------------
+sent line to AppWindow
+ newdat, 1.9211230278;457832;;988
+z457832;;988
+
+
+datamode? True
+calling RefreshDataDiplay, instance 7
+RefreshThread inited
+RefreshThread running
+loopspeed0.107299089432
+38:  z508680;;987
+@2.03262090683
+--------------
+sent line to AppWindow
+z508680;;987
+newdat, 2.03323101997;508680;;987
+
+
+loopspeed0.00250506401062
+datamode? True
+39:  z559536;;989
+@2.07607603073
+--------------
+sent line to AppWindow
+ newdat, 2.0761961937;559536;;989
+
+calling RefreshDataDiplay, instance 8
+z559536;;989
+
+datamode? True
+RefreshThread inited
+loopspeed0.03080701828
+RefreshThread running
+40:  z610392;;987
+@2.14890098572
+--------------
+sent line to AppWindow
+z610392;;987
+
+datamode? True
+newdat, 2.14906215668;610392;;987
+
+calling RefreshDataDiplay, instance 9
+41:  z661248;;989
+@2.31099009514
+--------------
+sent line to AppWindow
+z661248;;989
+
+datamode? True
+RefreshThread inited
+loopspeed0.168761968613
+RefreshThread running
+newdat, 2.31246900558;661248;;989
+
+loopspeed0.00190591812134
+42:  z712096;;988
+@2.37333607674
+--------------
+sent line to AppWindow
+z712096;;988
+
+datamode? True
+newdat, 2.3733689785;712096;;988
+
+calling RefreshDataDiplay, instance 10
+RefreshThread inited
+loopspeed0.0351009368896
+RefreshThread running
+43:  z762944;;990
+@2.44878101349
+--------------
+sent line to AppWindow
+z762944;;990
+
+datamode? True
+ newdat, 2.45232510567;762944;;990
+
+calling RefreshDataDiplay, instance 11
+RefreshThread inited
+loopspeed0.0614051818848
+RefreshThread running
+44:  z813800;;989
+@2.54534006119
+--------------
+sent line to AppWindow
+z813800;;989
+
+datamode? Truenewdat, 2.54561400414;813800;;989
+
+
+calling RefreshDataDiplay, instance 12
+45:  z864656;;986
+@2.67345094681
+--------------
+sent line to AppWindow
+z864656;;986
+
+datamode? True
+RefreshThread inited
+loopspeed0.168626070023
+RefreshThread running
+newdat, 2.67351698875;864656;;986
+
+loopspeed0.000745058059692
+46:  z915504;;987
+@2.75479698181
+--------------
+sent line to AppWindow
+z915504;;987
+
+datamode? True
+newdat, 2.75706601143;915504;;987
+
+calling RefreshDataDiplay, instance 13
+RefreshThread inited
+loopspeed0.0601551532745
+RefreshThread running
+47:  z966360;;986
+@2.84049510956
+--------------
+sent line to AppWindow
+z966360;;986
+
+datamode? True
+newdat, 2.84055018425;966360;;986
+
+calling RefreshDataDiplay, instance 14
+48:  z1017208;;989
+@2.97635793686
+--------------
+sent line to AppWindow
+z1017208;;989
+
+datamode? True
+RefreshThread inited
+loopspeed0.149646997452
+RefreshThread running
+newdat, 2.97642707825;1017208;;989
+
+loopspeed0.000647068023682
+49:  z1068128;;987
+@3.03292012215
+--------------
+sent line to AppWindow
+z1068128;;987
+
+datamode? True
+newdat, 3.0330080986;1068128;;987
+
+calling RefreshDataDiplay, instance 15
+RefreshThread inited
+loopspeed0.0646798610687
+RefreshThread running
+50:  z1119024;;988
+@3.11802792549
+--------------
+sent line to AppWindow
+z1119024;;988
+
+datamode? True
+newdat, 3.11809110641;1119024;;988
+
+calling RefreshDataDiplay, instance 16
+RefreshThread inited
+loopspeed0.0990719795227
+RefreshThread running
+51:  z1169928;;988
+@3.24478697777
+--------------
+sent line to AppWindow
+z1169928;;988
+newdat, 3.24505209923;1169928;;988
+
+
+datamode? True
+calling RefreshDataDiplay, instance 17
+RefreshThread inited
+loopspeed0.0765190124512
+RefreshThread running
+52:  z1220824;;987
+@3.33048200607
+--------------
+sent line to AppWindow
+z1220824;;987
+
+datamode? True
+newdat, 3.33114004135;1220824;;987
+
+loopspeed0.0039541721344
+53:  z1271728;;988
+@3.37463498116
+--------------
+sent line to AppWindow
+z1271728;;988
+
+datamode? True
+newdat, 3.37468099594;1271728;;988
+
+calling RefreshDataDiplay, instance 18
+RefreshThread inited
+loopspeed0.0310201644897
+RefreshThread running
+54:  z1322632;;988
+@3.4479470253
+--------------
+sent line to AppWindow
+z1322632;;988
+
+datamode? True
+ newdat, 3.4486219883;1322632;;988
+
+calling RefreshDataDiplay, instance 19
+RefreshThread inited
+loopspeed0.0509059429169
+RefreshThread running
+55:  z1373528;;988
+@3.52847695351
+--------------
+sent line to AppWindow
+z1373528;;988
+
+datamode? True
+newdat, 3.5289170742;1373528;;988
+
+calling RefreshDataDiplay, instance 20
+RefreshThread inited
+loopspeed0.0954029560089
+RefreshThread running
+56:  z1424432;;985
+@3.63664197922
+--------------
+sent line to AppWindow
+z1424432;;985
+
+datamode? True
+ newdat, 3.63671398163;1424432;;985
+
+loopspeed0.0037579536438
+57:  z1475336;;988
+@3.68000912666
+--------------
+sent line to AppWindow
+z1475336;;988
+newdat, 3.68007111549;1475336;;988
+
+calling RefreshDataDiplay, instance 21
+
+datamode? True
+RefreshThread inited
+loopspeed0.037663936615
+RefreshThread running
+58:  z1526240;;987
+@3.77093601227
+--------------
+sent line to AppWindow
+z1526240;;987
+
+datamode? True
+ newdat, 3.77097296715;1526240;;987
+
+calling RefreshDataDiplay, instance 22
+RefreshThread inited
+loopspeed0.0570428371429
+RefreshThread running
+59:  z1577136;;985
+@3.85035204887
+--------------
+sent line to AppWindow
+z1577136;;985
+newdat, 3.85132718086;1577136;;985
+
+
+datamode? True
+ calling RefreshDataDiplay, instance 23
+RefreshThread inited
+loopspeed0.122447013855
+RefreshThread running
+60:  z1628040;;986
+@3.98407101631
+--------------
+sent line to AppWindow
+z1628040;;986
+newdat, 3.98579597473;1628040;;986
+
+
+loopspeed0.00544500350952
+datamode? True
+61:  z1678944;;989
+@4.0341489315
+--------------
+sent line to AppWindow
+z1678944;;989
+newdat, 4.03421401978;1678944;;989
+
+
+datamode? True
+calling RefreshDataDiplay, instance 24
+RefreshThread inited
+loopspeed0.034716129303
+RefreshThread running
+62:  z1729840;;990
+@4.10758495331
+--------------
+sent line to AppWindow
+z1729840;;990
+
+datamode? True
+newdat, 4.10828709602;1729840;;990
+
+calling RefreshDataDiplay, instance 25
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.canvas.draw()
+  File "/usr/lib/pymodules/python2.7/matplotlib/backends/backend_qt4agg.py", line 148, in draw
+    FigureCanvasAgg.draw(self)
+  File "/usr/lib/pymodules/python2.7/matplotlib/backends/backend_agg.py", line 440, in draw
+    self.figure.draw(self.renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/figure.py", line 1006, in draw
+    func(*args)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axes.py", line 2086, in draw
+    a.draw(renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 1050, in draw
+    ticks_to_draw = self._update_ticks(renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 937, in _update_ticks
+    tick_tups = [t for t in self.iter_ticks()]
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 882, in iter_ticks
+    majorTicks = self.get_major_ticks(len(majorLocs))
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 1213, in get_major_ticks
+    tick = self.majorTicks[i]
+IndexError: list index out of range
+63:  z1780744;;989
+@4.23446297646
+--------------
+sent line to AppWindow
+z1780744;;989
+
+datamode? True
+RefreshThread inited
+loopspeed0.124912023544
+newdat, 4.23452305794;1780744;;989
+
+loopspeed0.000134944915771
+RefreshThread running
+64:  z1831648;;990
+@4.28653812408
+--------------
+sent line to AppWindow
+z1831648;;990
+
+datamode? True
+newdat, 4.28656816483;1831648;;990
+
+calling RefreshDataDiplay, instance 26
+RefreshThread inited
+loopspeed0.0355529785156
+RefreshThread running
+65:  z1882560;;988
+@4.35879993439
+--------------
+sent line to AppWindow
+z1882560;;988
+
+datamode? True
+newdat, 4.36275100708;1882560;;988
+
+calling RefreshDataDiplay, instance 27
+RefreshThread inited
+loopspeed0.0474758148193
+RefreshThread running
+66:  z1933456;;987
+@4.44803905487
+--------------
+sent line to AppWindow
+z1933456;;987
+
+datamode? True
+newdat, 4.44887018204;1933456;;987
+
+calling RefreshDataDiplay, instance 28
+RefreshThread inited
+loopspeed0.0739681720734
+RefreshThread running
+67:  z1984360;;990
+@4.55767297745
+--------------
+sent line to AppWindow
+z1984360;;990
+
+datamode? True
+newdat, 4.55882716179;1984360;;990
+
+calling RefreshDataDiplay, instance 29
+68:  z2035264;;989
+@4.68010902405
+--------------
+sent line to AppWindow
+z2035264;;989
+
+datamode? True
+RefreshThread inited
+loopspeed0.119942903519
+RefreshThread running
+newdat, 4.68016004562;2035264;;989
+
+loopspeed0.000266075134277
+69:  z2086160;;989
+@4.74244403839
+--------------
+sent line to AppWindow
+z2086160;;989
+
+datamode? True
+newdat, 4.74246716499;2086160;;989
+
+calling RefreshDataDiplay, instance 30
+RefreshThread inited
+loopspeed0.0369141101837
+RefreshThread running
+70:  z2137064;;989
+@4.81572389603
+--------------
+sent line to AppWindow
+z2137064;;989
+
+newdat, 4.81576013565;2137064;;989
+
+datamode? True
+ calling RefreshDataDiplay, instance 31
+RefreshThread inited
+71:  z2187968;;987
+@4.96326708794
+--------------
+sent line to AppWindow
+z2187968;;987
+
+datamode? True
+loopspeed0.148243188858
+RefreshThread running
+newdat, 4.96335315704;2187968;;987
+
+loopspeed0.000296831130981
+72:  z2238872;;988
+@5.02223801613
+--------------
+sent line to AppWindow
+z2238872;;988
+
+datamode? True
+newdat, 5.02228403091;2238872;;988
+
+calling RefreshDataDiplay, instance 32
+RefreshThread inited
+loopspeed0.0322451591492
+RefreshThread running
+73:  z2289776;;991
+@5.10499501228
+--------------
+sent line to AppWindow
+z2289776;;991
+
+datamode? True
+newdat, 5.10600113869;2289776;;991
+
+calling RefreshDataDiplay, instance 33
+RefreshThread inited
+loopspeed0.0439279079437
+RefreshThread running
+74:  z2340680;;987
+@5.20644903183
+--------------
+sent line to AppWindow
+z2340680;;987
+
+datamode? True
+newdat, 5.20657801628;2340680;;987
+
+calling RefreshDataDiplay, instance 34
+RefreshThread inited
+loopspeed0.124279022217
+RefreshThread running
+75:  z2391584;;988
+@5.36316990852
+--------------
+sent line to AppWindow
+z2391584;;988
+
+datamode? True
+newdat, 5.3650701046;2391584;;988
+
+calling RefreshDataDiplay, instance 35
+76:  z2442480;;989
+@5.4798541069
+--------------
+sent line to AppWindow
+z2442480;;989
+
+datamode? True
+RefreshThread inited
+loopspeed0.125987052917
+newdat, 5.48843097687;2442480;;989
+
+loopspeed0.000180006027222
+RefreshThread running
+77:  z2493384;;987
+@5.55731606483
+--------------
+sent line to AppWindow
+z2493384;;987
+newdat, 5.55803203583;2493384;;987
+
+calling RefreshDataDiplay, instance 36
+
+datamode? True
+RefreshThread inited
+loopspeed0.0554859638214
+RefreshThread running
+78:  z2544288;;987
+@5.64983510971
+--------------
+sent line to AppWindow
+z2544288;;987
+
+datamode? True
+newdat, 5.65046715736;2544288;;987
+
+calling RefreshDataDiplay, instance 37
+RefreshThread inited
+loopspeed0.0685720443726
+RefreshThread running
+79:  z2595184;;989
+@5.73516511917
+--------------
+sent line to AppWindow
+z2595184;;989
+
+datamode? True
+ newdat, 5.73653411865;2595184;;989
+
+calling RefreshDataDiplay, instance 38
+80:  z2646088;;987
+@5.8827791214
+--------------
+sent line to AppWindow
+z2646088;;987
+
+datamode? True
+RefreshThread inited
+loopspeed0.146812915802
+RefreshThread running
+newdat, 5.88295912743;2646088;;987
+
+loopspeed0.00516486167908
+81:  z2696984;;988
+@5.94193291664
+--------------
+sent line to AppWindow
+z2696984;;988
+
+datamode? True
+newdat, 5.94195914268;2696984;;988
+
+calling RefreshDataDiplay, instance 39
+RefreshThread inited
+loopspeed0.0300250053406
+RefreshThread running
+82:  z2747888;;988
+@6.00582909584
+--------------
+sent line to AppWindow
+z2747888;;988
+
+newdat, 6.00586605072;2747888;;988
+datamode? True
+
+calling RefreshDataDiplay, instance 40
+RefreshThread inited
+loopspeed0.0370409488678
+RefreshThread running
+83:  z2798784;;989
+@6.07930111885
+--------------
+sent line to AppWindow
+z2798784;;989
+
+datamode? True
+newdat, 6.08388113976;2798784;;989
+
+calling RefreshDataDiplay, instance 41
+RefreshThread inited
+loopspeed0.049889087677
+RefreshThread running
+84:  z2849688;;989
+@6.1844599247
+--------------
+sent line to AppWindow
+z2849688;;989
+
+newdat, 6.18574404716;2849688;;989
+
+datamode? True
+ calling RefreshDataDiplay, instance 42
+RefreshThread inited
+loopspeed0.0557169914246
+RefreshThread running
+85:  z2900592;;987
+@6.27518796921
+--------------
+sent line to AppWindow
+z2900592;;987
+
+datamode? True
+newdat, 6.27528619766;2900592;;987
+
+calling RefreshDataDiplay, instance 43
+RefreshThread inited
+loopspeed0.118991136551
+RefreshThread running
+86:  z2951488;;989
+@6.40421891212
+--------------
+sent line to AppWindow
+z2951488;;989
+
+datamode? True
+newdat, 6.40425109863;2951488;;989
+
+loopspeed0.000378131866455
+87:  z3002392;;987
+@6.45468711853
+--------------
+sent line to AppWindow
+z3002392;;987
+
+datamode? True
+newdat, 6.45478200912;3002392;;987
+
+calling RefreshDataDiplay, instance 44
+RefreshThread inited
+loopspeed0.0390408039093
+RefreshThread running
+88:  z3053296;;987
+@6.55829191208
+--------------
+sent line to AppWindow
+z3053296;;987
+
+datamode? True
+newdat, 6.55844712257;3053296;;987
+
+calling RefreshDataDiplay, instance 45
+RefreshThread inited
+loopspeed0.0543658733368
+RefreshThread running
+89:  z3104200;;987
+@6.63370704651
+--------------
+sent line to AppWindow
+ newdat, 6.63395404816;3104200;;987
+z3104200;;987
+
+calling RefreshDataDiplay, instance 46
+
+datamode? True
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.canvas.draw()
+  File "/usr/lib/pymodules/python2.7/matplotlib/backends/backend_qt4agg.py", line 148, in draw
+    FigureCanvasAgg.draw(self)
+  File "/usr/lib/pymodules/python2.7/matplotlib/backends/backend_agg.py", line 440, in draw
+    self.figure.draw(self.renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/figure.py", line 1006, in draw
+    func(*args)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axes.py", line 2086, in draw
+    a.draw(renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 1050, in draw
+    ticks_to_draw = self._update_ticks(renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 937, in _update_ticks
+    tick_tups = [t for t in self.iter_ticks()]
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 882, in iter_ticks
+    majorTicks = self.get_major_ticks(len(majorLocs))
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 1213, in get_major_ticks
+    tick = self.majorTicks[i]
+IndexError: list index out of range
+RefreshThread inited
+loopspeed0.0899431705475
+ RefreshThread running
+90:  z3155096;;988
+@6.75444412231
+--------------
+sent line to AppWindow
+z3155096;;988
+
+datamode? True
+newdat, 6.75620913506;3155096;;988
+
+calling RefreshDataDiplay, instance 47
+91:  z3206000;;988
+@6.87855410576
+--------------
+RefreshThread inited
+ sent line to AppWindow
+z3206000;;988
+
+datamode? True
+RefreshThread runningloopspeed0.128930091858
+
+newdat, 6.88156318665;3206000;;988
+
+loopspeed0.000325918197632
+92:  z3256904;;988
+@6.93684506416
+--------------
+sent line to AppWindow
+z3256904;;988
+
+datamode? True
+newdat, 6.93690109253;3256904;;988
+
+calling RefreshDataDiplay, instance 48
+RefreshThread inited
+loopspeed0.0322091579437
+RefreshThread running
+93:  z3307800;;986
+@7.01122999191
+--------------
+sent line to AppWindow
+z3307800;;986
+
+datamode? True
+newdat, 7.0112760067;3307800;;986
+
+calling RefreshDataDiplay, instance 49
+RefreshThread inited
+loopspeed0.101816892624
+RefreshThread running
+94:  z3358704;;986
+@7.12996792793
+--------------
+sent line to AppWindow
+z3358704;;986
+
+datamode? True
+newdat, 7.13560414314;3358704;;986
+
+calling RefreshDataDiplay, instance 50
+RefreshThread inited
+RefreshThread running
+ loopspeed0.115056991577
+95:  z3409608;;987
+@7.25642299652
+--------------
+sent line to AppWindow
+z3409608;;987
+
+datamode? True
+newdat, 7.25653600693;3409608;;987
+
+loopspeed0.000345945358276
+96:  z3460512;;986
+@7.3129119873
+--------------
+sent line to AppWindow
+z3460512;;986
+
+datamode? True
+newdat, 7.3129401207;3460512;;986
+
+calling RefreshDataDiplay, instance 51
+RefreshThread inited
+loopspeed0.0300829410553
+RefreshThread running
+97:  z3511416;;988
+@7.39007997513
+--------------
+sent line to AppWindow
+z3511416;;988
+
+datamode? True
+ newdat, 7.39264917374;3511416;;988
+
+calling RefreshDataDiplay, instance 52
+RefreshThread inited
+loopspeed0.0604078769684
+RefreshThread running
+98:  z3562320;;988
+@7.46743607521
+--------------
+sent line to AppWindow
+z3562320;;988
+
+datamode? True
+newdat, 7.46902799606;3562320;;988
+
+calling RefreshDataDiplay, instance 53
+99:  z3613232;;988
+@7.59099006653
+--------------
+sent line to AppWindow
+ RefreshThread initedz3613232;;988
+
+datamode? True
+
+loopspeed0.129149913788
+RefreshThread running
+newdat, 7.59963011742;3613232;;988
+
+loopspeed0.000385046005249
+100:  z3664128;;987
+@7.64283800125
+--------------
+sent line to AppWindow
+z3664128;;987
+
+newdat, 7.6434981823;3664128;;987
+
+datamode? True
+calling RefreshDataDiplay, instance 54
+RefreshThread inited
+loopspeed0.0593900680542
+RefreshThread running
+101:  z3715032;;988
+@7.73629498482
+--------------
+sent line to AppWindow
+z3715032;;988
+
+newdat, 7.73632311821;3715032;;988
+
+datamode? True
+ calling RefreshDataDiplay, instance 55
+RefreshThread inited
+102:  z3765936;;988
+@7.85086894035
+--------------loopspeed0.11513209343
+
+sent line to AppWindow
+ RefreshThread runningz3765936;;988
+
+datamode? True
+
+ newdat, 7.85267019272;3765936;;988
+
+loopspeed0.00132989883423
+103:  z3816840;;986
+@7.91686892509
+--------------
+sent line to AppWindow
+z3816840;;986
+
+datamode? Truenewdat, 7.91692519188;3816840;;986
+
+
+calling RefreshDataDiplay, instance 56
+RefreshThread inited
+loopspeed0.0504660606384
+RefreshThread running
+104:  z3867744;;986
+@8.00703692436
+--------------
+sent line to AppWindow
+z3867744;;986
+
+datamode? True
+newdat, 8.00708699226;3867744;;986
+
+calling RefreshDataDiplay, instance 57
+RefreshThread inited
+loopspeed0.0976300239563
+RefreshThread running
+105:  z3918648;;986
+@8.11671495438
+--------------
+sent line to AppWindow
+z3918648;;986
+
+datamode? True
+newdat, 8.11958098412;3918648;;986
+
+calling RefreshDataDiplay, instance 58
+106:  z3969552;;986
+@8.25476503372
+--------------
+sent line to AppWindow
+z3969552;;986
+
+datamode? True
+RefreshThread inited
+loopspeed0.139308929443
+RefreshThread running
+newdat, 8.25589609146;3969552;;986
+
+loopspeed0.000195026397705
+107:  z4020448;;990
+@8.3027279377
+--------------
+sent line to AppWindow
+z4020448;;990
+
+newdat, 8.30440711975;4020448;;990
+
+calling RefreshDataDiplay, instance 59
+datamode? True
+RefreshThread inited
+loopspeed0.0457379817963RefreshThread running
+
+108:  z4071352;;988
+@8.39107108116
+--------------
+sent line to AppWindow
+z4071352;;988
+
+datamode? True
+newdat, 8.3942899704;4071352;;988
+
+calling RefreshDataDiplay, instance 60
+RefreshThread inited
+loopspeed0.0629379749298
+RefreshThread running
+109:  z4122256;;990
+@8.47668194771
+--------------
+sent line to AppWindownewdat, 8.47731018066;4122256;;990
+
+
+z4122256;;990
+calling RefreshDataDiplay, instance 61
+
+datamode? True
+RefreshThread inited
+loopspeed0.0893158912659
+RefreshThread running
+110:  z4173152;;988
+@8.56841802597
+--------------
+sent line to AppWindow
+z4173152;;988
+
+newdat, 8.56845903397;4173152;;988
+
+datamode? True
+loopspeed0.000231027603149
+111:  z4224056;;990
+@8.62460899353
+--------------
+sent line to AppWindow
+z4224056;;990
+
+datamode? True
+newdat, 8.62468314171;4224056;;990
+
+calling RefreshDataDiplay, instance 62
+RefreshThread inited
+loopspeed0.0429317951202
+RefreshThread running
+112:  z4274952;;987
+@8.695759058
+--------------
+sent line to AppWindow
+z4274952;;987
+
+datamode? True
+newdat, 8.69782114029;4274952;;987
+
+calling RefreshDataDiplay, instance 63
+RefreshThread inited
+loopspeed0.108485937119
+RefreshThread running
+113:  z4325856;;989
+@8.82667398453
+--------------
+sent line to AppWindow
+z4325856;;989
+newdat, 8.82672309875;4325856;;989
+
+
+datamode? True
+ calling RefreshDataDiplay, instance 64
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.canvas.draw()
+  File "/usr/lib/pymodules/python2.7/matplotlib/backends/backend_qt4agg.py", line 148, in draw
+    FigureCanvasAgg.draw(self)
+  File "/usr/lib/pymodules/python2.7/matplotlib/backends/backend_agg.py", line 440, in draw
+    self.figure.draw(self.renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/figure.py", line 1006, in draw
+    func(*args)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axes.py", line 2086, in draw
+    a.draw(renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 1050, in draw
+    ticks_to_draw = self._update_ticks(renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 937, in _update_ticks
+    tick_tups = [t for t in self.iter_ticks()]
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 882, in iter_ticks
+    majorTicks = self.get_major_ticks(len(majorLocs))
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 1213, in get_major_ticks
+    tick = self.majorTicks[i]
+IndexError: list index out of range
+RefreshThread inited
+loopspeed0.110211849213
+RefreshThread running
+114:  z4376752;;989
+@8.94654202461
+--------------
+sent line to AppWindow
+z4376752;;989
+
+datamode? True
+newdat, 8.94660615921;4376752;;989
+
+loopspeed0.000128984451294
+115:  z4427656;;987
+@9.00137996674
+--------------
+sent line to AppWindow
+z4427656;;987
+
+datamode? True
+newdat, 9.00255203247;4427656;;987
+
+calling RefreshDataDiplay, instance 65
+RefreshThread inited
+loopspeed0.0439138412476
+RefreshThread running
+116:  z4478560;;987
+@9.07301497459
+--------------
+sent line to AppWindow
+z4478560;;987
+
+datamode? True
+newdat, 9.07304310799;4478560;;987
+
+calling RefreshDataDiplay, instance 66
+Traceback (most recent call last):
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1270, in refreshThreaded
+    self.canvas.draw()
+  File "/usr/lib/pymodules/python2.7/matplotlib/backends/backend_qt4agg.py", line 148, in draw
+    FigureCanvasAgg.draw(self)
+  File "/usr/lib/pymodules/python2.7/matplotlib/backends/backend_agg.py", line 440, in draw
+    self.figure.draw(self.renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/figure.py", line 1006, in draw
+    func(*args)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axes.py", line 2086, in draw
+    a.draw(renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/artist.py", line 54, in draw_wrapper
+    draw(artist, renderer, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 1050, in draw
+    ticks_to_draw = self._update_ticks(renderer)
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 937, in _update_ticks
+    tick_tups = [t for t in self.iter_ticks()]
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 882, in iter_ticks
+    majorTicks = self.get_major_ticks(len(majorLocs))
+  File "/usr/lib/pymodules/python2.7/matplotlib/axis.py", line 1213, in get_major_ticks
+    tick = self.majorTicks[i]
+IndexError: list index out of range
+RefreshThread inited
+loopspeed0.0388298034668
+RefreshThread running
+117:  z4529464;;987
+@9.1188158989
+--------------
+sent line to AppWindow
+z4529464;;987
+
+datamode? True
+newdat, 9.11887001991;4529464;;987
+
+loopspeed0.00349187850952
+118:  z4580368;;988
+@9.17323207855
+--------------
+sent line to AppWindow
+z4580368;;988
+
+datamode? True
+newdat, 9.17326402664;4580368;;988
+
+calling RefreshDataDiplay, instance 67
+RefreshThread inited
+loopspeed0.0323240756989
+RefreshThread running
+119:  z4631272;;989
+@9.24278712273
+--------------
+sent line to AppWindow
+ newdat, 9.24608397484;4631272;;989
+
+z4631272;;989
+
+calling RefreshDataDiplay, instance 68
+datamode? True
+RefreshThread inited
+loopspeed0.0565240383148
+RefreshThread running
+120:  z4682176;;987
+@9.33585500717
+--------------
+sent line to AppWindow
+z4682176;;987
+
+datamode? True
+newdat, 9.33751702309;4682176;;987
+
+calling RefreshDataDiplay, instance 69
+121:  z4733072;;988
+@9.47255706787
+--------------
+sent line to AppWindow
+z4733072;;988
+
+datamode? True
+RefreshThread inited
+loopspeed0.134842157364
+RefreshThread running
+newdat, 9.47258996964;4733072;;988
+
+loopspeed0.00019907951355
+122:  z4783976;;988
+@9.53887009621
+--------------
+sent line to AppWindow
+z4783976;;988
+
+datamode? True
+newdat, 9.53890299797;4783976;;988
+
+calling RefreshDataDiplay, instance 70
+RefreshThread inited
+loopspeed0.0284390449524
+RefreshThread running
+123:  z4834880;;988
+@9.61123800278
+--------------
+sent line to AppWindownewdat, 9.61315798759;4834880;;988
+
+z4834880;;988
+
+
+calling RefreshDataDiplay, instance 71datamode? True
+
+RefreshThread inited
+loopspeed0.0594449043274
+RefreshThread running
+124:  z4885776;;987
+@9.72652196884
+--------------
+sent line to AppWindow
+z4885776;;987
+
+datamode? True
+newdat, 9.7268371582;4885776;;987
+
+calling RefreshDataDiplay, instance 72
+125:  z4936680;;988
+@9.86000800133
+--------------
+sent line to AppWindow
+z4936680;;988
+
+datamode? True
+RefreshThread inited
+loopspeed0.133536100388
+RefreshThread running
+newdat, 9.86007213593;4936680;;988
+
+loopspeed0.000351905822754
+126:  z4987584;;988
+@9.93237495422
+--------------
+sent line to AppWindow
+z4987584;;988
+
+datamode? True
+newdat, 9.93334698677;4987584;;988
+
+calling RefreshDataDiplay, instance 73
+RefreshThread inited
+loopspeed0.0421009063721
+RefreshThread running
+127:  z5038488;;989
+@10.0049610138
+--------------
+sent line to AppWindow
+z5038488;;989
+
+newdat, 10.005849123;5038488;;989
+
+datamode? True
+calling RefreshDataDiplay, instance 74
+read termed by Arduino with signal x
+final acquisition NParray
+[[  1.23662114e+00   2.16000000e-04   9.89000000e+02]
+ [  1.30749202e+00   5.10640000e-02   9.87000000e+02]
+ [  1.44295096e+00   1.01832000e-01   9.87000000e+02]
+ [  1.49110913e+00   1.52728000e-01   9.87000000e+02]
+ [  1.55794215e+00   2.03576000e-01   9.89000000e+02]
+ [  1.67453909e+00   2.54432000e-01   9.88000000e+02]
+ [  1.72543216e+00   3.05280000e-01   9.90000000e+02]
+ [  1.79157519e+00   3.56128000e-01   9.87000000e+02]
+ [  1.84597206e+00   4.06984000e-01   9.87000000e+02]
+ [  1.92112303e+00   4.57832000e-01   9.88000000e+02]
+ [  2.03323102e+00   5.08680000e-01   9.87000000e+02]
+ [  2.07619619e+00   5.59536000e-01   9.89000000e+02]
+ [  2.14906216e+00   6.10392000e-01   9.87000000e+02]
+ [  2.31246901e+00   6.61248000e-01   9.89000000e+02]
+ [  2.37336898e+00   7.12096000e-01   9.88000000e+02]
+ [  2.45232511e+00   7.62944000e-01   9.90000000e+02]
+ [  2.54561400e+00   8.13800000e-01   9.89000000e+02]
+ [  2.67351699e+00   8.64656000e-01   9.86000000e+02]
+ [  2.75706601e+00   9.15504000e-01   9.87000000e+02]
+ [  2.84055018e+00   9.66360000e-01   9.86000000e+02]
+ [  2.97642708e+00   1.01720800e+00   9.89000000e+02]
+ [  3.03300810e+00   1.06812800e+00   9.87000000e+02]
+ [  3.11809111e+00   1.11902400e+00   9.88000000e+02]
+ [  3.24505210e+00   1.16992800e+00   9.88000000e+02]
+ [  3.33114004e+00   1.22082400e+00   9.87000000e+02]
+ [  3.37468100e+00   1.27172800e+00   9.88000000e+02]
+ [  3.44862199e+00   1.32263200e+00   9.88000000e+02]
+ [  3.52891707e+00   1.37352800e+00   9.88000000e+02]
+ [  3.63671398e+00   1.42443200e+00   9.85000000e+02]
+ [  3.68007112e+00   1.47533600e+00   9.88000000e+02]
+ [  3.77097297e+00   1.52624000e+00   9.87000000e+02]
+ [  3.85132718e+00   1.57713600e+00   9.85000000e+02]
+ [  3.98579597e+00   1.62804000e+00   9.86000000e+02]
+ [  4.03421402e+00   1.67894400e+00   9.89000000e+02]
+ [  4.10828710e+00   1.72984000e+00   9.90000000e+02]
+ [  4.23452306e+00   1.78074400e+00   9.89000000e+02]
+ [  4.28656816e+00   1.83164800e+00   9.90000000e+02]
+ [  4.36275101e+00   1.88256000e+00   9.88000000e+02]
+ [  4.44887018e+00   1.93345600e+00   9.87000000e+02]
+ [  4.55882716e+00   1.98436000e+00   9.90000000e+02]
+ [  4.68016005e+00   2.03526400e+00   9.89000000e+02]
+ [  4.74246716e+00   2.08616000e+00   9.89000000e+02]
+ [  4.81576014e+00   2.13706400e+00   9.89000000e+02]
+ [  4.96335316e+00   2.18796800e+00   9.87000000e+02]
+ [  5.02228403e+00   2.23887200e+00   9.88000000e+02]
+ [  5.10600114e+00   2.28977600e+00   9.91000000e+02]
+ [  5.20657802e+00   2.34068000e+00   9.87000000e+02]
+ [  5.36507010e+00   2.39158400e+00   9.88000000e+02]
+ [  5.48843098e+00   2.44248000e+00   9.89000000e+02]
+ [  5.55803204e+00   2.49338400e+00   9.87000000e+02]
+ [  5.65046716e+00   2.54428800e+00   9.87000000e+02]
+ [  5.73653412e+00   2.59518400e+00   9.89000000e+02]
+ [  5.88295913e+00   2.64608800e+00   9.87000000e+02]
+ [  5.94195914e+00   2.69698400e+00   9.88000000e+02]
+ [  6.00586605e+00   2.74788800e+00   9.88000000e+02]
+ [  6.08388114e+00   2.79878400e+00   9.89000000e+02]
+ [  6.18574405e+00   2.84968800e+00   9.89000000e+02]
+ [  6.27528620e+00   2.90059200e+00   9.87000000e+02]
+ [  6.40425110e+00   2.95148800e+00   9.89000000e+02]
+ [  6.45478201e+00   3.00239200e+00   9.87000000e+02]
+ [  6.55844712e+00   3.05329600e+00   9.87000000e+02]
+ [  6.63395405e+00   3.10420000e+00   9.87000000e+02]
+ [  6.75620914e+00   3.15509600e+00   9.88000000e+02]
+ [  6.88156319e+00   3.20600000e+00   9.88000000e+02]
+ [  6.93690109e+00   3.25690400e+00   9.88000000e+02]
+ [  7.01127601e+00   3.30780000e+00   9.86000000e+02]
+ [  7.13560414e+00   3.35870400e+00   9.86000000e+02]
+ [  7.25653601e+00   3.40960800e+00   9.87000000e+02]
+ [  7.31294012e+00   3.46051200e+00   9.86000000e+02]
+ [  7.39264917e+00   3.51141600e+00   9.88000000e+02]
+ [  7.46902800e+00   3.56232000e+00   9.88000000e+02]
+ [  7.59963012e+00   3.61323200e+00   9.88000000e+02]
+ [  7.64349818e+00   3.66412800e+00   9.87000000e+02]
+ [  7.73632312e+00   3.71503200e+00   9.88000000e+02]
+ [  7.85267019e+00   3.76593600e+00   9.88000000e+02]
+ [  7.91692519e+00   3.81684000e+00   9.86000000e+02]
+ [  8.00708699e+00   3.86774400e+00   9.86000000e+02]
+ [  8.11958098e+00   3.91864800e+00   9.86000000e+02]
+ [  8.25589609e+00   3.96955200e+00   9.86000000e+02]
+ [  8.30440712e+00   4.02044800e+00   9.90000000e+02]
+ [  8.39428997e+00   4.07135200e+00   9.88000000e+02]
+ [  8.47731018e+00   4.12225600e+00   9.90000000e+02]
+ [  8.56845903e+00   4.17315200e+00   9.88000000e+02]
+ [  8.62468314e+00   4.22405600e+00   9.90000000e+02]
+ [  8.69782114e+00   4.27495200e+00   9.87000000e+02]
+ [  8.82672310e+00   4.32585600e+00   9.89000000e+02]
+ [  8.94660616e+00   4.37675200e+00   9.89000000e+02]
+ [  9.00255203e+00   4.42765600e+00   9.87000000e+02]
+ [  9.07304311e+00   4.47856000e+00   9.87000000e+02]
+ [  9.11887002e+00   4.52946400e+00   9.87000000e+02]
+ [  9.17326403e+00   4.58036800e+00   9.88000000e+02]
+ [  9.24608397e+00   4.63127200e+00   9.89000000e+02]
+ [  9.33751702e+00   4.68217600e+00   9.87000000e+02]
+ [  9.47258997e+00   4.73307200e+00   9.88000000e+02]
+ [  9.53890300e+00   4.78397600e+00   9.88000000e+02]
+ [  9.61315799e+00   4.83488000e+00   9.88000000e+02]
+ [  9.72683716e+00   4.88577600e+00   9.87000000e+02]
+ [  9.86007214e+00   4.93668000e+00   9.88000000e+02]
+ [  9.93334699e+00   4.98758400e+00   9.88000000e+02]
+ [  1.00058491e+01   5.03848800e+00   9.89000000e+02]]
+RefreshThread inited
+loopspeed0.195412158966
+RefreshThread running
+ abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+ColorThread running
+connindex= 3
+acqindex= 4
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['b']
+initiating connKill
+active connection found
+abstractbutton clicked, UpdateColors pyqtSlot
+qputthread killed by last connstatus= b
+ColorThread inited
+connKill routine complete
+ColorThread running
+connindex= 4
+acqindex= 4
+finished updateColorsThreaded
+self.connStatuses: 
+['b']
+self.acqStatuses: 
+['b']
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')
+('you pressed', u'g')

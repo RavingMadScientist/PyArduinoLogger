@@ -1,0 +1,1707 @@
+hello
+ACObject initialized
+checking legality of connPing call: 
+dev file: 
+/dev/ttyACM0
+initiating ping
+qgetthread initiated
+QueueScanner stalemax: 0.01
+qputthread initiated
+connFunc initiated
+connFunc returned object !=-1: 
+Serial<id=0x2f3de10, open=True>(port='/dev/ttyACM0', baudrate=115200, bytesize=8, parity='N', stopbits=1, timeout=30, xonxoff=False, rtscts=False, dsrdtr=False)
+ abstractbutton clicked, UpdateColors pyqtSlot
+<class 'serial.serialposix.Serial'>
+ColorThread inited
+serconn.inWaiting !=Empty. Connected to Arduino
+msg type
+<type 'str'>
+length=4
+0: a
+1: 0
+2: abstractbutton clicked, UpdateColors pyqtSlot
+
+3: 
+
+over
+firstMsg
+a0
+
+a0
+
+'a0\r\n'
+sending 'p' to Arduino: try #
+1
+ColorThread running
+ColorThread inited
+connindex= 2
+ColorThread running
+ acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['y']
+self.acqStatuses: 
+['r']
+connindex= 2
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['y']
+self.acqStatuses: 
+['r']
+nonread
+100
+nonread
+200
+nonread
+300
+sr=0
+sr=1
+sr=2
+sr=3
+sent line to AppWindow
+['a', '0', '\r', '\n']
+datamode? False
+newstr, 1.65427494049	['a', '0', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+1	1.65427494049	['a', '0', '\r', '\n']
+nonread
+400
+nonread
+500
+nonread
+600
+sr=4
+sr=5
+sr=6
+sr=7
+sreads = 8
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+++++++++
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+datamode? False
+newstr, 2.65832686424	['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+2	2.65832686424	['a', '0', '\r', '\n', 'a', '1', '\r', '\n']
+nonread
+700
+nonread
+800
+sr=8
+sr=9
+sr=10
+sr=11
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+datamode? False
+newstr, 3.65320682526	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+3	3.65320682526	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n']
+nonread
+900
+nonread
+1000
+nonread
+1100
+sr=12
+sr=13
+sr=14
+sr=15
+sreads = 16
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+++++++++
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+datamode? False
+newstr, 4.65562796593	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+4	4.65562796593	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n']
+nonread
+1200
+nonread
+1300
+sr=16
+sr=17
+sr=18
+sr=19
+sent line to AppWindow
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+datamode? False
+newstr, 5.65483188629	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+5	5.65483188629	['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n']
+nonread
+1400
+nonread
+1500
+sr=20
+final blankstring
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n', 'a']
+final sreads
+21
++++++
+sending 'p' to Arduino: try #
+2
+sr=0
+sr=1
+sr=2
+sent line to AppWindow
+['a', '0', '\r']
+datamode? False
+newstr, 6.67584991455	['a', '0', '\r']
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+6	6.67584991455	['a', '0', '\r']
+nonread
+100
+nonread
+200
+sr=3
+charstart found! at 4
+sent line to AppWindow
+ abstractbutton clicked, UpdateColors pyqtSlot
+r
+datamode? False
+final blankstring
+['a', '0', '\r', '\n', 'a', '1', '\r', '\n', 'a', '2', '\r', '\n', 'a', '3', '\r', '\n', 'a', '4', '\r', '\n', 'a', '5', '\r', '\n', 'r']
+final sreads
+4
++++++
+Entering ReadSomeVals loop
+newstr, 7.65322589874	r
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+ColorThread running
+updateConsole called, msg=: 
+7	7.65322589874	r
+connindex= 3
+acqindex= 0
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['r']
+0:  p
+@1.01077699661
+--------------
+sent line to AppWindow
+p
+
+datamode? False
+newstr, 8.66441583633	p
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+8	8.66441583633	p
+
+1:  comst
+@1.04035902023
+--------------
+sent line to AppWindow
+comst
+
+datamode? False
+newstr, 8.6940009594	comst
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+9	8.6940009594	comst
+
+2:  -1
+@1.05731606483
+--------------
+sent line to AppWindow
+-1
+
+datamode? False
+newstr, 8.71096277237	-1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+10	8.71096277237	-1
+
+3:  l
+@1.07014894485
+--------------
+sent line to AppWindow
+l
+
+datamode? False
+newstr, 8.72378587723	l
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+11	8.72378587723	l
+
+4:  t0
+@1.08724498749
+--------------
+sent line to AppWindow
+t0
+
+datamode? False
+newstr, 8.74087977409	t0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+12	8.74087977409	t0
+
+5:  t1
+@1.10437512398
+--------------
+sent line to AppWindow
+t1
+
+datamode? False
+newstr, 8.75801491737	t1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+13	8.75801491737	t1
+
+6:  t2
+@1.12174105644
+--------------
+sent line to AppWindow
+t2
+
+datamode? False
+newstr, 8.77535390854	t2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+14	8.77535390854	t2
+
+7:  t3
+@1.13833403587
+--------------
+sent line to AppWindow
+t3
+
+datamode? False
+newstr, 8.79194784164	t3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+15	8.79194784164	t3
+
+8:  t4
+@1.1558110714
+--------------
+sent line to AppWindow
+t4
+
+datamode? False
+newstr, 8.80945086479	t4
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+16	8.80945086479	t4
+
+read termed by Arduino with signal x
+self.qputthread reports ACGUILib connFunc returned
+checking legality of AcqRequest call
+AcqRequest legally initiated
+Acq-requestString to Arduino:
+b40,s,1.0E2r,g
+abstractbutton clicked, UpdateColors pyqtSlot
+qputthread catches an AcqRequest
+b40,s,1.0E2r,g
+ACGuiLib.reqAcq data called, sending reqString to Arduino
+Entering ReadSomeVals loop
+0:  
+@0.00441288948059
+--------------
+sent line to AppWindow
+
+
+datamode? False
+newstr, 35.7479319572	
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+ColorThread running
+updateConsole called, msg=: 
+17	35.7479319572	
+
+connindex= 3
+acqindex= 1
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['o']
+1:  b40,s,1.0E2r,g
+@1.07532191277
+--------------
+sent line to AppWindow
+b40,s,1.0E2r,g
+
+datamode? False
+abstractbutton clicked, UpdateColors pyqtSlot
+newstr, 36.8189117908	b40,s,1.0E2r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+ColorThread inited
+updateConsole called, msg=: 
+18	36.8189117908	b40,s,1.0E2r,g
+
+ColorThread running
+connindex= 3
+acqindex= 2
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['y']
+2:  comst
+@1.10534787178
+--------------
+sent line to AppWindow
+comst
+
+datamode? False
+newstr, 36.8488738537	comst
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+19	36.8488738537	comst
+
+3:  3
+@1.11832404137
+--------------
+sent line to AppWindow
+3
+
+datamode? False
+newstr, 36.8618359566	3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+20	36.8618359566	3
+
+4:  b
+@1.13115692139
+--------------
+sent line to AppWindow
+b
+
+datamode? False
+newstr, 36.8746688366	b
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+21	36.8746688366	b
+
+5:  iter
+@1.15635704994
+--------------
+sent line to AppWindow
+iter
+
+datamode? False
+newstr, 36.899864912	iter
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+22	36.899864912	iter
+
+6:  0
+@1.16918802261
+--------------
+sent line to AppWindow
+0
+
+datamode? False
+newstr, 36.9127018452	0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+23	36.9127018452	0
+
+7:  inString
+@1.21152186394
+--------------
+sent line to AppWindow
+inString
+
+datamode? False
+newstr, 36.9550328255	inString
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+24	36.9550328255	inString
+
+8:  b40,s,1.0E2r,g
+@1.28026890755
+--------------
+sent line to AppWindow
+b40,s,1.0E2r,g
+
+datamode? False
+newstr, 37.0237858295	b40,s,1.0E2r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+25	37.0237858295	b40,s,1.0E2r,g
+
+9:  comloc
+@1.3154938221
+--------------
+sent line to AppWindow
+comloc
+
+datamode? False
+newstr, 37.0590097904	comloc
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+26	37.0590097904	comloc
+
+10:  3
+@1.32884192467
+--------------
+sent line to AppWindow
+3
+
+datamode? False
+newstr, 37.072371006	3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+27	37.072371006	3
+
+11:  news
+@1.35460495949
+--------------
+sent line to AppWindow
+news
+
+datamode? False
+newstr, 37.0981178284	news
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+28	37.0981178284	news
+
+12:  s,1.0E2r,g
+@1.40603899956
+--------------
+sent line to AppWindow
+s,1.0E2r,g
+
+datamode? False
+newstr, 37.1495587826	s,1.0E2r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+29	37.1495587826	s,1.0E2r,g
+
+13:  iter
+@1.43204092979
+--------------
+sent line to AppWindow
+iter
+
+datamode? False
+newstr, 37.1755588055	iter
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+30	37.1755588055	iter
+
+14:  1
+@1.44482898712
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 37.1883478165	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+31	37.1883478165	1
+
+15:  inString
+@1.48736691475
+--------------
+sent line to AppWindow
+inString
+
+datamode? False
+newstr, 37.2308828831	inString
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+32	37.2308828831	inString
+
+16:  s,1.0E2r,g
+@1.53826594353
+--------------
+sent line to AppWindow
+s,1.0E2r,g
+
+datamode? False
+newstr, 37.2817819118	s,1.0E2r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+33	37.2817819118	s,1.0E2r,g
+
+17:  comloc
+@1.57219099998
+--------------
+sent line to AppWindow
+comloc
+
+datamode? False
+newstr, 37.3157088757	comloc
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+34	37.3157088757	comloc
+
+18:  1
+@1.58501195908
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 37.3285257816	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+35	37.3285257816	1
+
+19:  news
+@1.61047291756
+--------------
+sent line to AppWindow
+news
+
+datamode? False
+newstr, 37.3539879322	news
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+36	37.3539879322	news
+
+20:  1.0E2r,g
+@1.65310502052
+--------------
+sent line to AppWindow
+1.0E2r,g
+
+datamode? False
+newstr, 37.3966219425	1.0E2r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+37	37.3966219425	1.0E2r,g
+
+21:  iter
+@1.67873692513
+--------------
+sent line to AppWindow
+iter
+
+datamode? False
+newstr, 37.4222559929	iter
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+38	37.4222559929	iter
+
+22:  2
+@1.69165492058
+--------------
+sent line to AppWindow
+2
+
+datamode? False
+newstr, 37.4351758957	2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+39	37.4351758957	2
+
+23:  inString
+@1.73444199562
+--------------
+sent line to AppWindow
+inString
+
+datamode? False
+newstr, 37.4779567719	inString
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+40	37.4779567719	inString
+
+24:  1.0E2r,g
+@1.77687597275
+--------------
+sent line to AppWindow
+1.0E2r,g
+
+datamode? False
+newstr, 37.5203909874	1.0E2r,g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+41	37.5203909874	1.0E2r,g
+
+25:  comloc
+@1.81087803841
+--------------
+sent line to AppWindow
+comloc
+
+datamode? False
+newstr, 37.554391861	comloc
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+42	37.554391861	comloc
+
+26:  6
+@1.82374596596
+--------------
+sent line to AppWindow
+6
+
+datamode? False
+newstr, 37.5672698021	6
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+43	37.5672698021	6
+
+27:  news
+@1.85012698174
+--------------
+sent line to AppWindow
+news
+
+datamode? False
+newstr, 37.5936398506	news
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+44	37.5936398506	news
+
+28:  g
+@1.86299681664
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 37.6065099239	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+45	37.6065099239	g
+
+29:  iter
+@1.88870787621
+--------------
+sent line to AppWindow
+iter
+
+datamode? False
+newstr, 37.632283926	iter
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+46	37.632283926	iter
+
+30:  3
+@1.9017469883
+--------------
+sent line to AppWindow
+3
+
+datamode? False
+newstr, 37.6452739239	3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+47	37.6452739239	3
+
+31:  inString
+@1.94446182251
+--------------
+sent line to AppWindow
+inString
+
+datamode? False
+newstr, 37.6879768372	inString
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+48	37.6879768372	inString
+
+32:  g
+@1.95742082596
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 37.7009348869	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+49	37.7009348869	g
+
+33:  comloc
+@1.99150896072
+--------------
+sent line to AppWindow
+comloc
+
+datamode? False
+newstr, 37.7350239754	comloc
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+50	37.7350239754	comloc
+
+34:  -1
+@2.00859594345
+--------------
+sent line to AppWindow
+-1
+
+datamode? False
+newstr, 37.7521109581	-1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+51	37.7521109581	-1
+
+35:  news
+@2.03456091881
+--------------
+sent line to AppWindow
+news
+
+datamode? False
+newstr, 37.778085947	news
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+52	37.778085947	news
+
+36:  g
+@2.04789996147
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 37.7914149761	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+53	37.7914149761	g
+
+37:  u0
+@2.06518602371
+--------------
+sent line to AppWindow
+u0
+
+datamode? False
+newstr, 37.8087809086	u0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+54	37.8087809086	u0
+
+38:  b40
+@2.08694601059
+--------------
+sent line to AppWindow
+b40
+
+datamode? False
+newstr, 37.8304548264	b40
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+55	37.8304548264	b40
+
+39:  u1
+@2.10405898094
+--------------
+sent line to AppWindow
+u1
+
+datamode? False
+newstr, 37.8475689888	u1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+56	37.8475689888	u1
+
+40:  s
+@2.11666584015
+--------------
+sent line to AppWindow
+s
+
+datamode? False
+newstr, 37.8601748943	s
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+57	37.8601748943	s
+
+41:  u2
+@2.13410186768
+--------------
+sent line to AppWindow
+u2
+
+datamode? False
+newstr, 37.877614975	u2
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+58	37.877614975	u2
+
+42:  1.0E2r
+@2.16863298416
+--------------
+sent line to AppWindow
+1.0E2r
+
+datamode? False
+newstr, 37.9121530056	1.0E2r
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+59	37.9121530056	1.0E2r
+
+43:  u3
+@2.18598294258
+--------------
+sent line to AppWindow
+u3
+
+datamode? False
+newstr, 37.9294998646	u3
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+60	37.9294998646	u3
+
+44:  g
+@2.19912695885
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 37.9426469803	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+61	37.9426469803	g
+
+45:  burstmode
+@2.24631786346
+--------------
+sent line to AppWindow
+burstmode
+
+datamode? False
+newstr, 37.9898359776	burstmode
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+62	37.9898359776	burstmode
+
+46:  1
+@2.259308815
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 38.0028347969	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+63	38.0028347969	1
+
+47:  burstnum
+@2.30163502693
+--------------
+sent line to AppWindow
+burstnum
+
+datamode? False
+newstr, 38.0451478958	burstnum
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+64	38.0451478958	burstnum
+
+48:  40
+@2.31847500801
+--------------
+sent line to AppWindow
+40
+
+datamode? False
+newstr, 38.0619847775	40
+
+init Qthread to updException in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 808, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 761, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 750, in QueueScanner
+    self.RefreshDataDisplay()
+  File "/home/legitz3/pyreal/SpectrumImporter/basicembed.py", line 1219, in RefreshDataDisplay
+    print 'ylist cols = ' + str(ylist)
+NameError: global name 'ylist' is not defined
+
+ate lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+65	38.0619847775	40
+
+49:  sendclock
+@2.36526203156
+--------------
+sent line to AppWindow
+sendclock
+
+datamode? False
+newstr, 38.1087758541	sendclock
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+66	38.1087758541	sendclock
+
+50:  1
+@2.37846398354
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 38.1220018864	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+67	38.1220018864	1
+
+51:  ratebool
+@2.42091798782
+--------------
+sent line to AppWindow
+ratebool
+
+datamode? False
+newstr, 38.1644279957	ratebool
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+68	38.1644279957	ratebool
+
+52:  1
+@2.43357396126
+--------------
+sent line to AppWindow
+1
+
+datamode? False
+newstr, 38.17710495	1
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+69	38.17710495	1
+
+53:  ratems
+@2.46758103371
+--------------
+sent line to AppWindow
+ratems
+
+datamode? False
+newstr, 38.2110929489	ratems
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+70	38.2110929489	ratems
+
+54:  100.000 
+@2.50994491577
+--------------
+sent line to AppWindow
+100.000 
+
+datamode? False
+newstr, 38.2534549236	100.000 
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+71	38.2534549236	100.000 
+
+55:  delbool
+@2.54817390442
+--------------
+sent line to AppWindow
+delbool
+
+datamode? False
+newstr, 38.2916917801	delbool
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+72	38.2916917801	delbool
+
+56:  0
+@2.5609588623
+--------------
+sent line to AppWindow
+0
+
+datamode? False
+newstr, 38.3044707775	0
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+73	38.3044707775	0
+
+57:  delms
+@2.59056782722
+--------------
+sent line to AppWindow
+delms
+
+datamode? False
+newstr, 38.3340818882	delms
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+74	38.3340818882	delms
+
+58:  0.000 l 
+@2.63269686699
+--------------
+sent line to AppWindow
+0.000 l 
+
+datamode? False
+newstr, 38.376254797	0.000 l 
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+75	38.376254797	0.000 l 
+
+59:  gostring
+@2.6750998497
+--------------
+sent line to AppWindow
+gostring
+
+datamode? False
+newstr, 38.4186167717	gostring
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+76	38.4186167717	gostring
+
+60:  g
+@2.68787097931
+--------------
+sent line to AppWindow
+g
+
+datamode? False
+newstr, 38.4313848019	g
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+77	38.4313848019	g
+
+61:  y
+@2.70068097115
+--------------
+y found! acqGreened->True
+sent line to AppWindow
+y
+
+datamode? False
+newstr, 38.4442708492	y
+
+init Qthread to update lTextBox
+UpdateThread inited
+UpdateThread running
+UpdateThread outmode l
+updateConsole called, msg=: 
+78	38.4442708492	y
+
+62:  z216;;987
+@2.74763798714
+--------------
+sent line to AppWindow
+z216;;987
+
+datamode? True
+newdat, 2.74769711494;216;;987
+
+calling RefreshDataDiplay, instance 1
+Refresh Data Display called by QueueScanner
+nprows
+1
+dispedrows
+0
+newrows
+1
+finished self.axes.replot:
+63:  z100064;;987
+@2.82771801949
+--------------
+sent line to AppWindow
+z100064;;987
+
+datamode? True
+64:  z199960;;987
+@2.88772296906
+--------------
+sent line to AppWindow
+z199960;;987
+
+datamode? True
+65:  z299808;;987
+@2.9475209713
+--------------
+sent line to AppWindow
+z299808;;987
+
+datamode? True
+66:  z399664;;988
+@3.00768899918
+--------------
+sent line to AppWindow
+z399664;;988
+
+datamode? True
+67:  z499520;;987
+@3.06752085686
+--------------
+sent line to AppWindow
+z499520;;987
+
+datamode? True
+68:  z599368;;988
+@3.12766599655
+--------------
+sent line to AppWindow
+z599368;;988
+
+datamode? True
+69:  z699224;;987
+@3.18785691261
+--------------
+sent line to AppWindow
+z699224;;987
+
+datamode? True
+70:  z799072;;989
+@3.24758291245
+--------------
+sent line to AppWindow
+z799072;;989
+
+datamode? True
+71:  z898928;;989
+@3.30753087997
+--------------
+sent line to AppWindow
+z898928;;989
+
+datamode? True
+72:  z998784;;988
+@3.36746382713
+--------------
+sent line to AppWindow
+z998784;;988
+
+datamode? True
+73:  z1098640;;988
+@3.43179583549
+--------------
+sent line to AppWindow
+z1098640;;988
+
+datamode? True
+74:  z1198560;;988
+@3.49569797516
+--------------
+sent line to AppWindow
+z1198560;;988
+
+datamode? True
+75:  z1298464;;987
+@3.55984282494
+--------------
+sent line to AppWindow
+z1298464;;987
+
+datamode? True
+76:  z1398368;;987
+@3.62436890602
+--------------
+sent line to AppWindow
+z1398368;;987
+
+datamode? True
+77:  z1498264;;990
+@3.68851494789
+--------------
+sent line to AppWindow
+z1498264;;990
+
+datamode? True
+78:  z1598168;;986
+@3.75285983086
+--------------
+sent line to AppWindow
+z1598168;;986
+
+datamode? True
+79:  z1698064;;987
+@3.81727695465
+--------------
+sent line to AppWindow
+z1698064;;987
+
+datamode? True
+80:  z1797960;;990
+@3.88142085075
+--------------
+sent line to AppWindow
+z1797960;;990
+
+datamode? True
+81:  z1897864;;987
+@3.94597887993
+--------------
+sent line to AppWindow
+z1897864;;987
+
+datamode? True
+82:  z1997768;;987
+@4.00983500481
+--------------
+sent line to AppWindow
+z1997768;;987
+
+datamode? True
+83:  z2097672;;987
+@4.07429504395
+--------------
+sent line to AppWindow
+z2097672;;987
+
+datamode? True
+84:  z2197568;;990
+@4.13784694672
+--------------
+sent line to AppWindow
+z2197568;;990
+
+datamode? True
+85:  z2297472;;986
+@4.20137381554
+--------------
+sent line to AppWindow
+z2297472;;986
+
+datamode? True
+86:  z2397368;;987
+@4.26551890373
+--------------
+sent line to AppWindow
+z2397368;;987
+
+datamode? True
+87:  z2497272;;988
+@4.32980799675
+--------------
+sent line to AppWindow
+z2497272;;988
+
+datamode? True
+88:  z2597176;;987
+@4.39401888847
+--------------
+sent line to AppWindow
+z2597176;;987
+
+datamode? True
+89:  z2697080;;987
+@4.4576280117
+--------------
+sent line to AppWindow
+z2697080;;987
+
+datamode? True
+90:  z2796984;;987
+@4.52148294449
+--------------
+sent line to AppWindow
+z2796984;;987
+
+datamode? True
+91:  z2896888;;985
+@4.58601689339
+--------------
+sent line to AppWindow
+z2896888;;985
+
+datamode? True
+92:  z2996792;;988
+@4.65042090416
+--------------
+sent line to AppWindow
+z2996792;;988
+
+datamode? True
+93:  z3096688;;989
+@4.7146589756
+--------------
+sent line to AppWindow
+z3096688;;989
+
+datamode? True
+94:  z3196592;;989
+@4.77904891968
+--------------
+sent line to AppWindow
+z3196592;;989
+
+datamode? True
+95:  z3296496;;987
+@4.84321784973
+--------------
+sent line to AppWindow
+z3296496;;987
+
+datamode? True
+96:  z3396392;;988
+@4.90676093102
+--------------
+sent line to AppWindow
+z3396392;;988
+
+datamode? True
+97:  z3496296;;990
+@4.97105789185
+--------------
+sent line to AppWindow
+z3496296;;990
+
+datamode? True
+98:  z3596200;;985
+@5.0352678299
+--------------
+sent line to AppWindow
+z3596200;;985
+
+datamode? True
+99:  z3696104;;988
+@5.09945297241
+--------------
+sent line to AppWindow
+z3696104;;988
+
+datamode? True
+100:  z3796008;;990
+@5.16336297989
+--------------
+sent line to AppWindow
+z3796008;;990
+
+datamode? True
+101:  z3895920;;987
+@5.22776389122
+--------------
+sent line to AppWindow
+z3895920;;987
+
+datamode? True
+read termed by Arduino with signal x
+final acquisition NParray
+[[  2.74769711e+00   2.16000000e-04   9.87000000e+02]]
+abstractbutton clicked, UpdateColors pyqtSlot
+ColorThread inited
+ColorThread running
+connindex= 3
+acqindex= 4
+finished updateColorsThreaded
+self.connStatuses: 
+['g']
+self.acqStatuses: 
+['b']
+initiating connKill
+active connection found
+abstractbutton clicked, UpdateColors pyqtSlot
+qputthread killed by last connstatus= b
+ColorThread inited
+connKill routine complete
+ColorThread running
+connindex= 4
+acqindex= 4
+finished updateColorsThreaded
+self.connStatuses: 
+['b']
+self.acqStatuses: 
+['b']
